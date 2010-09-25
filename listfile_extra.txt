@@ -1,0 +1,7 @@
+war3map.w3a
+war3map.w3b
+war3map.w3d
+war3map.w3h
+war3map.w3q
+war3map.w3t
+war3map.w3u

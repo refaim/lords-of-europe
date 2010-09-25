@@ -1,0 +1,1 @@
+soft\PJASS.EXE soft\common.j soft\Blizzard.j data\war3map.j

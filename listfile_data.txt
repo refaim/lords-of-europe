@@ -1,0 +1,80 @@
+ReplaceableTextures\CommandButtons\BTNACaptain.blp
+ReplaceableTextures\CommandButtons\BTNAnimalWarTraining2.blp
+ReplaceableTextures\CommandButtons\BTNAnimalWarTraining3.blp
+ReplaceableTextures\CommandButtons\BTNBloodelfPhoenixArcher.blp
+ReplaceableTextures\CommandButtons\BTNCR_EVL_HoldGround_Action.blp
+ReplaceableTextures\CommandButtons\BTNDiag1Wall.blp
+ReplaceableTextures\CommandButtons\BTNDiag2Wall.blp
+ReplaceableTextures\CommandButtons\BTNHD_Attack.blp
+ReplaceableTextures\CommandButtons\BTNHD_Hold_Position.blp
+ReplaceableTextures\CommandButtons\BTNHD_Move_A.blp
+ReplaceableTextures\CommandButtons\BTNHD_Stop_A.blp
+ReplaceableTextures\CommandButtons\BTNHorWall.blp
+ReplaceableTextures\CommandButtons\BTNLeetTraining.blp
+ReplaceableTextures\CommandButtons\BTNSword4.blp
+ReplaceableTextures\CommandButtons\BTNSword5.blp
+ReplaceableTextures\CommandButtons\BTNTrebuchet.blp
+ReplaceableTextures\CommandButtons\BTNVerWall.blp
+ReplaceableTextures\CommandButtons\PASCR_EVL_HoldGround_Action.blp
+ReplaceableTextures\CommandButtonsDisabled\DISBTNACaptain.blp
+ReplaceableTextures\CommandButtonsDisabled\DISBTNAnimalWarTraining2.blp
+ReplaceableTextures\CommandButtonsDisabled\DISBTNAnimalWarTraining3.blp
+ReplaceableTextures\CommandButtonsDisabled\DISBTNBloodelfPhoenixArcher.blp
+ReplaceableTextures\CommandButtonsDisabled\DISBTNDiag1Wall.blp
+ReplaceableTextures\CommandButtonsDisabled\DISBTNDiag2Wall.blp
+ReplaceableTextures\CommandButtonsDisabled\DISBTNHD_Attack.blp
+ReplaceableTextures\CommandButtonsDisabled\DISBTNHD_Hold_Position.blp
+ReplaceableTextures\CommandButtonsDisabled\DISBTNHD_Move_A.blp
+ReplaceableTextures\CommandButtonsDisabled\DISBTNHD_Stop_A.blp
+ReplaceableTextures\CommandButtonsDisabled\DISBTNHorWall.blp
+ReplaceableTextures\CommandButtonsDisabled\DISBTNLeetTraining.blp
+ReplaceableTextures\CommandButtonsDisabled\DISBTNSword4.blp
+ReplaceableTextures\CommandButtonsDisabled\DISBTNSword5.blp
+ReplaceableTextures\CommandButtonsDisabled\DISBTNTrebuchet.blp
+ReplaceableTextures\CommandButtonsDisabled\DISBTNVerWall.blp
+ReplaceableTextures\CommandButtonsDisabled\DISPASBTNLeetTraining.blp
+ReplaceableTextures\CommandButtonsDisabled\DISPASCR_EVL_HoldGround_Action.blp
+ReplaceableTextures\PassiveButtons\PASBTNLeetTraining.blp
+textures\CrossedSwordsBuff.blp
+war3map.doo
+war3map.imp
+war3map.j
+war3map.mmp
+war3map.shd
+war3map.w3e
+war3map.w3i
+war3map.wpm
+war3map.wts
+war3mapExtra.txt
+war3mapImported\BattleCryTarget.mdx
+war3mapImported\BloodelfPhoenixArcher.mdx
+war3mapImported\Blunt [No Upgrade].blp
+war3mapImported\Blunt.blp
+war3mapImported\Cannon Powder [No Upgrade].blp
+war3mapImported\Cannon Powder.blp
+war3mapImported\Cavalry [No Upgrade].blp
+war3mapImported\Cavalry.blp
+war3mapImported\ElvenSpearman.mdx
+war3mapImported\Encourage.mdx
+war3mapImported\FootmanRevised_squished.mdx
+war3mapImported\GondorSoldierShield_A_002.mdx
+war3mapImported\Haste.mdx
+war3mapImported\Heavy Leather [No Upgrade].blp
+war3mapImported\Heavy Leather.blp
+war3mapImported\Heavy Metal [No Upgrade].blp
+war3mapImported\Heavy Metal.blp
+war3mapImported\Human Archer_squished.mdx
+war3mapImported\Lance [No Upgrade].blp
+war3mapImported\Lance.blp
+war3mapImported\Leather [No Upgrade].blp
+war3mapImported\Leather.blp
+war3mapImported\Light Metal [No Upgrade].blp
+war3mapImported\Light Metal.blp
+war3mapImported\OrcSenturyTower.mdx
+war3mapImported\PalmTree.mdx
+war3mapImported\Tower.mdx
+war3mapImported\Trebuchet.mdx
+war3mapMap.blp
+war3mapMisc.txt
+war3mapSkin.txt
+war3mapUnits.doo

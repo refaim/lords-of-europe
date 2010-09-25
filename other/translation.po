@@ -1,0 +1,4093 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Lanior <lanior@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Units, ID: Hpal, New ID: H61Z, Hero Name
+msgid "Frederic II"
+msgstr "Фредерик II"
+
+# Units, ID: Hpal, New ID: H620, Hero Name
+msgid "Constantine IX"
+msgstr "Константин IX"
+
+# Units, ID: Hpal, New ID: H621, Hero Name
+msgid "Mehmed I"
+msgstr "Мехмед I"
+
+# Units, ID: Hpal, New ID: H622, Hero Name
+msgid "Grand Duke Laroslav"
+msgstr "Ярослав Мудрый"
+
+# Units, ID: Hpal, New ID: H623, Hero Name
+msgid "Ferdinand III"
+msgstr "Фердинанд III"
+
+# Units, ID: Hpal, New ID: H624, Hero Name
+msgid "Sverker II"
+msgstr "Сверкер II"
+
+# Units, ID: Hpal, New ID: H625, Hero Name
+msgid "Philippe Auguste"
+msgstr "Филипп Огюст"
+
+# Units, ID: Hpal, New ID: H626, Hero Name
+msgid "Henri III"
+msgstr "Генри III"
+
+# Units, ID: Hpal, New ID: H627, Hero Name
+msgid "Mohamed V"
+msgstr "Мохамед V"
+
+# Units, ID: Hpal, New ID: H00A, Hero Name
+msgid "Otton I"
+msgstr "Оттон I"
+
+# Units, ID: Hpal, New ID: H00B, Hero Name
+msgid "Grand Duke of Cracow"
+msgstr "Великий князь Кракова"
+
+# Units, ID: Hpal, New ID: H00C, Hero Name
+msgid "Ladislas IV"
+msgstr "Ладислас IV"
+
+# Units, ID: Hpal, New ID: H008, Hero Name
+msgid "Momhed VI"
+msgstr "Момхед VI"
+
+# Units, ID: Hpal, New ID: H01I, Hero Name
+msgid "Saladin"
+msgstr "Саладин"
+
+# Units, ID: Hpal, New ID: H01J, Hero Name
+msgid "Grand Duke Vlad"
+msgstr "Великий князь Владимир"
+
+# Units, ID: Hpal, New ID: H01K, Hero Name
+msgid "Arker IV"
+msgstr "Аркер IV"
+
+# Units, ID: Hpal, New ID: H01L, Hero Name
+msgid "Nicolas IV"
+msgstr "Николас IV"
+
+# Units, ID: Hpal, New ID: H01M, Hero Name
+msgid "Yurï I"
+msgstr "Юрий I"
+
+# Units, ID: Hpal, New ID: H020, Hero Name
+msgid "Yahya ibn Ali"
+msgstr "Яхъя ибн Али"
+
+msgid "Kingdom Selector"
+msgstr "Выбор страны"
+
+# Units, ID: htow, New ID: h00E, Name
+msgid "|cffff6500North Scotland"
+msgstr "|cffff6500Северная Шотландия"
+
+# Units, ID: htow, New ID: h00E, Tooltip
+msgid "|cffEE7600Build a Town Center (Y)"
+msgstr "|cffEE7600Построить городской центр (Y) "
+
+# Units, ID: htow, New ID: h00E, Ubertip
+msgid "|cff006400A city, she generates taxes.|r"
+msgstr "|cff006400Город, платит налоги.|r "
+
+# Units, ID: htow, New ID: h02E, Name
+msgid "|cffff6500Rewal"
+msgstr "|cffff6500Ревал"
+
+# Units, ID: htow, New ID: h02F, Name
+msgid "|cffff6500Riga"
+msgstr "|cffff6500Рига"
+
+# Units, ID: htow, New ID: h02G, Name
+msgid "|cffff6500Novgorod"
+msgstr "|cffff6500Новгород"
+
+# Units, ID: htow, New ID: h02H, Name
+msgid "|cffff6500Narva"
+msgstr "|cffff6500Нарва"
+
+# Units, ID: htow, New ID: h02J, Name
+msgid "|cffff6500Beal Feirst"
+msgstr "|cffff6500Белфаст"
+
+# Units, ID: htow, New ID: h02K, Name
+msgid "|cffff6500South Scotland"
+msgstr "|cffff6500Южная Шотландия"
+
+# Units, ID: htow, New ID: h02L, Name
+msgid "|cffff6500Edimbourgh"
+msgstr "|cffff6500Эдинбург"
+
+# Units, ID: htow, New ID: h02M, Name
+msgid "|cffff6500Newcastel"
+msgstr "|cffff6500Ньюкасл"
+
+# Units, ID: htow, New ID: h02N, Name
+msgid "|cffff6500Gafsa"
+msgstr "|cffff6500Гафса"
+
+# Units, ID: htow, New ID: h02O, Name
+msgid "|cffff6500Stockholm"
+msgstr "|cffff6500Стокгольм"
+
+# Units, ID: htow, New ID: h02P, Name
+msgid "|cffff6500Frauenburg"
+msgstr "|cffff6500Фрауэнбург"
+
+# Units, ID: htow, New ID: h02Q, Name
+msgid "|cffff6500Grodno"
+msgstr "|cffff6500Гродно"
+
+# Units, ID: htow, New ID: h02R, Name
+msgid "|cffff6500Polotsk"
+msgstr "|cffff6500Полоцк"
+
+# Units, ID: htow, New ID: h02S, Name
+msgid "|cffff6500Moskva"
+msgstr "|cffff6500Москва"
+
+# Units, ID: htow, New ID: h01T, Name
+msgid "|cffff6500Dublin"
+msgstr "|cffff6500Дублин"
+
+# Units, ID: htow, New ID: h01U, Name
+msgid "|cffff6500Liverpool"
+msgstr "|cffff6500Ливерпуль"
+
+# Units, ID: htow, New ID: h02T, Name
+msgid "|cffff6500Wales"
+msgstr "|cffff6500Уэльс"
+
+# Units, ID: htow, New ID: h02U, Name
+msgid "|cffff6500London"
+msgstr "|cffff6500Лондон"
+
+# Units, ID: htow, New ID: h02V, Name
+msgid "|cffff6500Helsinkfor"
+msgstr "|cffff6500Хельсинки"
+
+# Units, ID: htow, New ID: h02W, Name
+msgid "|cffff6500Brugge"
+msgstr "|cffff6500Брюгге"
+
+# Units, ID: htow, New ID: h02X, Name
+msgid "|cffff6500Hannover"
+msgstr "|cffff6500Ганновер"
+
+# Units, ID: htow, New ID: h02Y, Name
+msgid "|cffff6500Hamburg"
+msgstr "|cffff6500Гамбург"
+
+# Units, ID: htow, New ID: h02Z, Name
+msgid "|cffff6500Düsseldorf"
+msgstr "|cffff6500Дюссельдорф"
+
+# Units, ID: htow, New ID: h030, Name
+msgid "|cffff6500Leipzig"
+msgstr "|cffff6500Лейпциг"
+
+# Units, ID: htow, New ID: h031, Name
+msgid "|cffff6500Rostok"
+msgstr "|cffff6500Росток"
+
+# Units, ID: htow, New ID: h032, Name
+msgid "|cffff6500Berlin"
+msgstr "|cffff6500Берлин"
+
+# Units, ID: htow, New ID: h033, Name
+msgid "|cffff6500Gdansk"
+msgstr "|cffff6500Гданьск"
+
+# Units, ID: htow, New ID: h034, Name
+msgid "|cffff6500Kulm"
+msgstr "|cffff6500Кульм"
+
+# Units, ID: htow, New ID: h038, Name
+msgid "|cffff6500Brest"
+msgstr "|cffff6500Брест"
+
+# Units, ID: htow, New ID: h039, Name
+msgid "|cffff6500Calais"
+msgstr "|cffff6500Кале"
+
+# Units, ID: htow, New ID: h03A, Name
+msgid "|cffff6500Paris"
+msgstr "|cffff6500Париж"
+
+# Units, ID: htow, New ID: h03G, Name
+msgid "|cffff6500Nantes"
+msgstr "|cffff6500Нант"
+
+# Units, ID: htow, New ID: h03H, Name
+msgid "|cffff6500Bordeaux"
+msgstr "|cffff6500Бордо"
+
+# Units, ID: htow, New ID: h03I, Name
+msgid "|cff00ff00St-Jacques de Compostela"
+msgstr "|cff00ff00Сантьяго-де-Компостела"
+
+# Units, ID: htow, New ID: h03J, Name
+msgid "|cffff6500Lyon"
+msgstr "|cffff6500Лион"
+
+# Units, ID: htow, New ID: h03K, Name
+msgid "|cffff6500Marseilles"
+msgstr "|cffff6500Марсель"
+
+# Units, ID: htow, New ID: h03L, Name
+msgid "|cffff6500Geneva"
+msgstr "|cffff6500Женева"
+
+# Units, ID: htow, New ID: h03N, Name
+msgid "|cffff6500Firenze"
+msgstr "|cffff6500Флоренция"
+
+# Units, ID: htow, New ID: h03O, Name
+msgid "|cffff6500Ragsa"
+msgstr "|cffff6500Рагса"
+
+# Units, ID: htow, New ID: h03M, Name
+msgid "|cffff6500Venezia"
+msgstr "|cffff6500Венеция"
+
+# Units, ID: htow, New ID: h03P, Name
+msgid "|cffff6500Scodera"
+msgstr "|cffff6500Шкодер"
+
+# Units, ID: htow, New ID: h03R, Name
+msgid "|cffff6500Mitrovica"
+msgstr "|cffff6500Митровица"
+
+# Units, ID: htow, New ID: h03S, Name
+msgid "|cffff6500Prizren"
+msgstr "|cffff6500Призрен"
+
+# Units, ID: htow, New ID: h03T, Name
+msgid "|cffff6500Nisch"
+msgstr "|cffff6500Ниш"
+
+# Units, ID: htow, New ID: h03V, Name
+msgid "|cffff6500Bucharest"
+msgstr "|cffff6500Бухарест"
+
+# Units, ID: htow, New ID: h03W, Name
+msgid "|cffff6500Constanta"
+msgstr "|cffff6500Констанца"
+
+# Units, ID: htow, New ID: h03X, Name
+msgid "|cffff6500Umeâ"
+msgstr "|cffff6500Умео"
+
+# Units, ID: htow, New ID: h03Y, Name
+msgid "|cffff6500Asprokastron"
+msgstr "|cffff6500Белгород-Днестровский"
+
+# Units, ID: htow, New ID: h040, Name
+msgid "|cff00ff00Madrid"
+msgstr "|cff00ff00Мадрид"
+
+# Units, ID: htow, New ID: h041, Name
+msgid "|cff00ff00Barcelona"
+msgstr "|cff00ff00Барселона"
+
+# Units, ID: htow, New ID: h042, Name
+msgid "|cff00ff00Valencia"
+msgstr "|cff00ff00Валенсия"
+
+# Units, ID: htow, New ID: h043, Name
+msgid "|cff00ff00Cagliari"
+msgstr "|cff00ff00Кальяри"
+
+# Units, ID: htow, New ID: h044, Name
+msgid "|cff00ff00Constantinople"
+msgstr "|cff00ff00Константинополь"
+
+# Units, ID: htow, New ID: h047, Name
+msgid "|cff00ff00Ankara"
+msgstr "|cff00ff00Анкара"
+
+# Units, ID: htow, New ID: h048, Name
+msgid "|cff00ff00Kara Djolan"
+msgstr "|cff00ff00Кара Джолан"
+
+# Units, ID: htow, New ID: h049, Name
+msgid "|cff00ff00Malozgerd"
+msgstr "|cff00ff00Малазгирт"
+
+# Units, ID: htow, New ID: h04A, Name
+msgid "|cff00ff00Zugdidi"
+msgstr "|cff00ff00Зугдиди"
+
+# Units, ID: htow, New ID: h04B, Name
+msgid "|cff00ff00Telavi"
+msgstr "|cff00ff00Телави"
+
+# Units, ID: htow, New ID: h04C, Name
+msgid "|cff00ff00Derbend"
+msgstr "|cff00ff00Дербент"
+
+# Units, ID: htow, New ID: h04H, Name
+msgid "|cff00ff00Tetouan"
+msgstr "|cff00ff00Тетуан"
+
+# Units, ID: htow, New ID: h04I, Name
+msgid "|cff00ff00Nador"
+msgstr "|cff00ff00Надор"
+
+# Units, ID: htow, New ID: h04J, Name
+msgid "|cff00ff00Ibn Senar"
+msgstr "|cff00ff00Ибн Сенар"
+
+# Units, ID: htow, New ID: h04L, Name
+msgid "|cff00ff00Biskira"
+msgstr "|cff00ff00Бискра"
+
+# Units, ID: htow, New ID: h04M, Name
+msgid "|cff00ff00Palermo"
+msgstr "|cff00ff00Палермо"
+
+# Units, ID: htow, New ID: h04O, Name
+msgid "|cff00ff00Patra"
+msgstr "|cff00ff00Патры"
+
+# Units, ID: htow, New ID: h04P, Name
+msgid "|cff00ff00Athens"
+msgstr "|cff00ff00Афины"
+
+# Units, ID: htow, New ID: h04Q, Name
+msgid "|cff00ff00Grenada"
+msgstr "|cff00ff00Гренада"
+
+# Units, ID: htow, New ID: h04V, Name
+msgid "|cff00ff00Ourmia"
+msgstr "|cff00ff00Урмия"
+
+# Units, ID: htow, New ID: h04X, Name
+msgid "|cff00ff00Rashi"
+msgstr "|cff00ff00Раши"
+
+# Units, ID: htow, New ID: h04Z, Name
+msgid "|cff00ff00Marrackech"
+msgstr "|cff00ff00Марракеш"
+
+# Units, ID: htow, New ID: h064, Name
+msgid "|cff00ff00Tougourt"
+msgstr "|cff00ff00Туггурт"
+
+# Units, ID: htow, New ID: h065, Name
+msgid "|cff00ff00Tozeur"
+msgstr "|cff00ff00Тозеур"
+
+# Units, ID: htow, New ID: h066, Name
+msgid "|cff00ff00Zuwara"
+msgstr "|cff00ff00Зувара"
+
+# Units, ID: htow, New ID: h067, Name
+msgid "|cff00ff00Benghazi"
+msgstr "|cff00ff00Бенгази"
+
+# Units, ID: htow, New ID: h069, Name
+msgid "|cff00ff00Al Qahira"
+msgstr "|cff00ff00Каир"
+
+# Units, ID: htow, New ID: h06U, Name
+msgid "|cffff6500Napoli"
+msgstr "|cffff6500Неаполь"
+
+# Units, ID: htow, New ID: h06V, Name
+msgid "|cffff6500Roma"
+msgstr "|cffff6500Рим"
+
+# Units, ID: htow, New ID: h06Y, Name
+msgid "|cff00ff00Sofia"
+msgstr "|cff00ff00София"
+
+# Units, ID: htow, New ID: h06Z, Name
+msgid "|cffff6500Halmstad"
+msgstr "|cffff6500Хальмстад"
+
+# Units, ID: htow, New ID: h04K, Name
+msgid "|cffff6500Bern"
+msgstr "|cffff6500Берн"
+
+# Units, ID: htow, New ID: h070, Name
+msgid "|cffff6500Milano"
+msgstr "|cffff6500Милан"
+
+# Units, ID: hhou, New ID: h60M, Name
+msgid "|cffFF8824Wall"
+msgstr "|cffFF8824Стена"
+
+# Units, ID: hhou, New ID: h60M, Tooltip
+msgid "|cff89D745Build a Wall [|cffffffffH|r|cff89D745orizontal]"
+msgstr "|cff89D745Построить горизонтальную стену (|cffffcc00H|cff89D745)"
+
+# Units, ID: hhou, New ID: h62G, Tooltip
+msgid "|cff89D745Build a Wall [|cffffffffV|r|cff89D745ertical]"
+msgstr "|cff89D745Построить вертикальную стену (|cffffcc00V|cff89D745)"
+
+# Units, ID: hhou, New ID: h62H, Tooltip
+msgid "|cff89D745Build a Wall [Di|cffffffffa|r|cff89D745gonal 1]"
+msgstr "|cff89D745Построить диагональную стену (|cffffcc00A|cff89D745)"
+
+# Units, ID: hhou, New ID: h62I, Tooltip
+msgid "|cff89D745Build a Wall [D|cffffffffi|r|cff89D745agonal 2]"
+msgstr "|cff89D745Построить диагональную стену (|cffffcc00I|cff89D745)"
+
+# Units, ID: htow, New ID: h600, Name
+msgid "|cffFF8824Capital|r|nDark Age"
+msgstr "|cffFF8824Капитолий|r|nТёмные века"
+
+# Units, ID: htow, New ID: h600, Tooltip
+msgid "|cff89D745Build a |cffffffffC|r|cff89D745apital"
+msgstr "|cff89D745Построить капитолий (|cffffcc00C|cff89D745)"
+
+# Units, ID: htow, New ID: h600, Ubertip
+msgid "|cffD7C845Your main building. Can train military builder, standard builder. It has defensive abilities, also increases nearby friendly unit armor."
+msgstr "|cffD7C845Ваше главное здание. Тут можно нанимать инженеров и строителей. Ведёт огонь по врагам, увеличивает броню дружественных войск."
+
+# Units, ID: htow, New ID: h601, Name
+msgid "|cffFF8824Capital|r|nFeudal Age"
+msgstr "|cffFF8824Капитолий|r|nЭпоха феодализма"
+
+# Units, ID: htow, New ID: h601, Tooltip
+msgid "|cff89D745Upgrade to |cffffffffF|r|cff89D745eudal Age"
+msgstr "|cff89D745Перейти в эпоху феодалов (|cffffcc00F|cff89D745)"
+
+# Units, ID: htow, New ID: h601, Ubertip
+msgid ""
+"|cff89D745Enables:\n"
+"Units\n"
+"|cffD7C845 • Light Cavalry\n"
+" • Axeman\n"
+" • Pikeman\n"
+" • Skirmisher\n"
+" • Healers\n"
+" • Religion Fighter\n"
+"\n"
+"|cff89D745Buildings\n"
+"|cffD7C845 • Walls\n"
+" • Ballista Tower\n"
+" • Training Grounds\n"
+" • University\n"
+" • Stock Exchange\n"
+" • Church/Mosquee\n"
+"\n"
+"|cff89D745Improvements\n"
+"|cffD7C845 • Sentry\n"
+" • Bag\n"
+" • Faith\n"
+" • Illumination\n"
+" • Defend\n"
+" • Equerry\n"
+" • Improved Archery"
+msgstr "Переход в новый век открывает вам доступ к новым технологиям и юнитам."
+
+# Units, ID: htow, New ID: h602, Name
+msgid "|cffFF8824Capital|r|nCastle Age"
+msgstr "|cffFF8824Капитолий|r|nЭпоха замков"
+
+# Units, ID: htow, New ID: h602, Tooltip
+msgid "|cff89D745Upgrade to |cffffffffC|r|cff89D745astel Age"
+msgstr "|cff89D745Перейти в эпоху замков (|cffffcc00C|cff89D745)"
+
+# Units, ID: htow, New ID: h602, Ubertip
+msgid ""
+"|cff89D745Enables:\n"
+"Units\n"
+"|cffD7C845 • Bowmen (Northern Kingdoms)\n"
+" • Ballista\n"
+" • Supply Carvan\n"
+"\n"
+"|cff89D745Buildings\n"
+"|cffD7C845 • Workshop\n"
+" • Outpost\n"
+" • Trebuchet\n"
+" • Trade Spot\n"
+" • Heavy Guard Towers\n"
+"\n"
+"|cff89D745Improvements\n"
+"|cffD7C845 • Pillage\n"
+" • War Horse Training\n"
+" • Night Vision\n"
+" • Military Tactics\n"
+" • Enthusiasm"
+msgstr "Переход в новый век открывает вам доступ к новым технологиям и юнитам."
+
+# Units, ID: htow, New ID: h603, Name
+msgid "|cffFF8824Capital|r|nImperial Age"
+msgstr "|cffFF8824Капитолий|r|nЭпоха империй"
+
+# Units, ID: htow, New ID: h603, Tooltip
+msgid "|cff89D745Upgrade to |cffffffffI|r|cff89D745mperial Age"
+msgstr "|cff89D745Перейти в эпоху империй (|cffffcc00I|cff89D745)"
+
+# Units, ID: htow, New ID: h603, Ubertip
+msgid ""
+"|cff89D745Enables:\n"
+"Units\n"
+"|cffD7C845 • Composite Bowmen (Northern Kingdoms)\n"
+" • Catapult\n"
+" • Heavy Cavalry\n"
+"\n"
+"|cff89D745Buildings\n"
+"|cffD7C845 • Siege Tent\n"
+" • Frontier Fort\n"
+"\n"
+"|cff89D745Improvements\n"
+"|cffD7C845 • Heavy Armor\n"
+" • Ballistics\n"
+" • Fire Knowledge\n"
+" • Leet Training\n"
+" • Marksmanship\n"
+" • Siege Mastering\n"
+" • War Drum"
+msgstr "Переход в новый век открывает вам доступ к новым технологиям и юнитам."
+
+# Units, ID: htow, New ID: h604, Name
+msgid "|cffFF8824Capital|r|nPowder Age"
+msgstr "|cffFF8824Капитолий|r|nЭпоха пороха"
+
+# Units, ID: htow, New ID: h604, Tooltip
+msgid "|cff89D745Upgrade to |cffffffffP|r|cff89D745owder Age"
+msgstr "|cff89D745Перейти в эпоху пороха (|cffffcc00P|cff89D745)"
+
+# Units, ID: htow, New ID: h604, Ubertip
+msgid ""
+"|cff89D745Enables:\n"
+"Units\n"
+"|cffD7C845 • Sand Warrior (Southern Kingdoms)\n"
+" • Warships\n"
+" • Hand Canoneer\n"
+" • Mortar\n"
+"\n"
+"|cff89D745Buildings\n"
+"|cffD7C845 • Canon Tower\n"
+" • Explosive Barrels\n"
+"\n"
+"|cff89D745Improvements\n"
+"|cffD7C845 • Regeneration\n"
+" • Long Range\n"
+" • Fragmentation Bomb\n"
+" • Fire Rocks\n"
+" • Envenommed Weapons"
+msgstr "Переход в новый век открывает вам доступ к новым технологиям и юнитам."
+
+# Units, ID: hbla, New ID: h605, Name
+msgid "|cffFF8824Blacksmith|r"
+msgstr "|cffFF8824Кузница|r"
+
+# Units, ID: hbla, New ID: h605, Tooltip
+msgid "|cff89D745Build a |cffffffffB|r|cff89D745lacksmith"
+msgstr "|cff89D745Построить кузницу (|cffffcc00B|cff89D745)"
+
+# Units, ID: hbla, New ID: h605, Ubertip
+msgid "|cffD7C845Contains weapons upgrades."
+msgstr "|cffD7C845Здесь разрабатываются новые виды брони, холодного оружия и пороха."
+
+# Units, ID: hbla, New ID: h606, Name
+msgid "|cffFF8824Barracks"
+msgstr "|cffFF8824Казармы"
+
+# Units, ID: hbla, New ID: h606, Tooltip
+msgid "|cff89D745Build B|cffffffffa|r|cff89D745rracks"
+msgstr "|cff89D745Построить казармы (|cffffcc00A|cff89D745)"
+
+# Units, ID: hbla, New ID: h606, Ubertip
+msgid "|cffD7C845First building which can train troops. Can search Defend, Equerry and Improved Archery. Can train Bowmen, Infantry, Axemen and Cavalry. Can also recrut Miltiamen."
+msgstr "|cffD7C845Основное здания для подготовки войск. Здесь вы можете обучить лучников, пехоту и конницу или нанять ополчение."
+
+# Units, ID: hbla, New ID: h607, Name
+msgid "|cffFF8824Training Grounds"
+msgstr "|cffFF8824Тренировочный лагерь"
+
+# Units, ID: hbla, New ID: h607, Tooltip
+msgid "|cff89D745Build |cffffffffT|r|cff89D745raining Grounds"
+msgstr "|cff89D745Построить тренировочный лагерь (|cffffcc00T|cff89D745)"
+
+# Units, ID: hbla, New ID: h607, Ubertip
+msgid "|cffD7C845Second troop production building, can train Pikemen, Skirmisher, Supply Caravan. Can search Military Tactics."
+msgstr "|cffD7C845Здесь вы можете нанять пикинёра, копьеметателя, обоз и изучить военную тактику."
+
+# Units, ID: hbla, New ID: h608, Name
+msgid "|cffFF8824Lumber Mill|r"
+msgstr "|cffFF8824Лесопилка|r"
+
+# Units, ID: hbla, New ID: h608, Tooltip
+msgid "|cff89D745Build a |cffffffffL|r|cff89D745umber Mill"
+msgstr "|cff89D745Построить лесопилку (|cffffcc00L|cff89D745)"
+
+# Units, ID: hbla, New ID: h608, Ubertip
+msgid "|cffD7C845Contains few upgrades for bowmen and towers."
+msgstr "|cffD7C845Здесь разрабатываются новые вооружения для лучников и башен."
+
+# Units, ID: hbla, New ID: h609, Name
+msgid "|cffFF8824University"
+msgstr "|cffFF8824Университет"
+
+# Units, ID: hbla, New ID: h609, Tooltip
+msgid "|cff89D745Build a |cffffffffU|r|cff89D745niversity"
+msgstr "|cff89D745Построить университет (|cffffcc00U|cff89D745)"
+
+# Units, ID: hbla, New ID: h609, Ubertip
+msgid "|cffD7C845Contains all upgrades you need for all kind of troops and for buildings."
+msgstr "|cffD7C845Содержит улучшения для ваших войск и строений."
+
+# Units, ID: hbla, New ID: h60A, Name
+msgid "|cffFF8824Workshop|r"
+msgstr "|cffFF8824Macтepcкaя|r"
+
+# Units, ID: hbla, New ID: h60A, Tooltip
+msgid "|cff89D745Build |cffffffffW|r|cff89D745orkshop"
+msgstr "|cff89D745Построить мастерскую (|cffffcc00W|cff89D745)"
+
+# Units, ID: hbla, New ID: h60A, Ubertip
+msgid "|cffD7C845Can train Mortars, can build Catapults and Ballistas. Can search Fire Rocks, Fragmentation Bombs, Long Range and Siege Mastering."
+msgstr "|cffD7C845Здесь вы можете нанять орудийный расчет, построить катапульту и баллисту. Для изучения доступны жидкий огонь, осколочные снаряды, осада и длинноствольные мушкеты."
+
+# Units, ID: hbla, New ID: h60B, Name
+msgid "|cffFF8824Outpost|r"
+msgstr "|cffFF8824Аванпост"
+
+# Units, ID: hbla, New ID: h60B, Tooltip
+msgid "|cff89D745Build an |cffffffffO|r|cff89D745utpost"
+msgstr "|cff89D745Построить аванпост (|cffffcc00O|cff89D745)"
+
+# Units, ID: hbla, New ID: h60B, Ubertip
+msgid "|cffD7C845A defensive structure. Can hire militiamen to quickly defend your boarders. Can also be upgraded into |cff89D745Frontier Fort|r|cffD7C845."
+msgstr "|cffD7C845Оборонительное сооружение. Здесь вы можете подготовить ополчения для охраны ваших границ. Может быть улучшено до |cff89D745форта|r|cffD7C845."
+
+# Units, ID: hbla, New ID: h60C, Name
+msgid "|cffFF8824Siege Tent|r"
+msgstr "|cffFF8824Осадный лагерь"
+
+# Units, ID: hbla, New ID: h60C, Tooltip
+msgid "|cff89D745Build a |cffffffffS|r|cff89D745iege Tent"
+msgstr "|cff89D745Построить осадный лагерь (|cffffcc00S|cff89D745)"
+
+# Units, ID: hbla, New ID: h60C, Ubertip
+msgid "|cffD7C845Perfect building for the siege, can recrut units fastly for the fight."
+msgstr "|cffD7C845Отлично подходит для осад. Здесь вы можете нанять наёмников."
+
+# Units, ID: hgtw, New ID: h60D, Name
+msgid "|cffFF8824Scout Tower"
+msgstr "|cffFF8824Башня"
+
+# Units, ID: hgtw, New ID: h60D, Tooltip
+msgid "|cff89D745Build a Sco|cffffffffu|r|cff89D745t Tower"
+msgstr "|cff89D745Построить башню (|cffffcc00U|cff89D745)"
+
+# Units, ID: hgtw, New ID: h60D, Ubertip
+msgid "|cffD7C845Scout building, can be upgraded to see invisible units and to see on the night as far as the day."
+msgstr "|cffD7C845Наблюдательная башня, не оснащённая оружием."
+
+# Units, ID: hgtw, New ID: h60E, Name
+msgid "|cffFF8824Ballista Tower"
+msgstr "|cffFF8824Сторожевая башня"
+
+# Units, ID: hgtw, New ID: h60E, Tooltip
+msgid "|cff89D745Build a |cffffffffB|r|cff206000allista Tower"
+msgstr "|cff89D745Построить сторожевую башню (|cffffcc00B|cff89D745)"
+
+# Units, ID: hgtw, New ID: h60E, Ubertip
+msgid "|cffD7C845Standard defensive building."
+msgstr "|cffD7C845Основное оборонительное сооружение."
+
+# Units, ID: hctw, New ID: h60F, Name
+msgid "|cffFF8824Cannon Tower"
+msgstr "|cffFF8824Орудийная башня"
+
+# Units, ID: hctw, New ID: h60F, Tooltip
+msgid "|cff89D745Build a |cffffffffC|r|cff89D745annon Tower"
+msgstr "|cff89D745Построить орудийную башню (|cffffcc00C|cff89D745)"
+
+# Units, ID: hctw, New ID: h60F, Ubertip
+msgid "|cffD7C845Great defensive building, has lots of hit points and a splash effect."
+msgstr "|cffD7C845Мощное оборонительное сооружение, эффективное против больших скоплений войск противника."
+
+# Units, ID: hbla, New ID: h60G, Name
+msgid "|cffFF8824Stock Exchange|r"
+msgstr "|cffFF8824Рынок"
+
+# Units, ID: hbla, New ID: h60G, Tooltip
+msgid "|cff89D745Build a |cffffffffS|r|cff89D745tock Exchange"
+msgstr "|cff89D745Построить рынок (|cffffcc00S|cff89D745)"
+
+# Units, ID: hbla, New ID: h60G, Ubertip
+msgid "|cffD7C845You can sell items and trade gold and wood here."
+msgstr "|cffD7C845Здесь вы можете продавать предметы и ресурсы."
+
+# Units, ID: hbla, New ID: h60H, Name
+msgid "|cffFF8824Shipyard|r"
+msgstr "|cffFF8824Верфи"
+
+# Units, ID: hbla, New ID: h60H, Tooltip
+msgid "|cff89D745Build a Ship|cffffffffy|r|cff89D745ard"
+msgstr "|cff89D745Построить верфи (|cffffcc00Y|cff89D745)"
+
+# Units, ID: hbla, New ID: h60H, Ubertip
+msgid "|cffD7C845Can build ships and warships."
+msgstr "|cffD7C845Здесь вы можете строить транспортные и военные корабли."
+
+# Units, ID: hbla, New ID: h60I, Name
+msgid "|cffFF8824Church|r"
+msgstr "|cffFF8824Церковь"
+
+# Units, ID: hbla, New ID: h60I, Tooltip
+msgid "|cff89D745Build a C|cffffffffh|r|cff89D745urch"
+msgstr "|cff89D745Построить церковь (|cffffcc00H|cff89D745)"
+
+# Units, ID: hbla, New ID: h60I, Ubertip
+msgid "|cffD7C845Can train Crusaders and Christian Healers. Can search Faith, Illumination, Religion Training and Enthusiasm."
+msgstr "|cffD7C845Здесь вы можете нанять крестоносцев и целителей, изучить веру, просвещение, энтузиазм и религиозную подготовку."
+
+# Units, ID: hpea, New ID: h60J, Name
+msgid "|cffFF8824Builder"
+msgstr "|cffFF8824Строитель"
+
+# Units, ID: hpea, New ID: h60J, Tooltip
+msgid "|cff406040Train a |cffffffffB|r|cff406040uilder"
+msgstr "|cff406040Нанять строителя (|cffffcc00B|cff406040)"
+
+# Units, ID: hpea, New ID: h60J, Ubertip
+msgid "|cff40c000Your main builder, can build standard buildings."
+msgstr "|cff40c000Ваш основной рабочий. Строит основные сооружения."
+
+# Units, ID: hpea, New ID: h60K, Name
+msgid "|cffFF8824Military Builder"
+msgstr "|cffFF8824Инженер"
+
+# Units, ID: hpea, New ID: h60K, Tooltip
+msgid "|cff406040Train a |cffffffffD|r|cff406040efense Builder"
+msgstr "|cff406040Нанять инженера (|cffffcc00D|cff406040)"
+
+# Units, ID: hpea, New ID: h60K, Ubertip
+msgid "|cff40c000Your second builder, can build defensive buildings."
+msgstr "|cff40c000Дополнительный рабочий. Строит оборонительные сооружения."
+
+# Units, ID: hfoo, New ID: h60L, Name
+msgid "|cff00ff00Man at Arms"
+msgstr "|cff00ff00Солдат"
+
+# Units, ID: hfoo, New ID: h60L, Tooltip
+msgid "|cffFF8824Train a Man a|cfffffffft|r|cffFF8824 Arms"
+msgstr "|cffFF8824Нанять солдата (|cffffcc00T|cffFF8824)"
+
+# Units, ID: hfoo, New ID: h60L, Ubertip
+msgid ""
+"|cffCDB79E [ Slash | Light Metal ]\n"
+"Standard soldier, can use defend to recieve less damage from pierce attack."
+msgstr ""
+"|cffCDB79E [ Режущая атака | Медная броня ]\n"
+"Обычный солдат, может укрыться за щитом для уменьшения урона, получаемого от колющих атак."
+
+# Units, ID: hfoo, New ID: h60N, Name
+msgid "|cff004000Swordman"
+msgstr "|cff004000Мечник"
+
+# Units, ID: hfoo, New ID: h60N, Tooltip
+msgid "|cffFF8824Train a |cffffffffS|r|cffFF8824wordman"
+msgstr "|cffFF8824Нанять мечника (|cffffcc00S|cffFF8824)"
+
+# Units, ID: hfoo, New ID: h60N, Ubertip
+msgid ""
+"|cffCDB79E [ Slash | Medium Metal ]\n"
+"Medium soldier, can use defend to recieve less damage from pierce attack."
+msgstr ""
+"|cffCDB79E [ Режущая атака | Стальная броня ]\n"
+"Обычный солдат, может укрыться за щитом, чтобы уменьшить урон от колющих атак."
+
+# Units, ID: hfoo, New ID: h60O, Name
+msgid "|cff705030Militia"
+msgstr "|cff705030Ополчение"
+
+# Units, ID: hfoo, New ID: h60O, Tooltip
+msgid "|cffFF8824Hire a M|cffffffffi|r|cffFF8824litia"
+msgstr "|cffFF8824Нанять ополчение (|cffffcc00I|cffFF8824)"
+
+# Units, ID: hfoo, New ID: h60O, Ubertip
+msgid ""
+"|cffCDB79E [ Slash | Leather ]\n"
+"Weak fighter, useless on battles, can use Rage."
+msgstr ""
+"|cffCDB79E [ Режущая атака | Легкая броня ]\n"
+"Слабый воин, бесполезен в больших битвах, может использовать ярость."
+
+# Units, ID: hfoo, New ID: h60P, Name
+msgid "|cffF0DD00Crusader"
+msgstr "|cffF0DD00Крестоносец"
+
+# Units, ID: hfoo, New ID: h60P, Tooltip
+msgid "|cffF0DD00Train a |cffffffffC|r|cffF0DD00rusader"
+msgstr "|cffF0DD00Нанять крестоносца (|cffffcc00C|cffF0DD00)"
+
+# Units, ID: hfoo, New ID: h60P, Ubertip
+msgid ""
+"|cffCDB79E [ Sharp | Medium Metal ]\n"
+"Religion soldier, Crusade soldier, can use Rage."
+msgstr ""
+"|cffCDB79E [ Режущая атака | Стальная броня ]\n"
+"Религиозный солдат, может использовать ярость."
+
+# Units, ID: hfoo, New ID: h60Q, Name
+msgid "|cffFF8824Feudal Knight"
+msgstr "|cffFF8824Феодальный рыцарь"
+
+# Units, ID: hfoo, New ID: h60Q, Tooltip
+msgid "|cffFF8824Train a |cffffffffF|r|cffFF8824eudal Knight"
+msgstr "|cffFF8824Нанять феодального рыцаря (|cffffcc00F|cffFF8824)"
+
+# Units, ID: hfoo, New ID: h60Q, Ubertip
+msgid ""
+"|cffCDB79E [ Slash | Cavalry ]\n"
+"A horseman, better than standard unit, can use Rally and Charge."
+msgstr ""
+"|cffCDB79E [ Режущая атака | Кавалерийская броня ]\n"
+"Всадний, может использовать ярость."
+
+# Units, ID: hfoo, New ID: h60R, Name
+msgid "|cff007060Heavy Knight"
+msgstr "|cff007060Тяжёлый рыцарь"
+
+# Units, ID: hfoo, New ID: h60R, Tooltip
+msgid "|cffFF8824Train a |cffffffffH|r|cffFF8824eavy Knight"
+msgstr "|cffFF8824Нанять тяжёлого рыцаря (|cffffcc00F|cffFF8824)"
+
+# Units, ID: hfoo, New ID: h60R, Ubertip
+msgid ""
+"|cffCDB79E [ Slash | Cavalry ]\n"
+"The best close combat unit of the game, has Rally, Charge, Heavy Armor and Shieldbreak."
+msgstr ""
+"|cffCDB79E [ Режущая атака | Кавалерийская броня ]\n"
+"Лучший юнит ближнего боя, может использовать ярость."
+
+# Units, ID: hfoo, New ID: h60S, Name
+msgid "|cff994400Pikeman"
+msgstr "|cff994400Пикинёр"
+
+# Units, ID: hfoo, New ID: h60S, Tooltip
+msgid "|cffFF8824Train a |cffffffffP|r|cffFF8824ikeman"
+msgstr "|cffFF8824Нанять пикинёра (|cffffcc00P|cffFF8824)"
+
+# Units, ID: hfoo, New ID: h60S, Ubertip
+msgid ""
+"|cffCDB79E [ Lance | Medium Metal ]\n"
+"A fighter based on the fight againt Knights. Effective against them, resistant unit, can use Defend."
+msgstr ""
+"|cffCDB79E [ Колющая атака | Стальная броня ]\n"
+"Эффективен против наездников. Хорошо защищен, может укрыться за щитом."
+
+# Units, ID: nhea, New ID: n600, Name
+msgid "|cff905030Short Bowman"
+msgstr "|cff905030Лучник"
+
+# Units, ID: nhea, New ID: n600, Tooltip
+msgid "|cffFF8824Train a |cffffffffS|r|cffFF8824hort Bowman"
+msgstr "|cffFF8824Нанять лучника (|cffffcc00F|cffFF8824)"
+
+# Units, ID: nhea, New ID: n600, Ubertip
+msgid ""
+"|cffCDB79E [ Arrows | Leather ]\n"
+"Standard bowman of your army, effective against light armored units."
+msgstr ""
+"|cffCDB79E [ Стрелы | Легкая броня ]\n"
+"Обычный лучник вашей армии, эффективен против слабозащищённых юнитов."
+
+# Units, ID: nhea, New ID: n602, Name
+msgid "|cffFF9000Composite Bowman"
+msgstr "|cffFF9000Лучник"
+
+# Units, ID: nhea, New ID: n602, Tooltip
+msgid "|cffFF8824Train a |cffffffffC|r|cffFF8824omposite Bowman"
+msgstr "|cffFF8824Нанять лучника (|cffffcc00C|cffFF8824)"
+
+# Units, ID: nhea, New ID: n602, Ubertip
+msgid ""
+"|cffCDB79E [ Arrows | Heavy Leather ]\n"
+"Expert bowman of your army, long range and more damage than standard bowmen."
+msgstr ""
+"|cffCDB79E [ Стрелы | Кожаная броня ]\n"
+"Опытный лучник вашей армии, имеет увеличенный урон и радиус стрельбы."
+
+# Units, ID: hrif, New ID: h60T, Name
+msgid "|cffE03010Hand Cannoneer"
+msgstr "|cffE03010Мушкетёр"
+
+# Units, ID: hrif, New ID: h60T, Tooltip
+msgid "|cffFF8824Train a |cffffffffH|r|cffFF8824and Cannoneer"
+msgstr "|cffFF8824Нанять мушкетёра (|cffffcc00H|cffFF8824)"
+
+# Units, ID: hrif, New ID: h60T, Ubertip
+msgid ""
+"|cffCDB79E [ Gun Powder | Heavy Leather ]\n"
+"A powder's user, effective against all type of armor but not very resistant."
+msgstr ""
+"|cffCDB79E [ Порох | Кожаная броня ]\n"
+"Использует огнестрельное оружие, эффективен против всех видов брони, но слабо защищён."
+
+# Units, ID: hrdh, New ID: h60U, Name
+msgid "|cff00ff00Supply Caravan"
+msgstr "|cff00ff00Обоз"
+
+# Units, ID: hrdh, New ID: h60U, Tooltip
+msgid "|cffFF8824Train a S|cffffffffu|r|cffFF8824pply Caravan"
+msgstr "|cffFF8824Построить обоз (|cffffcc00U|cffFF8824)"
+
+# Units, ID: hrdh, New ID: h60U, Ubertip
+msgid "|cffCDB79ECan supply bowmen in Fire arrows, increase HP regen of nearby units."
+msgstr "|cffCDB79EУвеличивает регенерацию здоровья дружественных войс. Предоставляет лучникам новые огненные стрелы."
+
+# Units, ID: nbrg, New ID: n603, Name
+msgid "|cffFF8824Skirmisher"
+msgstr "|cffFF8824Копьеметатель"
+
+# Units, ID: nbrg, New ID: n603, Tooltip
+msgid "|cffFF8824Train a |cffffffffS|r|cffFF8824kirmisher"
+msgstr "|cffFF8824Нанять копьеметателя (|cffffcc00S|cffFF8824)"
+
+# Units, ID: nbrg, New ID: n603, Ubertip
+msgid ""
+"|cffCDB79E [ Lance | Leather ]\n"
+"Effective against bowmen, used for counter-strike and skirmish."
+msgstr ""
+"|cffCDB79E [ Колющая атака | Легкая броня ]\n"
+"Эффективен против лучников, используется для контратак и схваток."
+
+# Units, ID: hmtm, New ID: h60V, Name
+msgid "|cffFF8824Mortar Team"
+msgstr "|cffFF8824Орудийный расчет"
+
+# Units, ID: hmtm, New ID: h60V, Tooltip
+msgid "|cffFF8824Train a |cffffffffM|r|cffFF8824ortar Team"
+msgstr "|cffFF8824Нанять орудийный расчет (|cffffcc00M|cffFF8824)"
+
+# Units, ID: hmtm, New ID: h60V, Ubertip
+msgid ""
+"|cffCDB79E [ Gun Powder | Heavy Leather ]\n"
+"The best Siege Engine, devastator range and damage. Used into great battles."
+msgstr ""
+"|cffCDB79E [ Порох | Кожаная броня ]\n"
+"Лучшее осадное орудие, превосходная дальность поражения и сила атаки."
+
+# Units, ID: ebal, New ID: e600, Name
+msgid "|cff00ff00Ballista"
+msgstr "|cff00ff00Баллиста"
+
+# Units, ID: ebal, New ID: e600, Tooltip
+msgid "|cffFF8824Build a |cffffffffB|r|cffFF8824allista"
+msgstr "|cffFF8824Построить баллисту (|cffffcc00B|cffFF8824)"
+
+# Units, ID: ebal, New ID: e600, Ubertip
+msgid ""
+"|cffCDB79E [ Lance | Reinforced ]\n"
+"First Siege Engine, not very resistant but useful against Walls and Towers."
+msgstr ""
+"|cffCDB79E [ Колющая атака | Усиленная броня ]\n"
+"Осадное орудие, слабозащищённое, но полезное для уничтожения стен и башен."
+
+# Units, ID: hmpr, New ID: h60W, Name
+msgid "|cff60AAECChristian Healer"
+msgstr "|cff60AAECСвященник"
+
+# Units, ID: hmpr, New ID: h60W, Tooltip
+msgid "|cffFF8824Train a C|cffffffffh|r|cffFF8824ristian Healer"
+msgstr "|cffFF8824Нанять священника (|cffffcc00H|cffFF8824)"
+
+# Units, ID: hmpr, New ID: h60W, Ubertip
+msgid "|cffCDB79ECan heal friendly units."
+msgstr "|cffCDB79EЛечит дружественные войска."
+
+# Units, ID: ocat, New ID: o600, Name
+msgid "|cffFF8824Catapult"
+msgstr "|cffFF8824Катапульта"
+
+# Units, ID: ocat, New ID: o600, Tooltip
+msgid "|cffFF8824Build a |cffffffffC|r|cffFF8824atapult"
+msgstr "|cffFF8824Построить катапульту (|cffffcc00C|cffFF8824)"
+
+# Units, ID: ocat, New ID: o600, Ubertip
+msgid ""
+"|cffCDB79E [ Siege | Reinforced ]\n"
+"Second Siege Engine, better than the standard Ballista. Useful against mass units and buildings."
+msgstr ""
+"|cffCDB79E [ Осадное | Усиленная броня ]\n"
+"Осадное орудие, лучше чем обычная баллиста. Эффективно против скоплений войск и строений."
+
+# Units, ID: nhea, New ID: n000, Name
+msgid "|cff805000Bowman"
+msgstr "|cff805000Лучник"
+
+# Units, ID: nhea, New ID: n000, Tooltip
+msgid "|cffFF8824Train a |cffffffffB|r|cffFF8824owman"
+msgstr "|cffFF8824Нанять лучника (|cffffcc00B|cffFF8824)"
+
+# Units, ID: hdes, New ID: h60X, Name
+msgid "|cff00ff00Interceptor"
+msgstr "|cff00ff00Перехватчик"
+
+# Units, ID: hdes, New ID: h60X, Tooltip
+msgid "|cffFF8824Build a |cffffffffI|r|cffFF8824nterceptor"
+msgstr "|cffFF8824Построить перехватчик (|cffffcc00I|cffFF8824)"
+
+# Units, ID: hdes, New ID: h60X, Ubertip
+msgid ""
+"|cffCDB79E [ Cannon Powder | Reinforced ]\n"
+"Fast warships, useful to counter Galleon and Transport Ship."
+msgstr ""
+"|cffCDB79E [ Порох | Усиленная броня ]\n"
+"Быстрый военный корабль, используется для противостояния галеонам и транспортным кораблям."
+
+# Units, ID: hdes, New ID: h60Y, Name
+msgid "|cff228800Frigate"
+msgstr "|cff228800Фрегат"
+
+# Units, ID: hdes, New ID: h60Y, Tooltip
+msgid "|cffFF8824Build a |cffffffffF|r|cffFF8824rigate"
+msgstr "|cffFF8824Построить фрегат (|cffffcc00F|cffFF8824)"
+
+# Units, ID: hdes, New ID: h60Y, Ubertip
+msgid ""
+"|cffCDB79E [ Cannon Powder | Reinforced ]\n"
+"Standard warship, useful to escort Galleon and to fight Interceptor."
+msgstr ""
+"|cffCDB79E [ Порох | Усиленная броня ]\n"
+"Обычное военное судно, полезно для сопровождения галеонов и противостояния перехватчикам."
+
+# Units, ID: hdes, New ID: h60Z, Name
+msgid "|cffFF8824Galleon"
+msgstr "|cffFF8824Галеон"
+
+# Units, ID: hdes, New ID: h60Z, Tooltip
+msgid "|cffFF8824Build a |cffffffffG|r|cffFF8824alleon"
+msgstr "|cffFF8824Построить галеон (|cffffcc00G|cffFF8824)"
+
+# Units, ID: hdes, New ID: h60Z, Ubertip
+msgid ""
+"|cffCDB79E [ Cannon Powder | Reinforced ]\n"
+"The strongest ship, resistant and powerfull, useful to lead large sea battle and to support other ships."
+msgstr ""
+"|cffCDB79E [ Порох | Усиленная броня ]\n"
+"Сильнейший корабль в игре. Отлично защищён, используется в больших морских битвах, для сопровождения транспортных кораблей."
+
+# Units, ID: hbot, New ID: h610, Name
+msgid "|cffFF8824Transport Ship"
+msgstr "|cffFF8824Транспортный корабль"
+
+# Units, ID: hbot, New ID: h610, Tooltip
+msgid "|cffFF8824Build a |cffffffffT|r|cffFF8824ransport Ship"
+msgstr "|cffFF8824Построить транспортный корабль  (|cffffcc00T|cffFF8824)"
+
+# Units, ID: hbot, New ID: h610, Ubertip
+msgid "|cffCDB79ECan embark and debark your units."
+msgstr "|cffCDB79EНеобходимо для перевозки ваших войск по морю."
+
+# Units, ID: hdes, New ID: h611, Name
+msgid "|cffD0BB70Pirate Frigate"
+msgstr "|cffD0BB70Пиратский фрегат"
+
+# Units, ID: hmpr, New ID: h614, Name
+msgid "|cff703080Christian Healer"
+msgstr "|cff703080Священник"
+
+# Units, ID: hmpr, New ID: h614, Tooltip
+msgid "|cff703080Train a C|cffffffffh|r|cff703080ristian Healer"
+msgstr "|cff703080Нанять священника (|cffffcc00H|cffFF8824)"
+
+# Units, ID: hmpr, New ID: h614, Ubertip
+msgid "|cffCDB79EFirst spez unit of the Christian States, has a better heal than standard Christian Healer."
+msgstr "|cffCDB79EПервый спец. юнит Италии. Восстанавливает больше здоровья, чем обычный священник."
+
+# Units, ID: nhea, New ID: n601, Name
+msgid "|cffFF0000English Longbowman"
+msgstr "|cffFF0000Английский лучник"
+
+# Units, ID: nhea, New ID: n601, Tooltip
+msgid "|cffFF0000Train an English |cffffffffL|r|cffFF0000ongbowman"
+msgstr "|cffFF0000Нанять английского лучника  (|cffffcc00L|cffFF8824)"
+
+# Units, ID: nhea, New ID: n601, Ubertip
+msgid ""
+"|cffCDB79E [ Arrows | Heavy Leather ]\n"
+"Better than the standard Composite Bowmen.."
+msgstr ""
+"|cffCDB79E [ Стрелы | Кожаная броня ]\n"
+"Лучше чем обычный лучник, имеет расширенный радиус атаки."
+
+# Units, ID: hfoo, New ID: h616, Name
+msgid "|cff5555FFFinnish Knight"
+msgstr "|cff5555FFФинский рыцарь"
+
+# Units, ID: hfoo, New ID: h616, Tooltip
+msgid "|cff5555FFTrain an Fi|cffffffffn|r|cff5555FFnish Knight"
+msgstr "|cff5555FFНанять финского рыцаря  (|cffffcc00N|cffFF8824)"
+
+# Units, ID: hfoo, New ID: h616, Ubertip
+msgid ""
+"|cffCDB79E [ Slash | Cavalry ]\n"
+"The best close combat unit of this map, better than standard Heavy Knight."
+msgstr ""
+"|cffCDB79E [ Режущая атака | Кавалерийская броня ]\n"
+"Лучший юнит ближнего боя на карте."
+
+# Units, ID: hfoo, New ID: h617, Name
+msgid "|cff2050CCFrankish Knight"
+msgstr "|cff2050CCФранцузский рыцарь"
+
+# Units, ID: hfoo, New ID: h617, Tooltip
+msgid "|cff2050CCTrain a |cffffffffF|r|cff2050CCrankish Knight"
+msgstr "|cff2050CCНанять французского рыцаря (|cffffcc00F|cff2050CC)"
+
+# Units, ID: hfoo, New ID: h619, Name
+msgid "|cff444444Ukraine Warrior"
+msgstr "|cff444444Украинский воин"
+
+# Units, ID: hfoo, New ID: h619, Tooltip
+msgid "|cff444444Train a Ukraine |cffffffffW|r|cff444444arrior"
+msgstr "|cff444444Нанять украинского воина (|cffffcc00S|cff444444)"
+
+# Units, ID: hfoo, New ID: h619, Ubertip
+msgid ""
+"|cffCDB79E [ Slash | Heavy Leather ]\n"
+"A strong and resistant warrior, can use Rage."
+msgstr ""
+"|cffCDB79E [ Режущая атака | Кожаная броня ]\n"
+"Сильный и защищённый воин, может использовать ярость."
+
+# Units, ID: hdes, New ID: h61A, Name
+msgid "|cff444444Swedish Frigate"
+msgstr "|cff444444Шведский фрегат"
+
+# Units, ID: hdes, New ID: h61A, Tooltip
+msgid "|cff444444Build a |cffffffffS|r|cff444444wedish Frigate"
+msgstr "|cff444444Построить шведский фрегат (|cffffcc00S|cff444444)"
+
+# Units, ID: hfoo, New ID: h61B, Name
+msgid "|cff883333German Hussar"
+msgstr "|cff883333Гусар"
+
+# Units, ID: hfoo, New ID: h61B, Tooltip
+msgid "|cff883333Train a |cffffffffG|r|cff883333erman Hussar"
+msgstr "|cff883333Нанять гусара (|cffffcc00H|cff883333)"
+
+# Units, ID: hfoo, New ID: h61B, Ubertip
+msgid ""
+"|cffCDB79E [ Blunt | Cavalry ]\n"
+"A great mounted unit, better than standard heavy knights."
+msgstr ""
+"|cffCDB79E [ Тупое оружие | Кавалерийская броня ]\n"
+"Отличный верховой воин."
+
+# Units, ID: hfoo, New ID: h61D, Name
+msgid "|cff00CCCCHungarian Infantry"
+msgstr "|cff00CCCCВенгерский пехотинец"
+
+# Units, ID: hfoo, New ID: h61D, Tooltip
+msgid "|cff00CCCCTrain an |cffffffffH|r|cff00CCCCungarian Infantry"
+msgstr "|cff00CCCCНанять венгерского пехотинца (|cffffcc00H|cff00CCCC)"
+
+# Units, ID: hfoo, New ID: h61E, Name
+msgid "|cff00CCCCGreek Hoplite"
+msgstr "|cff00CCCCГоплит"
+
+# Units, ID: hfoo, New ID: h61E, Tooltip
+msgid "|cff00CCCCTrain a Greek H|cffffffffo|r|cff00CCCCplite"
+msgstr "|cff00CCCCНанять гоплита (|cffffcc00H|cff00CCCC)"
+
+# Units, ID: hfoo, New ID: h61E, Ubertip
+msgid ""
+"|cffCDB79E [ Sharp | Heavy Metal ]\n"
+"A very resistant unit, useful to defend places."
+msgstr ""
+"|cffCDB79E [ Режущая атака | Тяжёлая броня ]\n"
+"Хорошо защищённый воин, полезен для обороны ваших позиций."
+
+# Units, ID: hfoo, New ID: h61F, Name
+msgid "|cff106010Teutonic Knight"
+msgstr "|cff106010Тевтонский рыцарь"
+
+# Units, ID: hfoo, New ID: h61F, Tooltip
+msgid "|cff106010Train a |cffffffffT|r|cff106010eutonic Knight"
+msgstr "|cff106010Нанять тевтонского рыцаря (|cffffcc00T|cff106010)"
+
+# Units, ID: hfoo, New ID: h61I, Name
+msgid "|cff2080FFRussian Cossak"
+msgstr "|cff2080FFКазак"
+
+# Units, ID: hfoo, New ID: h61I, Tooltip
+msgid "|cff2080FFTrain a Russian |cffffffffC|r|cff2080FFossak"
+msgstr "|cff2080FFНанять казака (|cffffcc00C|cff2080FF)"
+
+# Units, ID: hfoo, New ID: h61I, Ubertip
+msgid ""
+"|cffCDB79E [ Sharp | Heavy Metal ]\n"
+"The best knight, the best mounted unit, the best close combat unit, the best fighter."
+msgstr ""
+"|cffCDB79E [ Режущая атака | Тяжёлая броня ]\n"
+"Лучший рыцарь, лучший всадник, лучший юнит ближнего боя."
+
+# Units, ID: hfoo, New ID: h61H, Name
+msgid "|cff2080FFKievan Infantry"
+msgstr "|cff2080FFКиевский пехотинец"
+
+# Units, ID: hfoo, New ID: h61H, Tooltip
+msgid "|cff2080FFTrain a Kievan |cffffffffI|r|cff2080FFnfantry"
+msgstr "|cff2080FFНанять киевского пехотинца (|cffffcc00I|cff2080FF)"
+
+# Units, ID: hfoo, New ID: h61H, Ubertip
+msgid ""
+"|cffCDB79E [ Slash | Light Metal ]\n"
+"Medium soldier, better than standard infantry and has a different way to fight."
+msgstr ""
+"|cffCDB79E [ Режущая атака | Медная броня ]\n"
+"Усиленный вариант стандарной пехоты."
+
+# Units, ID: hfoo, New ID: h61J, Name
+msgid "|cffC05010Moorish Raider"
+msgstr "|cffC05010Мародёр"
+
+# Units, ID: hfoo, New ID: h61J, Tooltip
+msgid "|cffC05010Train a |cffffffffM|r|cffC05010oorish Raider"
+msgstr "|cffC05010Нанять мародёра (|cffffcc00M|cffC05010)"
+
+# Units, ID: hfoo, New ID: h61K, Name
+msgid "|cffC05010Arabian Warrior"
+msgstr "|cffC05010Арабский воитель"
+
+# Units, ID: hfoo, New ID: h61K, Tooltip
+msgid "|cffC05010Train an Arabian |cffffffffW|r|cffC05010arrior"
+msgstr "|cffC05010Нанять арабского воителя (|cffffcc00S|cffC05010)"
+
+# Units, ID: nhea, New ID: n604, Name
+msgid "|cff00ff00Turkish Mameluk"
+msgstr "|cff00ff00Мамелюк"
+
+# Units, ID: nhea, New ID: n604, Tooltip
+msgid "|cff00ff00Train a Tur|cffffffffk|r|cff00ff00ish Mameluk"
+msgstr "|cff00ff00Нанять мамелюка (|cffffcc00K|cff00ff00)"
+
+# Units, ID: nhea, New ID: n604, Ubertip
+msgid ""
+"|cffCDB79E [ Arrows | Cavalry ]\n"
+"A strong, slow and resistant bowman mounted on a camel."
+msgstr ""
+"|cffCDB79E [ Стрелы | Кавалерийская броня ]\n"
+"Сильный, медленный, но защищённый воин, использующий верблюдов для передвижения."
+
+# Units, ID: hfoo, New ID: h61L, Name
+msgid "|cffE070DDSpanish Conquistador"
+msgstr "|cffE070DDКонкистадор"
+
+# Units, ID: hfoo, New ID: h61L, Tooltip
+msgid "|cffE070DDTrain a Spanish |cffffffffC|r|cffE070DDonquistador"
+msgstr "|cffE070DDНанять конкистадора (|cffffcc00C|cff00ff00)"
+
+# Units, ID: hfoo, New ID: h61L, Ubertip
+msgid ""
+"|cffCDB79E [ Slash | Medium Metal ]\n"
+"Medium soldier, better than standard infantry and has a different type of armor."
+msgstr ""
+"|cffCDB79E [ Режущая атака | Стальная броня ]\n"
+"Усиленный вариант стандартной пеходы. Использует стальную броню."
+
+# Units, ID: hfoo, New ID: h61M, Name
+msgid "|cffF0CC20Cataphract"
+msgstr "|cffF0CC20Катафракт"
+
+# Units, ID: hfoo, New ID: h61M, Tooltip
+msgid "|cffF0CC20Train a |cffffffffC|r|cffF0CC20ataphract"
+msgstr "|cffF0CC20Нанять катафракта (|cffffcc00C|cffF0CC20)"
+
+# Units, ID: hbla, New ID: h000, Name
+msgid "|cffFF8824Nation Barracks"
+msgstr "|cffFF8824Национальные казармы"
+
+# Units, ID: hbla, New ID: h000, Tooltip
+msgid "|cff206000Build a B|cffffffffa|r|cff206000rracks"
+msgstr "|cff206000Построить казармы (|cffffcc00A|cff206000)"
+
+# Units, ID: hbla, New ID: h000, Ubertip
+msgid "|cff426242Can train the spez unit of your Nation."
+msgstr "|cff426242Позволяют вам тренировать спец. юниты вашей страны."
+
+# Units, ID: hmpr, New ID: h001, Name
+msgid "|cffFF8824Muslim Tribal Doctor"
+msgstr "|cffFF8824Мусульманский врач"
+
+# Units, ID: hmpr, New ID: h001, Tooltip
+msgid "|cffFF8824Train a |cffffffffM|r|cffFF8824uslim Tribal Doctor"
+msgstr "|cffFF8824Нанять мусульманского врача"
+
+# Units, ID: hmpr, New ID: h002, Name
+msgid "|cff00ff00Muslim Tribal Doctor"
+msgstr "|cff00ff00Мусульманский врач"
+
+# Units, ID: hfoo, New ID: h61P, Name
+msgid "|cffFF8824Islamic Warrior"
+msgstr "|cffFF8824Исламский боец"
+
+# Units, ID: hfoo, New ID: h61P, Tooltip
+msgid "|cffF0DD00Train an I|cffffffffs|r|cffF0DD00lamic Warrior"
+msgstr "|cffF0DD00Нанять исламского бойца (|cffffcc00S|cffF0DD00)"
+
+# Units, ID: hdes, New ID: h61R, Name
+msgid "|cff00ff00Frigate"
+msgstr "|cff00ff00Фрегат"
+
+# Units, ID: hgtw, New ID: h61U, Name
+msgid "|cff00ff00Ballista Tower"
+msgstr "|cff00ff00Сторожевая башня"
+
+# Units, ID: hctw, New ID: h61V, Name
+msgid "|cff00ff00Cannon Tower"
+msgstr "|cff00ff00Орудийная башня"
+
+# Units, ID: hbla, New ID: h61W, Name
+msgid "|cffFF8824Mosquee"
+msgstr "|cffFF8824Мечеть"
+
+# Units, ID: hbla, New ID: h61W, Tooltip
+msgid "|cff89D745Build a Mos|cffffffffq|r|cff89D745uee"
+msgstr "|cff89D745Построить мечеть (|cffffcc00Q|cff89D745)"
+
+# Units, ID: hbla, New ID: h61W, Ubertip
+msgid "|cffD7C845Can train Islamic Warriors and Islamic Healers."
+msgstr "|cffD7C845Здесь вы можете нанять исламских воинов и целителей."
+
+# Units, ID: hfoo, New ID: h61Y, Name
+msgid "|cffFF8824South Raider"
+msgstr "|cffFF8824Южный налётчик"
+
+# Units, ID: hfoo, New ID: h61Y, Tooltip
+msgid "|cffFF8824Train a |cffffffffS|r|cffFF8824outh Raider"
+msgstr "|cffFF8824Нанять южного налётчика (|cffffcc00C|cffFF8824)"
+
+# Units, ID: hfoo, New ID: h61Y, Ubertip
+msgid ""
+"|cffCDB79E [ Slash | Cavalry ]\n"
+"A great and fast mounted unit."
+msgstr ""
+"|cffCDB79E [ Режущая атака | Кавалерийская броня ]\n"
+"Быстрый и эффективный верховой юнит."
+
+# Units, ID: htow, New ID: h004, Name
+msgid "|cff00ff00Léon"
+msgstr "|cff00ff00Леон "
+
+# Units, ID: htow, New ID: h005, Name
+msgid "|cffff6500Mosyr"
+msgstr "|cffff6500Мозырь "
+
+# Units, ID: htow, New ID: h006, Name
+msgid "|cffff6500Gomel"
+msgstr "|cffff6500Гомель "
+
+# Units, ID: Hpal, New ID: H61Z, Name
+msgid "King of Holy Roman Empire"
+msgstr "Король Римской империи"
+
+# Units, ID: Hpal, New ID: H620, Name
+msgid "Emperor of Byzantine Empire"
+msgstr "Император Византии"
+
+# Units, ID: Hpal, New ID: H621, Name
+msgid "Sultan of Turkey"
+msgstr "Турецкий султан"
+
+# Units, ID: Hpal, New ID: H622, Name
+msgid "Duke of Kiev"
+msgstr "Киевский князь"
+
+# Units, ID: Hpal, New ID: H623, Name
+msgid "King of Castilla y Léon"
+msgstr "Король Испании"
+
+# Units, ID: Hpal, New ID: H624, Name
+msgid "King of Sweden"
+msgstr "Король Швеции"
+
+# Units, ID: Hpal, New ID: H625, Name
+msgid "King of France"
+msgstr "Король Франции"
+
+# Units, ID: Hpal, New ID: H626, Name
+msgid "King of England"
+msgstr "Король Англии"
+
+# Units, ID: Hpal, New ID: H627, Name
+msgid "Sultan of Morocco"
+msgstr "Султан Марокко"
+
+# Units, ID: hfoo, New ID: h628, Name
+msgid "|cffF0DD00Heavy Crusader"
+msgstr "|cffF0DD00Крестоносец"
+
+# Units, ID: hfoo, New ID: h628, Tooltip
+msgid "|cffF0DD00Train a Heavy |cffffffffC|r|cffF0DD00rusader"
+msgstr "|cffF0DD00Нанять крестоносца (|cffffcc00C|cffF0DD00)"
+
+# Units, ID: hfoo, New ID: h628, Ubertip
+msgid ""
+"|cffCDB79E [ Sharp | Medium Metal ]\n"
+"Religion soldier, Crusade soldier, can use Rage, better than standard Crusaders."
+msgstr ""
+"|cffCDB79E [ Режущая атака | Стальная броня ]\n"
+"Религиозный солдат, может использовать ярость."
+
+# Units, ID: Hpal, New ID: H00A, Name
+msgid "King of Unified Italian States"
+msgstr "Король Италии"
+
+# Units, ID: Hpal, New ID: H00B, Name
+msgid "King of Poland-Lithuania"
+msgstr "Король Польшы"
+
+# Units, ID: Hpal, New ID: H00C, Name
+msgid "King of Hungary"
+msgstr "Король Венгрии"
+
+# Units, ID: hgtw, New ID: h00F, Name
+msgid "|cffFF8824Heavy Guard Tower"
+msgstr "|cffFF8824Усиленная сторожевая башня"
+
+# Units, ID: hgtw, New ID: h00F, Tooltip
+msgid "|cff89D745Upgrade to Heavy |cffffffffG|r|cff89D745uard Tower"
+msgstr "|cff89D745Усилить сторожевую башню (|cffffcc00G|cffF0DD00)"
+
+# Units, ID: hgtw, New ID: h00F, Ubertip
+msgid "|cffD7C845More resistant than Ballista tower, gets more hp, more armor and deals more damage."
+msgstr "|cffD7C845Более прочная, лучше защищённая башня с увеличенной силой атаки."
+
+# Units, ID: ngsp, New ID: n001, Name
+msgid "|cffFF8824Islamic Martyrs"
+msgstr "|cffFF8824Мученики"
+
+# Units, ID: ngsp, New ID: n001, Tooltip
+msgid "|cffF0DD00Train two Is|cffffffffl|r|cffF0DD00amic Martyrs"
+msgstr "|cffF0DD00Нанять исламских мучеников (|cffffcc00L|cffF0DD00)"
+
+# Units, ID: ngsp, New ID: n001, Ubertip
+msgid ""
+"|cffCDB79E [ * | Leather ]\n"
+"Religion soldier, has Explode, can use Rage."
+msgstr ""
+"|cffCDB79E [ * | Легкая броня ]\n"
+"Религиозный солдат, могут подрывать себя и использовать ярость."
+
+# Units, ID: htow, New ID: h00K, Name
+msgid "|cff00ff00Sfax"
+msgstr "|cff00ff00Сфакс"
+
+# Units, ID: htow, New ID: h00M, Name
+msgid "|cff00ff00Gabes"
+msgstr "|cff00ff00Габес"
+
+# Units, ID: htow, New ID: h00N, Name
+msgid "|cff00ff00Kenitra"
+msgstr "|cff00ff00Кенитра"
+
+# Units, ID: htow, New ID: h00O, Name
+msgid "|cff00ff00Tarabulus"
+msgstr "|cff00ff00Триполи"
+
+# Units, ID: htow, New ID: h00P, Name
+msgid "|cff00ff00Augliha"
+msgstr "|cff00ff00Оглиха"
+
+# Units, ID: htow, New ID: h00Q, Name
+msgid "|cff00ff00Damanhour"
+msgstr "|cff00ff00Даманхур"
+
+# Units, ID: htow, New ID: h00R, Name
+msgid "|cff00ff00Dun Hat"
+msgstr "|cff00ff00Дун Хат"
+
+# Units, ID: htow, New ID: h00S, Name
+msgid "|cff00ff00Jerusalem"
+msgstr "|cff00ff00Иерусалим"
+
+# Units, ID: htow, New ID: h00T, Name
+msgid "|cff00ff00Akon"
+msgstr "|cff00ff00Акон"
+
+# Units, ID: htow, New ID: h00U, Name
+msgid "|cff00ff00Tadmuriyah"
+msgstr "|cff00ff00Саламиах"
+
+# Units, ID: htow, New ID: h00V, Name
+msgid "|cff00ff00Kandjahk"
+msgstr "|cff00ff00Канджак"
+
+# Units, ID: htow, New ID: h00W, Name
+msgid "|cff00ff00Kuba"
+msgstr "|cff00ff00Куба"
+
+# Units, ID: htow, New ID: h00X, Name
+msgid "|cffff6500Reykjavik"
+msgstr "|cffff6500Рейкьявик"
+
+# Units, ID: htow, New ID: h00Y, Name
+msgid "|cff00ff00Lisbon"
+msgstr "|cff00ff00Лиссабон"
+
+# Units, ID: htow, New ID: h00Z, Name
+msgid "|cff00ff00Porto"
+msgstr "|cff00ff00Порту"
+
+# Units, ID: htow, New ID: h00L, Name
+msgid "|cff00ff00Bilbao"
+msgstr "|cff00ff00Бильбао"
+
+# Units, ID: htow, New ID: h010, Name
+msgid "|cff00ff00Malaga"
+msgstr "|cff00ff00Малага"
+
+# Units, ID: htow, New ID: h011, Name
+msgid "|cffff6500Auvergne"
+msgstr "|cffff6500Овернь"
+
+# Units, ID: htow, New ID: h012, Name
+msgid "|cffff6500Le Havre"
+msgstr "|cffff6500Гавр"
+
+# Units, ID: htow, New ID: h013, Name
+msgid "|cff00ff00Crete"
+msgstr "|cff00ff00Крит "
+
+# Units, ID: htow, New ID: h014, Name
+msgid "|cff00ff00Chypre"
+msgstr "|cff00ff00Шипр"
+
+# Units, ID: htow, New ID: h015, Name
+msgid "|cffff6500Skopje"
+msgstr "|cffff6500Скопье"
+
+# Units, ID: htow, New ID: h016, Name
+msgid "|cffff6500Switzerland"
+msgstr "|cffff6500Швейцария"
+
+# Units, ID: htow, New ID: h017, Name
+msgid "|cffff6500Amsterdam"
+msgstr "|cffff6500Амстердам"
+
+# Units, ID: htow, New ID: h018, Name
+msgid "|cffff6500Köbenhaven"
+msgstr "|cffff6500Копенгаген"
+
+# Units, ID: htow, New ID: h019, Name
+msgid "|cffff6500Kiev"
+msgstr "|cffff6500Киев"
+
+# Units, ID: htow, New ID: h01A, Name
+msgid "|cffff6500Vilnius"
+msgstr "|cffff6500Вильнюс"
+
+# Units, ID: htow, New ID: h01B, Name
+msgid "|cffff6500Ljubliana"
+msgstr "|cffff6500Любляна"
+
+# Units, ID: htow, New ID: h01C, Name
+msgid "|cffff6500Zagreb"
+msgstr "|cffff6500Загреб"
+
+# Units, ID: htow, New ID: h01D, Name
+msgid "|cffff6500Tirana"
+msgstr "|cffff6500Тирана"
+
+# Units, ID: htow, New ID: h01E, Name
+msgid "|cffff6500Krakow"
+msgstr "|cffff6500Краков"
+
+# Units, ID: htow, New ID: h01F, Name
+msgid "|cffff6500Cluj-Napoca"
+msgstr "|cffff6500Клуж-Напока"
+
+# Units, ID: htow, New ID: h01G, Name
+msgid "|cffff6500Lviv"
+msgstr "|cffff6500Львов"
+
+# Units, ID: htow, New ID: h01H, Name
+msgid "|cffff6500Warsaw"
+msgstr "|cffff6500Варшава"
+
+# Units, ID: Nalc, New ID: N002, Name
+msgid "France"
+msgstr "Франция"
+
+# Units, ID: Nalc, New ID: N002, Ubertip
+msgid ""
+"|cff00ff00Color|cffCDB79E : Blue\n"
+"|cffE2913FSpecial Unit|cffCDB79E : Knight\n"
+"|cff3FC1E2Recommended Allies|cffCDB79E : Unified Italian States or Holy Roman Empire or Castilla y Léon"
+msgstr ""
+"|cff00ff00Цвет|cffCDB79E: синий\n"
+"|cffE2913FСпец. юнит|cffCDB79E: рыцарь\n"
+"|cff3FC1E2Рекомендуемые союзники|cffCDB79E: Италия, Германия или Испания"
+
+# Units, ID: Nalc, New ID: N002, Tooltip
+msgid "|cffCDB79EChoose |cff3050BBKingdom of France|r"
+msgstr "|cffCDB79EВыбрать |cff3050BBФранцию|r "
+
+# Units, ID: Nalc, New ID: N003, Name
+msgid "England"
+msgstr "Англия"
+
+# Units, ID: Nalc, New ID: N003, Ubertip
+msgid ""
+"|cff00ff00Color|cffCDB79E : Red\n"
+"|cffE2913FSpecial Unit|cffCDB79E : Longbowman\n"
+"|cff3FC1E2Recommended Allies|cffCDB79E : Kingdom of France or Crown of Finland"
+msgstr ""
+"|cff00ff00Цвет|cffCDB79E: красный\n"
+"|cffE2913FСпец. юнит|cffCDB79E: английский лучник\n"
+"|cff3FC1E2Рекомендуемые союзники|cffCDB79E: Франция или Финляндия"
+
+# Units, ID: Nalc, New ID: N003, Tooltip
+msgid "|cffCDB79EChoose |cffC00020Kingdom of England|r"
+msgstr "|cffCDB79EВыбрать |cffC00020Англию|r "
+
+# Units, ID: Nalc, New ID: N004, Name
+msgid "Hungary"
+msgstr "Венгрия"
+
+# Units, ID: Nalc, New ID: N004, Ubertip
+msgid ""
+"|cff00ff00Color|cffCDB79E : Teal\n"
+"|cffE2913FSpecial Unit|cffCDB79E : Infantry \n"
+"|cff3FC1E2Recommended Allies|cffCDB79E : Kingdom of Greece or Unified Italian States or Crown of Ukraine"
+msgstr ""
+"|cff00ff00Цвет|cffCDB79E: бирюзовый\n"
+"|cffE2913FСпец. юнит|cffCDB79E: пехота \n"
+"|cff3FC1E2Рекомендуемые союзники|cffCDB79E: Греция, Италия или Украина"
+
+# Units, ID: Nalc, New ID: N004, Tooltip
+msgid "|cffCDB79EChoose |cff00EEDDCrown of Hungary|r"
+msgstr "|cffCDB79EВыбрать |cff00EEDDВенгрию|r "
+
+# Units, ID: Nalc, New ID: N005, Name
+msgid "Morocoo"
+msgstr "Альмохады"
+
+# Units, ID: Nalc, New ID: N005, Ubertip
+msgid ""
+"|cff00ff00Color|cffCDB79E : Orange\n"
+"|cffE2913FSpecial Unit|cffCDB79E : Raider \n"
+"|cff3FC1E2Recommended Allies|cffCDB79E : Beni Ghaniya or Sultanat of Egypt or Spain"
+msgstr ""
+"|cff00ff00Цвет|cffCDB79E: оранжевый\n"
+"|cffE2913FСпец. юнит|cffCDB79E: мародёр \n"
+"|cff3FC1E2Рекомендуемые союзники|cffCDB79E: Бени Гания, Египет или Испания"
+
+# Units, ID: Nalc, New ID: N005, Tooltip
+msgid "|cffCDB79EChoose |cffFF8422Almohads|r"
+msgstr "|cffCDB79EВыбрать |cffFF8422Альмохады|r"
+
+# Units, ID: Nalc, New ID: N006, Name
+msgid "Turkey"
+msgstr "Турция"
+
+# Units, ID: Nalc, New ID: N006, Ubertip
+msgid ""
+"|cff00ff00Color|cffCDB79E : Green\n"
+"|cffE2913FSpecial Unit|cffCDB79E : Mameluk\n"
+"|cff3FC1E2Recommended Allies|cffCDB79E : Liban Union or Byzantine Empire"
+msgstr ""
+"|cff00ff00Цвет|cffCDB79E: зеленый\n"
+"|cffE2913FСпец. юнит|cffCDB79E: мамелюк\n"
+"|cff3FC1E2Рекомендуемые союзники|cffCDB79E: Ливан или Византия"
+
+# Units, ID: Nalc, New ID: N006, Tooltip
+msgid "|cffCDB79EChoose |cff00ff00Seldjouks Turks|r"
+msgstr "|cffCDB79EВыбрать |cff00ff00Турцию|r "
+
+# Units, ID: Nalc, New ID: N007, Name
+msgid "Egypt"
+msgstr "Египет"
+
+# Units, ID: Nalc, New ID: N007, Ubertip
+msgid ""
+"|cff00ff00Color|cffCDB79E : Brown\n"
+"|cffE2913FSpecial Unit|cffCDB79E : Desert Swordman\n"
+"|cff3FC1E2Recommended Allies|cffCDB79E : Liban Union or Beni Ghaniya"
+msgstr ""
+"|cff00ff00Цвет|cffCDB79E: коричневый\n"
+"|cffE2913FСпец. юнит|cffCDB79E: пустынный мечник\n"
+"|cff3FC1E2Рекомендуемые союзники|cffCDB79E: Ливан или Бени Гания"
+
+# Units, ID: Nalc, New ID: N007, Tooltip
+msgid "|cffCDB79EChoose |cff703020Sultanat of Egypt|r"
+msgstr "|cffCDB79EВыбрать |cff703020Египет|r "
+
+# Units, ID: Nalc, New ID: N008, Name
+msgid "Germany"
+msgstr "Германия"
+
+# Units, ID: Nalc, New ID: N008, Ubertip
+msgid ""
+"|cff00ff00Color|cffCDB79E : Brown\n"
+"|cffE2913FSpecial Unit|cffCDB79E : Hussar\n"
+"|cff3FC1E2Recommended Allies|cffCDB79E : Kingdom of France or Poland-Lithuania or Unified Italian States"
+msgstr ""
+"|cff00ff00Цвет|cffCDB79E: коричневый\n"
+"|cffE2913FСпец. юнит|cffCDB79E: гусар\n"
+"|cff3FC1E2Рекомендуемые союзники|cffCDB79E: Франция, Польша или Италия"
+
+# Units, ID: Nalc, New ID: N008, Tooltip
+msgid "|cffCDB79EChoose |cff905030Holy Roman Empire|r"
+msgstr "|cffCDB79EВыбрать |cff905030Германию|r "
+
+# Units, ID: Nalc, New ID: N009, Name
+msgid "Spain"
+msgstr "Испания"
+
+# Units, ID: Nalc, New ID: N009, Ubertip
+msgid ""
+"|cff00ff00Color|cffCDB79E : Pink\n"
+"|cffE2913FSpecial Unit|cffCDB79E : Conquistador \n"
+"|cff3FC1E2Recommended Allies|cffCDB79E : Kingdom of France or Almoheads"
+msgstr ""
+"|cff00ff00Цвет|cffCDB79E: розовый\n"
+"|cffE2913FСпец. юнит|cffCDB79E: конкистадор \n"
+"|cff3FC1E2Рекомендуемые союзники|cffCDB79E: Франция или Альмохады"
+
+# Units, ID: Nalc, New ID: N009, Tooltip
+msgid "|cffCDB79EChoose |cffF090EECastilla y Léon|r"
+msgstr "|cffCDB79EВыбрать |cffF090EEИспанию|r "
+
+# Units, ID: Nalc, New ID: N00A, Name
+msgid "Italy"
+msgstr "Италия"
+
+# Units, ID: Nalc, New ID: N00A, Ubertip
+msgid ""
+"|cff00ff00Color|cffCDB79E : Purple\n"
+"|cffE2913FSpecial Unit|cffCDB79E : Healer and Cardinal \n"
+"|cff3FC1E2Recommended Allies|cffCDB79E : Kingdom of France or Empire of Greece or Holy Roman Empire"
+msgstr ""
+"|cff00ff00Цвет|cffCDB79E: фиолетовый\n"
+"|cffE2913FСпец. юнит|cffCDB79E: целитель и кардинал \n"
+"|cff3FC1E2Рекомендуемые союзники|cffCDB79E: Франция, Греция или Германия"
+
+# Units, ID: Nalc, New ID: N00A, Tooltip
+msgid "|cffCDB79EChoose |cffA030CCUnified Italian States"
+msgstr "|cffCDB79EВыбрать |cffA030CCИталию"
+
+# Units, ID: Nalc, New ID: N00C, Name
+msgid "Poland-Lithuania"
+msgstr "Польша"
+
+# Units, ID: Nalc, New ID: N00C, Ubertip
+msgid ""
+"|cff00ff00Color|cffCDB79E : Dark Green\n"
+"|cffE2913FSpecial Unit|cffCDB79E : Knight\n"
+"|cff3FC1E2Recommended Allies|cffCDB79E : Kievan Russ or Holy Roman Empire or Crown of Hungary"
+msgstr ""
+"|cff00ff00Цвет|cffCDB79E: темно-зеленый\n"
+"|cffE2913FСпец. юнит|cffCDB79E: рыцарь\n"
+"|cff3FC1E2Рекомендуемые союзники|cffCDB79E: Киевская Русь, Германия или Венгрия"
+
+# Units, ID: Nalc, New ID: N00C, Tooltip
+msgid "|cffCDB79EChoose |cff306020Poland-Lithuania|r"
+msgstr "|cffCDB79EВыбрать |cff306020Польшу|r "
+
+# Units, ID: Nalc, New ID: N00D, Name
+msgid "Sweden"
+msgstr "Швеция"
+
+# Units, ID: Nalc, New ID: N00D, Ubertip
+msgid ""
+"|cff00ff00Color|cffCDB79E : Light Blue\n"
+"|cffE2913FSpecial Unit|cffCDB79E : Frigate\n"
+"|cff3FC1E2Recommended Allies|cffCDB79E : CROWN OF FINLAND"
+msgstr ""
+"|cff00ff00Цвет|cffCDB79E: светло-синий\n"
+"|cffE2913FСпец. юнит|cffCDB79E: фрегат\n"
+"|cff3FC1E2Рекомендуемые союзники|cffCDB79E: ФИНЛЯНДИЯ"
+
+# Units, ID: Nalc, New ID: N00D, Tooltip
+msgid "|cffCDB79EChoose |cff005090Kingdom of Sweden|r"
+msgstr "|cffCDB79EВыбрать |cff005090Швецию|r "
+
+# Units, ID: Nalc, New ID: N00E, Name
+msgid "Ukraine"
+msgstr "Украина"
+
+# Units, ID: Nalc, New ID: N00E, Ubertip
+msgid ""
+"|cff00ff00Color|cffCDB79E : Yellow\n"
+"|cffE2913FSpecial Unit|cffCDB79E : Warrior\n"
+"|cff3FC1E2Recommended Allies|cffCDB79E : Crown of Hungary or Kingdom of Greece or Kievan Russ"
+msgstr ""
+"|cff00ff00Цвет|cffCDB79E: желтый\n"
+"|cffE2913FСпец. юнит|cffCDB79E: воин\n"
+"|cff3FC1E2Рекомендуемые союзники|cffCDB79E: Венгрия, Греция или Киевская Русь"
+
+# Units, ID: Nalc, New ID: N00E, Tooltip
+msgid "|cffCDB79EChoose |cffffff00Crown of Ukraine|r"
+msgstr "|cffCDB79EВыбрать |cffffff00Украину|r "
+
+# Units, ID: Nalc, New ID: N00F, Name
+msgid "Kiev"
+msgstr "Киев"
+
+# Units, ID: Nalc, New ID: N00F, Ubertip
+msgid ""
+"|cff00ff00Color|cffCDB79E : Light Blue\n"
+"|cffE2913FSpecial Unit|cffCDB79E : Infantry\n"
+"|cff3FC1E2Recommended Allies|cffCDB79E : Duchy of Moskva or Crown of Ukraine"
+msgstr ""
+"|cff00ff00Цвет|cffCDB79E: светло-синий\n"
+"|cffE2913FСпец. юнит|cffCDB79E: пехота\n"
+"|cff3FC1E2Рекомендуемые союзники|cffCDB79E: Москва или Украина"
+
+# Units, ID: Nalc, New ID: N00F, Tooltip
+msgid "|cffCDB79EChoose |cff3060CCKievan Russ|r"
+msgstr "|cffCDB79EВыбрать |cff3060CCКиевскую Русь|r "
+
+# Units, ID: Nalc, New ID: N00G, Name
+msgid "North Russia"
+msgstr "Россия"
+
+# Units, ID: Nalc, New ID: N00G, Ubertip
+msgid ""
+"|cff00ff00Color|cffCDB79E : Pink\n"
+"|cffE2913FSpecial Unit|cffCDB79E : Cossak\n"
+"|cff3FC1E2Recommended Allies|cffCDB79E : Kevian Russ or Crown of Sweden or Crown of Finland"
+msgstr ""
+"|cff00ff00Цвет|cffCDB79E: розовый\n"
+"|cffE2913FСпец. юнит|cffCDB79E: казак\n"
+"|cff3FC1E2Рекомендуемые союзники|cffCDB79E: Киев, Швеция или Финляндия"
+
+# Units, ID: Nalc, New ID: N00G, Tooltip
+msgid "|cffCDB79EChoose |cffD020DDDuchy of Moskva|r"
+msgstr "|cffCDB79EВыбрать |cffD020DDМосковию|r "
+
+# Units, ID: Nalc, New ID: N00H, Name
+msgid "Finland"
+msgstr "Финляндия"
+
+# Units, ID: Nalc, New ID: N00H, Ubertip
+msgid ""
+"|cff00ff00Color|cffCDB79E : Gray\n"
+"|cffE2913FSpecial Unit|cffCDB79E : Knight\n"
+"|cff3FC1E2Recommended Allies|cffCDB79E : CROWN OF SWEDEN"
+msgstr ""
+"|cff00ff00Цвет|cffCDB79E: серый\n"
+"|cffE2913FСпец. юнит|cffCDB79E: рыцарь\n"
+"|cff3FC1E2Рекомендуемые союзники|cffCDB79E: ШВЕЦИЯ"
+
+# Units, ID: Nalc, New ID: N00H, Tooltip
+msgid "|cffCDB79EChoose |cff8a8a8aCrown of Finland|r"
+msgstr "|cffCDB79EВыбрать |cff8a8a8aФинляндию|r "
+
+# Units, ID: Nalc, New ID: N00I, Name
+msgid "Greece"
+msgstr "Греция"
+
+# Units, ID: Nalc, New ID: N00I, Ubertip
+msgid ""
+"|cff00ff00Color|cffCDB79E : Orange\n"
+"|cffE2913FSpecial Unit|cffCDB79E : Hoplite\n"
+"|cff3FC1E2Recommended Allies|cffCDB79E : Crown of Hungary or Byzantine Empire or Crown of Ukraine"
+msgstr ""
+"|cff00ff00Цвет|cffCDB79E: оранжевый\n"
+"|cffE2913FСпец. юнит|cffCDB79E: гоплит\n"
+"|cff3FC1E2Рекомендуемые союзники|cffCDB79E: Венгрия, Византия или Украина"
+
+# Units, ID: Nalc, New ID: N00I, Tooltip
+msgid "|cffCDB79EChoose |cffFF6010Empire of Greece|r"
+msgstr "|cffCDB79EВыбрать |cffFF6010Грецию|r "
+
+# Units, ID: Nalc, New ID: N00J, Name
+msgid "Liban"
+msgstr "Ливан"
+
+# Units, ID: Nalc, New ID: N00J, Ubertip
+msgid ""
+"|cff00ff00Color|cffCDB79E : Red\n"
+"|cffE2913FSpecial Unit|cffCDB79E : Arabian Warrior\n"
+"|cff3FC1E2Recommended Allies|cffCDB79E : Seldjouks Turks or Sultanat of Egypt"
+msgstr ""
+"|cff00ff00Цвет|cffCDB79E: красный\n"
+"|cffE2913FСпец. юнит|cffCDB79E: арабский воитель\n"
+"|cff3FC1E2Рекомендуемые союзники|cffCDB79E: Турция или Египет"
+
+# Units, ID: Nalc, New ID: N00J, Tooltip
+msgid "|cffCDB79EChoose |cff900020Liban Union|r"
+msgstr "|cffCDB79EВыбрать |cff900020Ливан|r "
+
+# Units, ID: ntav, New ID: n00K, Name
+msgid "North Countries"
+msgstr "Северные страны"
+
+# Units, ID: ntav, New ID: n00L, Name
+msgid "South Countries"
+msgstr "Южные страны"
+
+# Units, ID: Hpal, New ID: H008, Name
+msgid "King of Egypt"
+msgstr "Король Египта"
+
+# Units, ID: Hpal, New ID: H01I, Name
+msgid "Leader of Liban"
+msgstr "Лидер Либана"
+
+# Units, ID: Hpal, New ID: H01J, Name
+msgid "Duke of Moskva"
+msgstr "Московский князь"
+
+# Units, ID: Hpal, New ID: H01K, Name
+msgid "King of Finland"
+msgstr "Король Финляндии"
+
+# Units, ID: Hpal, New ID: H01L, Name
+msgid "Emperor of Greece"
+msgstr "Император Греции"
+
+# Units, ID: Hpal, New ID: H01M, Name
+msgid "King of Ukraine"
+msgstr "Король Украины"
+
+# Units, ID: Nalc, New ID: N00B, Name
+msgid "Byzantine Empire"
+msgstr "Византийская империя"
+
+# Units, ID: Nalc, New ID: N00B, Ubertip
+msgid ""
+"|cff00ff00Color|cffCDB79E : Yellow\n"
+"|cffE2913FSpecial Unit|cffCDB79E : Cataphract\n"
+"|cff3FC1E2Recommended Allies|cffCDB79E : Seldjouks Turks or Kingdom Greece"
+msgstr ""
+"|cff00ff00Цвет|cffCDB79E: желтый\n"
+"|cffE2913FСпец. юнит|cffCDB79E: катафракт\n"
+"|cff3FC1E2Рекомендуемые союзники|cffCDB79E: Турция или Греция"
+
+# Units, ID: Nalc, New ID: N00B, Tooltip
+msgid "|cffCDB79EChoose |cffffff55Byzantine Empire|r"
+msgstr "|cffCDB79EВыбрать |cffffff55Византию|r "
+
+# Units, ID: hdes, New ID: h009, Name
+msgid "|cffD0BB70Pirate Warship"
+msgstr "|cffD0BB70Пиратский корабль"
+
+# Units, ID: hdes, New ID: h00D, Name
+msgid "|cff00ff00Mercenary Frigate"
+msgstr "|cff00ff00Фрегат наемников"
+
+# Units, ID: hdes, New ID: h00D, Tooltip
+msgid "|cffFF8824Recruit a |cffffffffM|r|cffFF8824ercenary Frigate"
+msgstr "|cffFF8824Нанять фрегат (|cffffcc00M|cffFF8824)"
+
+# Units, ID: hdes, New ID: h00D, Ubertip
+msgid ""
+"|cffCDB79E [ Cannon Powder | Reinforced ]\n"
+"Do not display Nation Color."
+msgstr ""
+"|cffCDB79E [ Порох | Усиленная броня ]\n"
+"Не показывает ваш цвет."
+
+# Units, ID: hfoo, New ID: h00H, Name
+msgid "|cffD0BB70Native Soldier"
+msgstr "|cffD0BB70Солдат"
+
+# Units, ID: hfoo, New ID: h00H, Tooltip
+msgid "|cffFF8824Train a |cffffffffL|r|cffFF8824ight Infantry"
+msgstr "|cffFF8824Нанять солдата (|cffffcc00L|cffFF8824)"
+
+# Units, ID: nhea, New ID: n00M, Name
+msgid "|cffD0BB70Native Bowman"
+msgstr "|cffD0BB70Лучник"
+
+# Units, ID: nhea, New ID: n00M, Ubertip
+msgid ""
+"|cffCDB79E [ Arrows | Leather ]\n"
+"Stadnard bowman of your army, effective against light armored units."
+msgstr ""
+"|cffCDB79E [ Стрелы | Легкая броня ]\n"
+"Обычный лучник, эффективен против слабозащищённых войск."
+
+# Units, ID: hfoo, New ID: h00I, Name
+msgid "|cffD0BB70Native Guardian"
+msgstr "|cffD0BB70Страж"
+
+# Units, ID: hfoo, New ID: h00J, Name
+msgid "|cffD0BB70Armed Citizen"
+msgstr "|cffD0BB70Ополчение"
+
+# Units, ID: hfoo, New ID: h00J, Tooltip
+msgid "|cffFF8824Train a M|cffffffffi|r|cffFF8824litia"
+msgstr "|cffFF8824Нанять ополчение (|cffffcc00I|cffFF8824)"
+
+# Units, ID: hfoo, New ID: h01N, Name
+msgid "|cffFF8422Body Guard"
+msgstr "|cffFF8422Телохранитель"
+
+# Units, ID: hfoo, New ID: h01N, Ubertip
+msgid ""
+"|cffCDB79E [ Slash | Medium Metal ]\n"
+"A powerfull unit which protect the King."
+msgstr ""
+"|cffCDB79E [ Режущая атака | Стальная броня ]\n"
+"Воин, защищающий короля."
+
+# Units, ID: hwtw, New ID: h01O, Name
+msgid "|cffFF7F24Explosive barrels"
+msgstr "|cffFF7F24Пороховой заряд"
+
+# Units, ID: hwtw, New ID: h01O, Ubertip
+msgid "|cffD7C845Choose when destroy it. You can also active auto-cast system."
+msgstr "|cffD7C845Используется для быстрого уничтожения вражеский построек."
+
+# Units, ID: hwtw, New ID: h01O, Tooltip
+msgid "|cff89D745Set up E|cffffffffx|r|cff89D745plosive Barrels"
+msgstr "|cff89D745Установить пороховой заряд (|cffffcc00X|cff89D745)"
+
+# Units, ID: hfoo, New ID: h01X, Name
+msgid "|cffFF7F24Camel Rider"
+msgstr "|cffFF7F24Наездник на верблюде"
+
+# Units, ID: hfoo, New ID: h01X, Tooltip
+msgid "|cffFF8824Train a |cffffffffC|r|cffFF8824amel Rider"
+msgstr "|cffFF8824Нанять наездника на верблюде (|cffffcc00C|cffFF8824)"
+
+# Units, ID: hfoo, New ID: h01X, Ubertip
+msgid ""
+"|cffCDB79E [ Slash | Cavalry ]\n"
+"A guy mounted on a camel, medium close combat unit. Has Rally and Charge abilitys."
+msgstr ""
+"|cffCDB79E [ Режущая атака | Кавалерийская броня ]\n"
+"Воин африканских пустынь. Хорош для боёв на ближней дистанции."
+
+# Units, ID: hfoo, New ID: h01Y, Name
+msgid "|cff007060Heavy Camel Rider"
+msgstr "|cff007060Наездник на верблюде"
+
+# Units, ID: hfoo, New ID: h01Y, Tooltip
+msgid "|cffFF8824Train a |cffffffffH|r|cffFF8824eavy Camel Rider"
+msgstr "|cffFF8824Нанять наездника на верблюде (|cffffcc00C|cffFF8824)"
+
+# Units, ID: hfoo, New ID: h01Y, Ubertip
+msgid ""
+"|cffCDB79E [ Slash | Cavalry ]\n"
+"Strong mounted unit, better than standard Camel Rider, has Rally, Charge, Heavy Armor and Shieldbreak abilitys."
+msgstr ""
+"|cffCDB79E [ Режущая атака | Кавалерийская броня ]\n"
+"Воин африканских пустынь. Хорош для боёв на ближней дистанции."
+
+# Units, ID: hfoo, New ID: h01Q, Name
+msgid "|cffFF7F24Desert Swordman"
+msgstr "|cffFF7F24Пустынный мечник"
+
+# Units, ID: hfoo, New ID: h01Q, Tooltip
+msgid "|cffFF7F24Train a Desert |cffffffffS|r|cffFF7F24wordman"
+msgstr "|cffFF7F24Нанять пустынного мечника (|cffffcc00S|cffFF7F24)"
+
+# Units, ID: hctw, New ID: h01P, Name
+msgid "|cffFF8824Trebuchet"
+msgstr "|cffFF8824Требушет"
+
+# Units, ID: hctw, New ID: h01P, Tooltip
+msgid "|cff89D745Build a |cffffffffT|r|cff89D745rebuchet"
+msgstr "|cff89D745Построить требушет (|cffffcc00T|cff89D745)"
+
+# Units, ID: hctw, New ID: h01P, Ubertip
+msgid ""
+"|cffCDB79E [ Siege | Reinforced ]\n"
+"Very long siege weapon. Can't be moved, but can be sold."
+msgstr ""
+"|cffCDB79E [ Осадное | Без брони ]\n"
+"Большое осадное орудие. Не может перемещаться, но может быть продано."
+
+# Units, ID: hctw, New ID: h01R, Name
+msgid "|cffFF8824Démonter"
+msgstr "|cffFF8824Демонтировать"
+
+# Units, ID: hctw, New ID: h01R, Tooltip
+msgid "|cffffffffD|r|cff89D745isassemble Trebuchet"
+msgstr "|cff89D745Разобрать требушет (|cffffcc00D|cff89D745)"
+
+# Units, ID: hctw, New ID: h01R, Ubertip
+msgid "|cffD7C845Give back 50% of the trbuchet's total cost."
+msgstr "|cffD7C845Вернуть 50% цены требушета"
+
+# Units, ID: htow, New ID: h01S, Name
+msgid "|cff00ff00Castamoni"
+msgstr "|cff00ff00Кастамоню "
+
+# Units, ID: htow, New ID: h01V, Name
+msgid "|cff00ff00Ad'ora"
+msgstr "|cff00ff00Адора"
+
+# Units, ID: hbla, New ID: h01W, Name
+msgid "|cffFF8824Trade Spot"
+msgstr "|cffFF8824Торговый пост"
+
+# Units, ID: hbla, New ID: h01W, Tooltip
+msgid "|cff89D745Build a |cffffffffT|r|cff89D745rade Spot"
+msgstr "|cff89D745Построить торговый пост (|cffffcc00T|cff89D745)"
+
+# Units, ID: hbla, New ID: h01W, Ubertip
+msgid "|cffD7C845Selling building. Choose between Market and Armory, each building sells differents items."
+msgstr "|cffD7C845Может быть улучшен до рынка или оружейной, в которых вы сможете купить различные предметы."
+
+# Units, ID: Nalc, New ID: N00N, Name
+msgid "Beni Ghaniya"
+msgstr "Бени Гания"
+
+# Units, ID: Nalc, New ID: N00N, Ubertip
+msgid ""
+"|cff00ff00Color|cffCDB79E : Blue\n"
+"|cffE2913FSpecial Unit|cffCDB79E : Muslim Fanatic\n"
+"|cff3FC1E2Recommended Allies|cffCDB79E : Almoheads or Sultanat of Egypt"
+msgstr ""
+"|cff00ff00Цвет|cffCDB79E: синий\n"
+"|cffE2913FСпец. юнит|cffCDB79E: фанатик\n"
+"|cff3FC1E2Рекомендуемые союзники|cffCDB79E: Альмохады или Египет"
+
+# Units, ID: Nalc, New ID: N00N, Tooltip
+msgid "|cffCDB79EChoose |cff4050CCBeni Ghaniya"
+msgstr "|cffCDB79EВыбрать |cff4050CCБени Ганию"
+
+# Units, ID: Hpal, New ID: H020, Name
+msgid "Sultan of Beni Ghaniya"
+msgstr "Султан Бени Гании"
+
+# Units, ID: hfoo, New ID: h021, Name
+msgid "|cffFF7F24Muslim Fanatic"
+msgstr "|cffFF7F24Фанатик"
+
+# Units, ID: hfoo, New ID: h021, Tooltip
+msgid "|cffFF7F24Train a Muslim |cffffffffF|r|cffFF7F24anatic"
+msgstr "|cffFF7F24Нанять фанатика (|cffffcc00F|cff206000)"
+
+# Units, ID: hfoo, New ID: h021, Ubertip
+msgid ""
+"|cffCDB79E [ Blunt | Leather ]\n"
+"A strong and resistant warrior, can use Sacrifice."
+msgstr ""
+"|cffCDB79E [ Тупое оружие | Легкая броня ]\n"
+"Сильный, хорошо защищённый воин. Может использовать ярость берсерка."
+
+# Units, ID: htow, New ID: h024, Name
+msgid "|cffff6500Petrozavodsk"
+msgstr "|cffff6500Петрозаводск "
+
+# Units, ID: hfoo, New ID: h025, Tooltip
+msgid "|cffFF8824Hire an Emergency |cffffffffP|r|cffFF8824ikeman"
+msgstr "|cffFF8824Нанять копейщика (|cffffcc00P|cffFF8824)"
+
+# Units, ID: nhea, New ID: n00O, Tooltip
+msgid "|cffFF8824Hire an Emergency |cffffffffB|r|cffFF8824owman"
+msgstr "|cffFF8824Нанять лучника (|cffffcc00B|cffFF8824)"
+
+# Units, ID: hfoo, New ID: h027, Tooltip
+msgid "|cffFF8824Hire an Emergency |cffffffffM|r|cffFF8824edium Infantry"
+msgstr "|cffFF8824Нанять пехотинца (|cffffcc00M|cffFF8824)"
+
+# Units, ID: nhea, New ID: n00P, Tooltip
+msgid "|cffFF8824Hire an Emergency |cffffffffC|r|cffFF8824omposite Bowman"
+msgstr "|cffFF8824Нанять лучника (|cffffcc00C|cffFF8824)"
+
+# Units, ID: hpea, New ID: h028, Name
+msgid "Special Effect - Tower"
+msgstr "Спец. эффект - башня"
+
+# Units, ID: hbla, New ID: h029, Name
+msgid "|cffFF8824Frontier Fort"
+msgstr "|cffFF8824Форт"
+
+# Units, ID: hbla, New ID: h029, Tooltip
+msgid "|cff89D745Upgrade to |cffffffffF|r|cff89D745rontier Fort"
+msgstr "|cff89D745Обновить до форта (|cffffcc00F|cff89D745)"
+
+# Units, ID: hbla, New ID: h029, Ubertip
+msgid "|cffD7C845A better defensive structure than the standard outpost. Equipped for war the fort can also hire units to quickly defend your kingdom.|r"
+msgstr "|cffD7C845Отлично подходит для защиты ваших границ. Здесь вы можете быстро нанять воинов для отражения вылазок врага.|r"
+
+# Units, ID: hfoo, New ID: h02A, Tooltip
+msgid "|cffFF8824Hire an Emergency M|cffffffffi|r|cffFF8824litia"
+msgstr "|cffFF8824Нанять ополчение (|cffffcc00M|cffFF8824)"
+
+# Units, ID: ocat, New ID: o002, Tooltip
+msgid "|cffFF8824Hire an Emergency |cffffffffC|r|cffFF8824atapult"
+msgstr "|cffFF8824Нанять катапульту (|cffffcc00C|cffFF8824)"
+
+# Units, ID: hbla, New ID: h02B, Name
+msgid "|cffFF8824Market|r"
+msgstr "|cffFF8824Базар"
+
+# Units, ID: hbla, New ID: h02B, Tooltip
+msgid "|cff89D745Choose |cffffffffM|r|cff89D745arket"
+msgstr "|cff89D745Выбрать базар (|cffffcc00F|cff89D745)"
+
+# Units, ID: hbla, New ID: h02B, Ubertip
+msgid "|cffD7C845Sells civilian items."
+msgstr "|cffD7C845Здесь вы можете купить предметы общего назначения."
+
+# Units, ID: hbla, New ID: h02C, Name
+msgid "|cffFF8824Armory|n|cff777777Offensive Items"
+msgstr "|cffFF8824Оружейная|n|cff777777Оружие"
+
+# Units, ID: hbla, New ID: h02C, Tooltip
+msgid "|cff89D745Choose |cffffffffA|r|cff89D745rmory - Offensive Items"
+msgstr "|cff89D745Выбрать оружейную - оружие (|cffffcc00A|cff89D745)"
+
+# Units, ID: hbla, New ID: h02C, Ubertip
+msgid "|cffD7C845Sells offensive military items."
+msgstr "|cffD7C845Здесь вы можете купить оружие."
+
+# Units, ID: hbla, New ID: h02D, Name
+msgid "|cffFF8824Armory|n|cff777777Defensive Items"
+msgstr "|cffFF8824Оружейная|n|cff777777Броня"
+
+# Units, ID: hbla, New ID: h02D, Tooltip
+msgid "|cff89D745Choose |cffffffffA|r|cff89D745rmory - Defensive Items"
+msgstr "|cff89D745Выбрать оружейную - броня (|cffffcc00A|cff89D745)"
+
+# Units, ID: hbla, New ID: h02D, Ubertip
+msgid "|cffD7C845Sells defensive military items."
+msgstr "|cffD7C845Здесь вы можете купить защитную экипировку."
+
+# Units, ID: hfoo, New ID: h02I, Name
+msgid "|cff004000Warrior"
+msgstr "|cff004000Боец"
+
+# Units, ID: hfoo, New ID: h02I, Tooltip
+msgid "|cffFF8824Train a W|cffffffffa|r|cffFF8824rrior"
+msgstr "|cffFF8824Нанять бойца (|cffffcc00A|cffFF8824)"
+
+# Units, ID: hfoo, New ID: h02I, Ubertip
+msgid ""
+"|cffCDB79E [ Slash | Leather ]\n"
+"Damaging soldier, used to break ennemy lines by quick but bloody rushes."
+msgstr ""
+"|cffCDB79E [ Режущая атака | Легкая броня ]\n"
+"Используется для быстрого прорыва линии вражеской обороны."
+
+# Units, ID: hmpr, New ID: h035, Name
+msgid "|cff703080Christian Cardinal"
+msgstr "|cff703080Кардинал"
+
+# Units, ID: hmpr, New ID: h035, Tooltip
+msgid "|cff703080Train a C|cffffffffh|r|cff703080ristian Cardinal"
+msgstr "|cff703080Нанять кардинала (|cffffcc00H|cff89D745)"
+
+# Units, ID: hmpr, New ID: h035, Ubertip
+msgid "|cffCDB79EThe only battle magic unit. Can cast Heal."
+msgstr "|cffCDB79EЕдинственный боевой магический юнит. Может использовать исцеление."
+
+# Units, ID: hfoo, New ID: h036, Name
+msgid "|cff00ff00Trade Caravan"
+msgstr "|cff00ff00Торговый караван"
+
+# Units, ID: hfoo, New ID: h036, Tooltip
+msgid "|cffFF8824Build a |cffffffffT|r|cffFF8824rade Caravan"
+msgstr "|cffFF8824Построить торговый караван (|cffffcc00T|cffFF8824)"
+
+# Units, ID: hfoo, New ID: h036, Ubertip
+msgid ""
+"|cffCDB79EAllow you to trade with other kingdom. Order this unit to attack the market of an ally. It will automaticly make the travel between both markets to sell items.\n"
+"\n"
+"To automaticly work you have to both share vision. You are only able to trade with one player at the same time."
+msgstr ""
+"|cffCDB79EПозволяет вам торговать с другими королевствами. Прикажите юниту атаковать рынок союзника. Караван будет автоматически путешествовать между рынками для продажи предметов.\n"
+"\n"
+"Для автоматической работы у вас обоих должен быть включен общий обзор. Вы можете одновременно торговать только с одним игроком."
+
+# Units, ID: hbla, New ID: h037, Name
+msgid "|cffFF8824Stock Exchange"
+msgstr "|cffFF8824Обменный пункт"
+
+# Units, ID: hbla, New ID: h03C, Name
+msgid "|cffFF8824Siege Tent"
+msgstr "|cffFF8824Осадный лагерь"
+
+# Units, ID: hfoo, New ID: h045, Name
+msgid "|cff004000Sand Warrior"
+msgstr "|cff004000Пустынный воитель"
+
+# Units, ID: hfoo, New ID: h045, Tooltip
+msgid "|cffFF8824Train a |cffffffffS|r|cffFF8824and Warrior"
+msgstr "|cffFF8824Нанять пустынного воителя (|cffffcc00S|cffFF8824)"
+
+# Units, ID: htow, New ID: h046, Name
+msgid "|cffff6500Königsberg"
+msgstr "|cffff6500Кёнигсберг "
+
+# Units, ID: htow, New ID: h04D, Name
+msgid "|cffff6500Oslo"
+msgstr "|cffff6500Осло "
+
+# Units, ID: htow, New ID: h04E, Name
+msgid "|cffff6500Kiruna"
+msgstr "|cffff6500Кируна "
+
+# Units, ID: Nalc, New ID: N00S, Name
+msgid "Random Country"
+msgstr "Случайная страна"
+
+# Units, ID: Nalc, New ID: N00S, Tooltip
+msgid "|cffCDB79EChoose |cff900020Random Country|r"
+msgstr "|cffCDB79EВыбрать |cff900020случайную страну|r"
+
+# Items, ID: shhn, Tooltip
+msgid "|cff406020Purchass |cffffffffM|r|cff406020ithril Shield"
+msgstr "|cffEBC400Купить мифриловый меч (|cffffcc00M|cffEBC400)"
+
+# Items, ID: shhn, Name
+msgid "|cff00ff00Mithril Shield"
+msgstr "|cff00ff00Мифриловый щит"
+
+# Items, ID: shhn, Ubertip
+msgid "|cff60c020Increase armor by 8."
+msgstr "|cff60c020Увеличение защиты на 8 ед."
+
+# Items, ID: sksh, Tooltip
+msgid "|cff406020Purchass |cffffffffB|r|cff406020one Shield"
+msgstr "|cffEBC400Купить костяной щит (|cffffcc00B|cffEBC400)"
+
+# Items, ID: sksh, Name
+msgid "|cff00ff00Bone Shield"
+msgstr "|cff00ff00Костяной щик"
+
+# Items, ID: sksh, Ubertip
+msgid "|cff60c020Increase armor by 4 and give a Permanent Bonus of Life."
+msgstr "|cff60c020Увеличение защиты на 4 ед. Постоянный бонус к жизненой силе."
+
+# Items, ID: shen, Tooltip
+msgid "|cff406020Purchass Ir|cffffffffo|r|cff406020n Shield"
+msgstr "|cffEBC400Купить железный щит (|cffffcc00O|cffEBC400)"
+
+# Items, ID: shen, Name
+msgid "|cff00ff00Iron Shield"
+msgstr "|cff00ff00Железный щит"
+
+# Items, ID: shen, Ubertip
+msgid "|cff60c020Increase armor by 3."
+msgstr "|cff60c020Увеличение защиту на 3 ед."
+
+# Items, ID: rugt, Tooltip
+msgid "|cff406020Purchass |cffffffffI|r|cff406020ron Gauntlets"
+msgstr "|cffEBC400Купить железные наручи (|cffffcc00I|cffEBC400)"
+
+# Items, ID: rugt, Name
+msgid "|cff00ff00Iron Gautlets"
+msgstr "|cff00ff00Железные наручи"
+
+# Items, ID: rugt, Ubertip
+msgid "|cff60c020Increase armor by 2 and damages by 5."
+msgstr "|cff60c020Увеличение защиты на 2 ед. и наносимого урона на 5 ед."
+
+# Items, ID: stwa, Tooltip
+msgid "|cff406020Purchass |cffffffffS|r|cff406020hort Axe"
+msgstr "|cffEBC400Купить секиру (|cffffcc00S|cffEBC400)"
+
+# Items, ID: stwa, Name
+msgid "|cff00ff00Short Axe"
+msgstr "|cff00ff00Секира"
+
+# Items, ID: stwa, Ubertip
+msgid "|cff60c020Increase damages by 4."
+msgstr "|cff60c020Увеличение урона на 4 ед."
+
+# Items, ID: hbth, Tooltip
+msgid "|cff406020Purchass |cffffffffH|r|cff406020elmet"
+msgstr "|cffEBC400Купить шлем (|cffffcc00H|cffEBC400)"
+
+# Items, ID: hbth, Name
+msgid "|cff00ff00Helmet"
+msgstr "|cff00ff00Шлем"
+
+# Items, ID: hbth, Ubertip
+msgid "|cff60c020Increase armor by 4."
+msgstr "|cff60c020Увеличение защиты на 4 ед."
+
+# Items, ID: srbd, Tooltip
+msgid "|cff406020Purchass M|cffffffffi|r|cff406020thril Sword"
+msgstr "|cffEBC400Купить мифриловый меч (|cffffcc00M|cffEBC400)"
+
+# Items, ID: srbd, Name
+msgid "|cff00ff00Mithril Sword"
+msgstr "|cff00ff00Мифриловый меч"
+
+# Items, ID: srbd, Ubertip
+msgid "|cff60c020Increase damage by 14."
+msgstr "|cff60c020Увеличение урона на 14 ед."
+
+# Items, ID: asbl, Tooltip
+msgid "|cff406020Purchass |cffffffffB|r|cff406020lade"
+msgstr "|cffEBC400Купить клинок (|cffffcc00B|cffEBC400)"
+
+# Items, ID: asbl, Name
+msgid "|cff00ff00Blade"
+msgstr "|cff00ff00Клинок"
+
+# Items, ID: asbl, Ubertip
+msgid "|cff60c020Increase damage by 10 and Increase attack speed."
+msgstr "|cff60c020Увеличение урона на 10 ед. Увеличение скорости атаки."
+
+# Items, ID: mlst, Tooltip
+msgid "|cff406020Purchass |cffffffffH|r|cff406020ammer"
+msgstr "|cffEBC400Купить молот (|cffffcc00H|cffEBC400)"
+
+# Items, ID: mlst, Name
+msgid "|cff00ff00Hammer"
+msgstr "|cff00ff00Молот"
+
+# Items, ID: mlst, Ubertip
+msgid "|cff60c020Increase damage by 10."
+msgstr "|cff60c020Увеличение урона на 10 ед."
+
+# Items, ID: srtl, Tooltip
+msgid "|cff406020Purchass Thorium A|cffffffffx|r|cff406020e"
+msgstr "|cffEBC400Купить ториумную секиру (|cffffcc00X|cffEBC400)"
+
+# Items, ID: srtl, Name
+msgid "|cff00ff00Thorium Axe"
+msgstr "|cff00ff00Ториумная секира"
+
+# Items, ID: srtl, Ubertip
+msgid "|cff60c020Add 20 damage to the hero."
+msgstr "|cff60c020Увеличение урона на 20 ед."
+
+# Items, ID: tgxp, Tooltip
+msgid "|cff406020Purchass T|cffffffffo|r|cff406020me of Learning"
+msgstr "|cffEBC400Купить книгу опыта (|cffffcc00O|cffEBC400)"
+
+# Items, ID: tgxp, Name
+msgid "|cff00ff00Tome of Learning"
+msgstr "|cff00ff00Книга опыта"
+
+# Items, ID: tgxp, Ubertip
+msgid "|cff60c020Give a lot of XP point to the hero."
+msgstr "|cff60c020Повышение опыта героя на <AIem,DataA1> ед."
+
+# Items, ID: ankh, Tooltip
+msgid "|cff406020Purchass Ank|cffffffffh|r"
+msgstr "|cffEBC400Купить крест перерождения (|cffffcc00H|cffEBC400)"
+
+# Items, ID: ankh, Name
+msgid "|cff00ff00Ankh"
+msgstr "|cff00ff00Крест перерождения"
+
+# Items, ID: ankh, Ubertip
+msgid "|cff60c020Allow the hero to come back to life."
+msgstr "|cff60c020Воскрешает короля после смерти."
+
+# Items, ID: pghe, Tooltip
+msgid "|cff406020Purchass |cffffffffM|r|cff406020ajor Heal Potion"
+msgstr "|cffEBC400Купить зелье здоровья (|cffffcc00M|cffEBC400)"
+
+# Items, ID: pghe, Name
+msgid "|cff00ff00Major Heal Potion"
+msgstr "|cff00ff00Зелье здоровья"
+
+# Items, ID: pghe, Ubertip
+msgid "|cff60c020Major heal the hero."
+msgstr "|cff60c020Восстановление <AIh2,DataA1> ед. здоровья."
+
+# Items, ID: pgma, Tooltip
+msgid "|cff406020Purchass M|cffffffffa|r|cff406020jor Mana Potion"
+msgstr "|cffEBC400Купить зелье маны (|cffffcc00A|cffEBC400)"
+
+# Items, ID: pgma, Name
+msgid "|cff00ff00Major Mana Potion"
+msgstr "|cff00ff00Зелье маны"
+
+# Items, ID: pgma, Ubertip
+msgid "|cff60c020Major Mana regain for the Hero."
+msgstr "|cff60c020Восстановление <AIm2,DataA1> ед. маны."
+
+# Items, ID: bspd, Tooltip
+msgid "|cff406020Purchass Boots of |cffffffffH|r|cff406020aste"
+msgstr "|cffEBC400Купить сапоги-скороходы (|cffffcc00H|cffEBC400)"
+
+# Items, ID: bspd, Name
+msgid "|cff00ff00Boots of Haste"
+msgstr "|cff00ff00Сапоги-скороходы"
+
+# Items, ID: bspd, Ubertip
+msgid "|cff60c020Increase movement speed."
+msgstr "|cff60c020Повышение скорости перемещения."
+
+# Items, ID: gcel, Tooltip
+msgid "|cff406020Purchass Glo|cffffffffv|r|cff406020es of Speed"
+msgstr "|cffEBC400Купить перчатки скорости (|cffffcc00V|cffEBC400)"
+
+# Items, ID: gcel, Name
+msgid "|cff00ff00Gloves of Speed"
+msgstr "|cff00ff00Перчатки скорости"
+
+# Items, ID: gcel, Ubertip
+msgid "|cff60c020Increase Attack Speed."
+msgstr "|cff60c020Увеличивают скорость атаки."
+
+# Items, ID: pmna, Tooltip
+msgid "|cff406020Purchass P|cffffffffe|r|cff406020ndant of Mana"
+msgstr "|cffEBC400Купить кулон маны (|cffffcc00E|cffEBC400)"
+
+# Items, ID: pmna, Name
+msgid "|cff00ff00Pendant of Mana"
+msgstr "|cff00ff00Кулон маны"
+
+# Items, ID: pmna, Ubertip
+msgid "|cff60c020Permanent bonus of Mana."
+msgstr "|cff60c020Постоянный бонус к мане."
+
+# Items, ID: rhth, Tooltip
+msgid "|cff406020Purchass Pe|cffffffffn|r|cff406020dant of Life"
+msgstr "|cffEBC400Купить кулон жизни (|cffffcc00N|cffEBC400)"
+
+# Items, ID: rhth, Name
+msgid "|cff00ff00Pendant of Life"
+msgstr "|cff00ff00Кулон жизни"
+
+# Items, ID: rhth, Ubertip
+msgid "|cff60c020Permanent bonus of Life."
+msgstr "|cff60c020Постоянный бонус к жизненной силе."
+
+# Items, ID: rwiz, Tooltip
+msgid "|cff406020Purchass So|cffffffffb|r|cff406020i Mask"
+msgstr "|cffEBC400Купить маску Соби (|cffffcc00B|cffEBC400)"
+
+# Items, ID: rwiz, Name
+msgid "|cff00ff00Sobi Mask"
+msgstr "|cff00ff00Маска Соби"
+
+# Items, ID: rwiz, Ubertip
+msgid "|cff60c020Increase mana regen."
+msgstr "|cff60c020Повышение скорости регенерации маны на 50%."
+
+# Items, ID: tsct, Name
+msgid "|cff00ff00Guard Tower Plan"
+msgstr "|cff00ff00План сторожевой башни"
+
+# Items, ID: tsct, Tooltip
+msgid "|cff406020Purchass |cffffffffG|r|cff406020uard Tower Plan"
+msgstr "|cffEBC400Купить план башни (|cffffcc00G|cffEBC400)"
+
+# Items, ID: tsct, Ubertip
+msgid "|cff60c020Put a Guard Tower on a targeted place."
+msgstr "|cff60c020Позволяет построить сторожевую башню в указанном месте."
+
+# Items, ID: tret, Tooltip
+msgid "|cff406020Purchass |cffffffffT|r|cff406020ome of Retraining"
+msgstr "|cffEBC400Купить том забвения (|cffffcc00T|cffEBC400)"
+
+# Items, ID: tret, Name
+msgid "|cff00ff00Tome of Retraining"
+msgstr "|cff00ff00Книга забвения"
+
+# Items, ID: tret, Ubertip
+msgid "|cff60c020Allow the hero to take back his skills point and to use them for others skills."
+msgstr "|cff60c020Король забывает все заклинания и способности. Освободившиеся очки опыта можно использовать по своему усмотрению."
+
+# Items, ID: phea, Tooltip
+msgid "|cff406020Purchass M|cffffffffi|r|cff406020nor Heal Potion"
+msgstr "|cffEBC400Купить малое зелье здоровья (|cffffcc00I|cffEBC400)"
+
+# Items, ID: phea, Name
+msgid "|cff00ff00Minor Heal Potion"
+msgstr "|cff00ff00Малое зелье здоровья"
+
+# Items, ID: phea, Ubertip
+msgid "|cff60c020Minor heal for the Hero."
+msgstr "|cff60c020Восстановление <AIh2,DataA1> ед. здоровья."
+
+# Items, ID: pman, Tooltip
+msgid "|cff406020Purchass Mi|cffffffffn|r|cff406020or Mana Potion"
+msgstr "|cffEBC400Купить малое зелье маны (|cffffcc00N|cffEBC400)"
+
+# Items, ID: pman, Name
+msgid "|cff00ff00Minor Mana Potion"
+msgstr "|cff00ff00Малое зелье маны"
+
+# Items, ID: pman, Ubertip
+msgid "|cff60c020Minor Mana regain for the Hero."
+msgstr "|cff60c020Восстановление <AIm2,DataA1> ед. маны."
+
+# Items, ID: shas, Tooltip
+msgid "|cff406020Purchass S|cffffffffc|r|cff406020roll of Speed"
+msgstr "|cffEBC400Купить свиток скорости (|cffffcc00C|cffEBC400)"
+
+# Items, ID: shas, Name
+msgid "|cff00ff00Scroll of Speed"
+msgstr "|cff00ff00Свиток скорости"
+
+# Items, ID: shas, Ubertip
+msgid "|cff60c020Increase speed of nearby units."
+msgstr "|cff60c020Увеличивает скорость дружественных войск, находящихся поблизости."
+
+# Items, ID: shea, Tooltip
+msgid "|cff406020Purchass Major Scr|cffffffffo|r|cff406020oll of Heal"
+msgstr "|cffEBC400Купить свиток исцеления (|cffffcc00O|cffEBC400)"
+
+# Items, ID: shea, Name
+msgid "|cff00ff00Major Scroll of Heal"
+msgstr "|cff00ff00Свиток исцеления"
+
+# Items, ID: shea, Ubertip
+msgid "|cff60c020Heal nearby units."
+msgstr "|cff60c020Восстановление части здоровья войск, находящихся поблизости."
+
+# Items, ID: sreg, Tooltip
+msgid "|cff406020Purchass Minor Sc|cffffffffr|r|cff406020oll of Heal"
+msgstr "|cffEBC400Купить свиток малого исцеления (|cffffcc00R|cffEBC400)"
+
+# Items, ID: sreg, Name
+msgid "|cff00ff00Minor Scroll of Heal"
+msgstr "|cff00ff00Свиток малого исцеления"
+
+# Items, ID: tcas, Tooltip
+msgid "|cff406020Purchass To|cffffffffw|r|cff406020n-Hall Plan"
+msgstr "|cffEBC400Купить план капитолия (|cffffcc00W|cffEBC400)"
+
+# Items, ID: tcas, Name
+msgid "|cff00ff00Town-Hall Plan"
+msgstr "|cff00ff00План капитолия"
+
+# Items, ID: tcas, Ubertip
+msgid "|cff60c020Put a Town-Hall on a targeted place."
+msgstr "|cff60c020Позволяет построить капитолий в указанном месте."
+
+# Items, ID: frgd, Name
+msgid "|cff00ff00Iron Sword"
+msgstr "|cff00ff00Железный меч"
+
+# Items, ID: frgd, Tooltip
+msgid "|cff406020Purchass I|cffffffffr|r|cff406020on Sword"
+msgstr "|cffEBC400Купить железный меч (|cffffcc00R|cffEBC400)"
+
+# Items, ID: frgd, Ubertip
+msgid "|cff60c020Increase damages by 6."
+msgstr "|cff60c020Увеличивает урон на 6 ед."
+
+# Items, ID: klmm, Name
+msgid "|cff00ff00Steel Axe"
+msgstr "|cff00ff00Стальная секира"
+
+# Items, ID: klmm, Tooltip
+msgid "|cff406020Purchass S|cfffffffft|r|cff406020eel Axe"
+msgstr "|cffEBC400Купить стальную секиру (|cffffcc00T|cffEBC400)"
+
+# Items, ID: klmm, Description
+msgid "|cff60c020Increase damage by 16."
+msgstr "|cff60c020Увеличивает урон на 16 ед."
+
+# Items, ID: rlif, Name
+msgid "|cff00ff00Ring of Regeneration"
+msgstr "|cff00ff00Кольцо регенерации"
+
+# Items, ID: rlif, Ubertip
+msgid "|cff60c020Increase Life regeneration."
+msgstr "|cff60c020Увеличивает скорость регенерации жизненных сил."
+
+# Items, ID: lmbr, New ID: I601, Tooltip
+msgid "|cff406020Trade"
+msgstr "|cffEBC400Торговать"
+
+# Items, ID: gold, New ID: I006, Name
+msgid "Gold [ 50 ]"
+msgstr "Золото [ 50 ]"
+
+# Items, ID: gold, New ID: I006, Ubertip
+msgid "|cff40602050 |cffffcc00Gold|r |cff406020to 50 |cff88ff88Lumber|r|cff406020."
+msgstr "|cffEBC400Купить 50 ед. |cffffcc00золота|r|cffEBC400 за 50 ед. |cff88ff88дерева|r"
+
+# Items, ID: gold, New ID: I604, Name
+msgid "Gold [ 200 ]"
+msgstr "Золото [ 200 ]"
+
+# Items, ID: gold, New ID: I604, Ubertip
+msgid "|cff406020200 |cffffcc00Gold|r |cff406020to 200 |cff88ff88Lumber|r|cff406020."
+msgstr "|cffEBC400Купить 200 ед. |cffffcc00золота|r|cffEBC400 за 200 ед. |cff88ff88дерева|r"
+
+# Items, ID: gold, New ID: I602, Name
+msgid "Gold [ 500 ]"
+msgstr "Золото [ 500 ]"
+
+# Items, ID: gold, New ID: I602, Ubertip
+msgid "|cff406020500 |cffffcc00Gold|r |cff406020to 500 |cff88ff88Lumber|r|cff406020."
+msgstr "|cffEBC400Купить 500 ед. |cffffcc00золота|r|cffEBC400 за 500 ед. |cff88ff88дерева|r"
+
+# Items, ID: gold, New ID: I603, Name
+msgid "Gold [ 1000 ]"
+msgstr "Золото [ 1000 ]"
+
+# Items, ID: gold, New ID: I603, Ubertip
+msgid "|cff4060201000 |cffffcc00Gold|r |cff406020to 1000 |cff88ff88Lumber|r|cff406020."
+msgstr "|cffEBC400Купить 1000 ед. |cffffcc00золота|r|cffEBC400 за 1000 ед. |cff88ff88дерева|r"
+
+# Items, ID: lmbr, New ID: I007, Name
+msgid "Lumber [ 50 ]"
+msgstr "Древисина [ 50 ]"
+
+# Items, ID: lmbr, New ID: I007, Ubertip
+msgid "|cff40602050 |cff88ff88Lumber|r |cff406020to 50 |cffffcc00Gold|r|cff406020."
+msgstr "|cffEBC400Купить 50 ед. |cff88ff88дерева|r|cffEBC400 за 50 ед. |cffffcc00золота|r"
+
+# Items, ID: lmbr, New ID: I600, Name
+msgid "Lumber [ 200 ]"
+msgstr "Древисина [ 200 ]"
+
+# Items, ID: lmbr, New ID: I600, Ubertip
+msgid "|cff406020200 |cff88ff88Lumber|r |cff406020to 200 |cffffcc00Gold|r|cff406020."
+msgstr "|cffEBC400Купить 200 ед. |cff88ff88дерева|r|cffEBC400 за 200 ед. |cffffcc00золота|r"
+
+# Items, ID: lmbr, New ID: I601, Name
+msgid "Lumber [ 500 ]"
+msgstr "Древисина [ 500 ]"
+
+# Items, ID: lmbr, New ID: I601, Ubertip
+msgid "|cff406020500 |cff88ff88Lumber|r |cff406020to 500 |cffffcc00Gold|r|cff406020."
+msgstr "|cffEBC400Купить 500 ед. |cff88ff88дерева|r|cffEBC400 за 500 ед. |cffffcc00золота|r"
+
+# Items, ID: lmbr, New ID: I605, Name
+msgid "Lumber [ 1000 ]"
+msgstr "Древисина [ 1000 ]"
+
+# Items, ID: lmbr, New ID: I605, Ubertip
+msgid "|cff4060201000 |cff88ff88Lumber|r |cff406020to 1000 |cffffcc00Gold|r|cff406020."
+msgstr "|cffEBC400Купить 1000 ед. |cff88ff88дерева|r|cffEBC400 за 1000 ед. |cffffcc00золота|r"
+
+# Items, ID: rde0, New ID: I001, Name
+msgid "|cffCDB79ECrown"
+msgstr "|cffCDB79EКорона"
+
+# Items, ID: rde0, New ID: I001, Ubertip
+msgid "|cffff8800The Crown of your King. This item grants hope and courage to your soldiers in fight. It represents all the power you have. Dropped upon death. |r|n|cffff8800Give +1 armor, +150 hp and +2 abilities."
+msgstr "|cffff8800Этот предмет вселяет надежду и отвагу в ваших солдат в бою, является символом вашей власти. Падает после смерти. |r|n|cffff8800Дает +1 ед. защиты, +150 ед. здоровья и +2 ед. ко всем характеристикам."
+
+# Items, ID: sror, New ID: I000, Name
+msgid "|cffCDB79EHorn of Courage"
+msgstr "|cffCDB79EРог храбрости"
+
+# Items, ID: sror, New ID: I000, Ubertip
+msgid "|cffff8800Grants a 50% damage bonus to all nearby friendly units."
+msgstr "|cffff8800Временно повышает силу атаки дружественных войск на 50%."
+
+# Items, ID: sror, New ID: I000, Tooltip
+msgid "|cff406020Purchass |cffffffffH|r|cff406020orn of Courage"
+msgstr "|cffEBC400Купить рог храбрости (|cffffcc00H|cffEBC400)"
+
+# Items, ID: rde4, New ID: I002, Name
+msgid "Stones"
+msgstr "Камни"
+
+# Items, ID: rde4, New ID: I002, Tooltip
+msgid "|cffCDB79EStones"
+msgstr "|cffCDB79EКамни"
+
+# Items, ID: rde4, New ID: I003, Name
+msgid "Metals"
+msgstr "Металлы"
+
+# Items, ID: rde4, New ID: I003, Tooltip
+msgid "|cffCDB79EMetals"
+msgstr "|cffCDB79EМеталлы"
+
+# Items, ID: rde4, New ID: I004, Name
+msgid "Jewelry"
+msgstr "Драгоценность"
+
+# Items, ID: rde4, New ID: I004, Tooltip
+msgid "|cffCDB79EJewelry"
+msgstr "|cffCDB79EДрагоценность"
+
+# Destructables, ID: JTtw, New ID: B000, Name
+msgid "Palm Tree"
+msgstr "Пальма"
+
+# Buffs, ID: Brpl, Tooltip
+msgid "|cff997744Supplies life"
+msgstr "|cff997744Бонус к жизням"
+
+# Buffs, ID: Brpm, Tooltip
+msgid "|cff997744Supplies mana"
+msgstr "|cff997744Бонус к мане"
+
+# Buffs, ID: BHwe, Tooltip
+msgid "Body Guards"
+msgstr "Телохранители"
+
+# Buffs, ID: BNbr, Tooltip
+msgid "Encourage"
+msgstr "Поддержка"
+
+# Buffs, ID: BNbr, Ubertip
+msgid "|cffCDB79EThis unit is under the effect of an encouraging abilitiy, she's dealing more damage.|r"
+msgstr "|cffCDB79EЭто юнит находится под эффектом поддержки. Он наносит больше урона.|r"
+
+# Buffs, ID: BHab, Tooltip
+msgid "Supply Fire Arrows"
+msgstr "Запас огненных стрел"
+
+# Buffs, ID: BHab, Ubertip
+msgid "|cffCDB79EThis unit is supplied in fire arrows by a Caravan or another unit.|r"
+msgstr "|cffCDB79EЮнит получает новые огненные стрелы из обоза.|r"
+
+# Buffs, ID: Bbsk, Ubertip
+msgid "|cffCDB79EThis unit is under influence of Rage. She recieved and deal more damage."
+msgstr "|cffCDB79EЮнит в ярости. Он получает и наносит больше урона."
+
+# Buffs, ID: BNbr, New ID: B000, Ubertip
+msgid "|cffCDB79EMore damages.|r"
+msgstr "|cffCDB79EУрон увеличен.|r"
+
+# Buffs, ID: BNbr, New ID: B002, Tooltip
+msgid "Morale Boost"
+msgstr "Моральная поддержка"
+
+# Buffs, ID: BNbr, New ID: B002, Ubertip
+msgid "|cffCDB79EMore armours.|r"
+msgstr "|cffCDB79EЗащита увеличена.|r"
+
+# Buffs, ID: Bblo, New ID: B003, Name
+msgid "Faith"
+msgstr "Вера"
+
+# Buffs, ID: Bblo, New ID: B003, Ubertip
+msgid "|cffCDB79EThis unit is under influence of Faith. It has increased attack and movement speed."
+msgstr "|cffCDB79EЮнит находится под воздействитем веры. Скорость его атаки и передвижения увеличена."
+
+# Buffs, ID: Bfzy, New ID: B004, Name
+msgid "Charge"
+msgstr "Нападение"
+
+# Buffs, ID: Bfzy, New ID: B004, Ubertip
+msgid "This unit is charging another one. It increases damage of the first hit by 10."
+msgstr "Следующая этака этого юнита будет на 10 ед. сильнее."
+
+# Abilities, ID: Adts, Name, Level 0
+msgid "|cff70DD30Sentry"
+msgstr "|cff70DD30Страж"
+
+# Abilities, ID: Adts, Tooltip, Level 1
+msgid "|cff00ff00Sentry"
+msgstr "|cff00ff00Страж"
+
+# Abilities, ID: Adts, Ubertip, Level 1
+msgid "|cff80DD10Reveal invisible units near the tower."
+msgstr "|cff80DD10Обнаружение невидимых юнитов, находящихся рядом с башней."
+
+# Abilities, ID: Aihn, Name, Level 0
+msgid "|cff70DD30Bag"
+msgstr "|cff70DD30Рюкзак"
+
+# Abilities, ID: Aihn, Tooltip, Level 1
+msgid "|cff00ff00Bag"
+msgstr "|cff00ff00Pюкзaк"
+
+# Abilities, ID: Aihn, Ubertip, Level 1
+msgid "|cff80DD10Allow your units to take and use items."
+msgstr "|cff80DD10Позволяет юнитам носить и использовать предметы."
+
+# Abilities, ID: Aven, Name, Level 0
+msgid "|cff70DD30Envennomed Weapons"
+msgstr "|cff70DD30Отравленное оружие"
+
+# Abilities, ID: Aven, Tooltip, Level 1
+msgid "|cff00ff00Envennomed Weapons"
+msgstr "|cff00ff00Отравленное оружие"
+
+# Abilities, ID: Aven, Ubertip, Level 1
+msgid "|cff80DD10Add 2 poison damage to the unit."
+msgstr "|cff80DD10Атаки копьеметателей отравляют противника."
+
+# Abilities, ID: Abof, Name, Level 0
+msgid "|cff70DD30Fire Rocks"
+msgstr "|cff70DD30Горючая смесь"
+
+# Abilities, ID: Abof, Tooltip, Level 1
+msgid "|cff00ff00Fire Rocks"
+msgstr "|cff00ff00Горючая смесь"
+
+# Abilities, ID: Abof, Ubertip, Level 1
+msgid "|cff80DD10Each attack of the catapult burn the ground and the units."
+msgstr "|cff80DD10Снаряды катапульт начиняются горючей смесью, поджигающей всё, что окажется в радиусе поражения."
+
+# Abilities, ID: Asal, Name, Level 0
+msgid "|cff70DD30Pillage"
+msgstr "|cff70DD30Грабёж"
+
+# Abilities, ID: Asal, Tooltip, Level 1
+msgid "|cff00ff00Pillage"
+msgstr "|cff00ff00Грабёж"
+
+# Abilities, ID: Asal, Ubertip, Level 1
+msgid "|cff80DD10Each attacks of your unit give you gold and wood."
+msgstr "|cff80DD10Каждая атака ваших юнитов приносит золото и дерево."
+
+# Abilities, ID: Absk, Name, Level 0
+msgid "|cff70DD30Rage"
+msgstr "|cff70DD30Ярость"
+
+# Abilities, ID: Absk, Tooltip, Level 1
+msgid "|cffffffffR|r|cff00ff00age"
+msgstr "|cff00ff00Ярость (|cffffcc00R|cff00ff00)"
+
+# Abilities, ID: Absk, Ubertip, Level 1
+msgid "|cff80DD10Makes your unit take more damage from attack but increase attack speed and movement speed."
+msgstr "|cff80DD10Увеличивает скорость атаки и передвижения ценой ослабления защиты."
+
+# Abilities, ID: Assk, Name, Level 0
+msgid "|cff70DD30Heavy Armor"
+msgstr "|cff70DD30Тяжёлая броня"
+
+# Abilities, ID: Assk, Tooltip, Level 1
+msgid "|cff00ff00Heavy Armor"
+msgstr "|cff00ff00Тяжёлая броня"
+
+# Abilities, ID: Assk, Ubertip, Level 1
+msgid "|cff80DD10Reduce damage taken by your Heavy Knights."
+msgstr "|cff80DD10Уменьшает урон, получаемый вашими рыцарямя."
+
+# Abilities, ID: Aroa, Name, Level 0
+msgid "|cff70DD30Rally"
+msgstr "|cff70DD30Сплочение"
+
+# Abilities, ID: Aroa, Tooltip, Level 1
+msgid "|cffffffffR|r|cff00ff00ally"
+msgstr "|cff00ff00Сплочение (|cffffcc00R|cff00ff00)"
+
+# Abilities, ID: Aroa, Ubertip, Level 1
+msgid "|cff80DD10Increase damage of nearby units."
+msgstr "|cff80DD10Увеличение силы атаки дружественных войск, находящихся поблизости."
+
+# Abilities, ID: ACbh, Name, Level 0
+msgid "|cff70DD30Shieldbreak"
+msgstr "|cff70DD30Удар щитом"
+
+# Abilities, ID: ACbh, Tooltip, Level 1
+msgid "|cff00ff00Shieldbreak"
+msgstr "|cff00ff00Удар щитом"
+
+# Abilities, ID: ACbh, Ubertip, Level 1
+msgid "|cff80DD10Give 10% of chance to stun an ennemy."
+msgstr "|cff80DD10Дает 10% шанс оглушить противника"
+
+# Abilities, ID: ACba, Name, Level 0
+msgid "|cff70DD30Supply"
+msgstr "|cff70DD30Поставки"
+
+# Abilities, ID: ACba, Tooltip, Level 1
+msgid "|cff00ff00Supply"
+msgstr "|cff00ff00Поставки"
+
+# Abilities, ID: ACba, Ubertip, Level 1
+msgid "|cff80DD10Supply near bowmen in fire arrows."
+msgstr "|cff80DD10Поставляет огненные стрелы лучникам, находящимся рядом с обозом."
+
+# Abilities, ID: ACua, Ubertip, Level 1
+msgid "|cff80DD10Increase HP regen of nearby units."
+msgstr "|cff80DD10Увеличение скорости регенерации здоровья дружественных воинов, находящихся рядом."
+
+# Abilities, ID: ACsa, Name, Level 0
+msgid "|cff70DD30Fire Arrows"
+msgstr "|cff70DD30Огненные стрелы"
+
+# Abilities, ID: ACsa, Tooltip, Level 1
+msgid "|cffffffffF|r|cff00ff00ire Arrows"
+msgstr "|cff00ff00Огненные стрелы (|cffffcc00F|cff00ff00)"
+
+# Abilities, ID: ACsa, Ubertip, Level 1
+msgid "|cff80DD10Increase damage of bowmen by 5."
+msgstr "|cff80DD10Увеличивает атаку лучников на 5 ед."
+
+# Abilities, ID: ANdb, Name, Level 0
+msgid "|cff70DD30Fighting Chances"
+msgstr "|cff70DD30Удача"
+
+# Abilities, ID: ANdb, Tooltip, Level 1
+msgid "|cff00ff00Fighting Chances"
+msgstr "|cff00ff00Удача"
+
+# Abilities, ID: ANdb, Ubertip, Level 1
+msgid "|cff80DD10Give 10% of chances to avoid and attack and 10% to deal a critical strike."
+msgstr "|cff80DD10Дает 10% шанс избежать атаки и 10% шанс нанести критический удар."
+
+# Abilities, ID: Adef, Name, Level 0
+msgid "|cff70DD30Defend"
+msgstr "|cff70DD30Укрыться за щитом"
+
+# Abilities, ID: Adef, Tooltip, Level 1
+msgid "|cffffffffD|r|cff00ff00efend"
+msgstr "|cff00ff00Укрыться за щитом (|cffffcc00D|cff00ff00)"
+
+# Abilities, ID: Adef, Ubertip, Level 1
+msgid "|cff80DD10Reduce damage from pierce attack and give a percent chance to take no damage from them."
+msgstr "|cff80DD10Уменьшает урон, наносимый юнитами дальнего боя и дает шанс полностью уклониться от таких атак."
+
+# Abilities, ID: Afsh, Name, Level 0
+msgid "|cff70DD30Fragmentation Bombs"
+msgstr "|cff70DD30Осколочные снаряды"
+
+# Abilities, ID: Afsh, Tooltip, Level 1
+msgid "|cff00ff00Fragmentation Bombs"
+msgstr "|cff00ff00Осколочные снаряды"
+
+# Abilities, ID: Afsh, Ubertip, Level 1
+msgid "|cff80DD10Increase damage of the Mortar on unarmored and medium armored units."
+msgstr "|cff80DD10Увеличение урона, наносимого вашими орудийными расчетами слабозащищённым войскам противника."
+
+# Abilities, ID: Ahea, Name, Level 0
+msgid "|cff70DD30Heal"
+msgstr "|cff70DD30Исцеление"
+
+# Abilities, ID: Ahea, Tooltip, Level 1
+msgid "|cffffffffH|r|cff00ff00eal"
+msgstr "|cff00ff00Исцелить (|cffffcc00D|cff00ff00)"
+
+# Abilities, ID: Ahea, Ubertip, Level 1
+msgid "|cff80DD10Heal a friendly unit by 10hp."
+msgstr "|cff80DD10Восстановить <Ahea,DataA1> ед. здоровья дружественному юниту."
+
+# Abilities, ID: Ault, Name, Level 0
+msgid "|cff70DD30Night Vision"
+msgstr "|cff70DD30Ночное зрение"
+
+# Abilities, ID: Arav, Name, Level 0
+msgid "|cff70DD30Spez Barracks"
+msgstr "|cff70DD30Национальные казармы"
+
+# Abilities, ID: Arav, Tooltip, Level 1
+msgid "S|cff00ff00pez Barracks"
+msgstr "|cff00ff00Национальные казармы (|cffffcc00S|cff00ff00)"
+
+# Abilities, ID: Arav, Ubertip, Level 1
+msgid "|cff80DD10Switch to Nation Barracks."
+msgstr "|cff80DD10Переключиться на национальные казармы."
+
+# Abilities, ID: Arav, Untooltip, Level 1
+msgid "N|cff00ff00ormal Barracks"
+msgstr "|cff00ff00Обычные казармы (|cffffcc00N|cff00ff00)"
+
+# Abilities, ID: Arav, Unubertip, Level 1
+msgid "|cff80DD10Switch to Normal Barracks."
+msgstr "|cff80DD10Переключиться на обычные казармы."
+
+# Abilities, ID: AOae, Name, Level 0
+msgid "|cff70DD30Command Aura"
+msgstr "|cff70DD30Командная аура"
+
+# Abilities, ID: AOae, Researchtip, Level 0
+msgid "|cff00ff00Learn Command |cffffffffA|r|cff00ff00ura|r - [level %d|r]"
+msgstr "|cff00ff00Командная аура - ур. %d (|cffffcc00A|r|cff00ff00)"
+
+# Abilities, ID: AOae, Researchubertip, Level 0
+msgid ""
+"|cff80DD10Increase attack and movement speed of nearby units.\n"
+"\n"
+"Increase the bonus at each level."
+msgstr ""
+"|cff80DD10Увеличение скорости атаки и передвижение войск, находящихся рядом с королем.\n"
+"\n"
+"Бонус растет с каждым уровнем способности."
+
+# Abilities, ID: AOae, Ubertip, Level 1
+msgid "|cff80DD10Increase attack speed and movement speed of all nearby units."
+msgstr "|cff80DD10Увеличение скорости атаки и передвижение войск, находящихся рядом с королем."
+
+# Abilities, ID: AOae, Ubertip, Level 2
+msgid "|cff80DD20Increase attack speed and movement speed of all nearby units."
+msgstr "|cff80DD20Увеличение скорости атаки и передвижение войск, находящихся рядом с королем."
+
+# Abilities, ID: AOae, Ubertip, Level 3
+msgid "|cff80DD30Increase attack speed and movement speed of all nearby units."
+msgstr "|cff80DD30Увеличение скорости атаки и передвижение войск, находящихся рядом с королем."
+
+# Abilities, ID: AOae, Tooltip, Level 1
+msgid "|cff00ff00Command Aura - [|cfffffffflevel 1]"
+msgstr "|cff00ff00Командная аура - ур. 1"
+
+# Abilities, ID: AOae, Tooltip, Level 2
+msgid "|cff00ff00Command Aura - [|cfffffffflevel 2]"
+msgstr "|cff00ff00Командная аура - ур. 2"
+
+# Abilities, ID: AOae, Tooltip, Level 3
+msgid "|cff00ff00Command Aura - [|cfffffffflevel 3]"
+msgstr "|cff00ff00Командная аура - ур. 3"
+
+# Abilities, ID: AOre, Name, Level 0
+msgid "|cff70DD30Last Breath"
+msgstr "|cff70DD30Героизм"
+
+# Abilities, ID: AOre, Researchtip, Level 0
+msgid "|cff00ff00Learn |cffffffffL|r|cff00ff00ast Breath|r - [level %d|r]"
+msgstr "|cff00ff00Героизм - ур. %d (|cffffcc00H|cff00ff00)"
+
+# Abilities, ID: AOre, Researchubertip, Level 0
+msgid "|cff80DD10Allow the King to reincarnate after his death."
+msgstr "|cff80DD10Позволяет королю возродиться после смерти."
+
+# Abilities, ID: AOre, Tooltip, Level 1
+msgid "|cff00ff00Last Breath - [|cfffffffflevel 1]"
+msgstr "|cff00ff00Героизм - ур. 1 (|cffffcc00H|cff00ff00)"
+
+# Abilities, ID: AOre, Tooltip, Level 2
+msgid "|cff00ff00Last Breath - [|cfffffffflevel 2]"
+msgstr "|cff00ff00Героизм - ур. 2 (|cffffcc00H|cff00ff00)"
+
+# Abilities, ID: AOhw, Name, Level 0
+msgid "|cff70DD30Healing Wave"
+msgstr "|cff70DD30Целительная волна"
+
+# Abilities, ID: AOhw, Researchtip, Level 0
+msgid "|cff00ff00Learn |cffffffffH|r|cff00ff00ealing Wave|r - [level %d|r]"
+msgstr "|cff00ff00Целительная волна - ур. %d (|cffffcc00H|cff00ff00)"
+
+# Abilities, ID: AOhw, Researchubertip, Level 0
+msgid "|cff80DD10The King can heal a chain of friendly unit, the healing wave bounces on all units, reducing his heal at each target."
+msgstr "|cff80DD10Заряд положительной энергии, последовательно исцеляющий нескольких воинов."
+
+# Abilities, ID: AOhw, Ubertip, Level 1
+msgid "|cff80DD10Heal a chain of friendly unit, the healing wave bounces on all units, reducing his heal at each target."
+msgstr "|cff80DD10Заряд положительной энергии, последовательно исцеляющий нескольких воинов."
+
+# Abilities, ID: AOhw, Tooltip, Level 1
+msgid "H|cff00ff00ealing Wave - [|cfffffffflevel 1]"
+msgstr "|cff00ff00Целительная волна - ур. 1 (|cffffcc00H|cff00ff00)"
+
+# Abilities, ID: AOhw, Tooltip, Level 2
+msgid "H|cff00ff00ealing Wave - [|cfffffffflevel 2]"
+msgstr "|cff00ff00Целительная волна - ур. 2 (|cffffcc00H|cff00ff00)"
+
+# Abilities, ID: AOhw, Tooltip, Level 3
+msgid "H|cff00ff00ealing Wave - [|cfffffffflevel 3]"
+msgstr "|cff00ff00Целительная волна - ур. 3 (|cffffcc00H|cff00ff00)"
+
+# Abilities, ID: AOhw, Tooltip, Level 4
+msgid "H|cff00ff00ealing Wave - [|cfffffffflevel 4]"
+msgstr "|cff00ff00Целительная волна - ур. 4 (|cffffcc00H|cff00ff00)"
+
+# Abilities, ID: AOhw, Tooltip, Level 5
+msgid "H|cff00ff00ealing Wave - [|cfffffffflevel 5]"
+msgstr "|cff00ff00Целительная волна - ур. 5 (|cffffcc00H|cff00ff00)"
+
+# Abilities, ID: Aamk, Name, Level 0
+msgid "|cff70DD30Combat Skills"
+msgstr "|cff70DD30Боевая подготовка"
+
+# Abilities, ID: Aamk, Researchtip, Level 0
+msgid "|cff00ff00Learn |cffffffffC|r|cff00ff00ombat Skills|r - [level %d|r]"
+msgstr "|cff00ff00Боевая подготовка - ур. %d (|cffffcc00C|r|cff00ff00)"
+
+# Abilities, ID: Aamk, Researchubertip, Level 0
+msgid ""
+"|cff80DD10Increase all stats of the King.\n"
+"\n"
+"Increases stats bonus at each level."
+msgstr ""
+"|cff80DD10Увеличение всех характеристик короля.\n"
+"\n"
+"Бонус растет с каждым уровнем способности."
+
+# Abilities, ID: Aamk, Ubertip, Level 2
+msgid "|cff80DD20Increase by <Aamk,DataA2> all stats of the King."
+msgstr "|cff80DD20Увеличение всех характеристик короля на <Aamk,DataA2> ед."
+
+# Abilities, ID: Aamk, Ubertip, Level 3
+msgid "|cff80DD30Increase by <Aamk,DataA3> all stats of the King."
+msgstr "|cff80DD30Увеличение всех характеристик короля на <Aamk,DataA3> ед."
+
+# Abilities, ID: Aamk, Ubertip, Level 4
+msgid "|cff80DD40Increase by <Aamk,DataA4> all stats of the King."
+msgstr "|cff80DD40Увеличение всех характеристик короля на <Aamk,DataA4> ед."
+
+# Abilities, ID: Aamk, Ubertip, Level 5
+msgid "|cff80DD50Increase by <Aamk,DataA5> all stats of the King."
+msgstr "|cff80DD50Увеличение всех характеристик короля на <Aamk,DataA5> ед."
+
+# Abilities, ID: Aamk, Ubertip, Level 6
+msgid "|cff80DD60Increase by <Aamk,DataA6> all stats of the King."
+msgstr "|cff80DD60Увеличение всех характеристик короля на <Aamk,DataA6> ед."
+
+# Abilities, ID: Aamk, Ubertip, Level 7
+msgid "|cff80DD70Increase by <Aamk,DataA7> all stats of the King."
+msgstr "|cff80DD70Увеличение всех характеристик короля на <Aamk,DataA7> ед."
+
+# Abilities, ID: Aamk, Ubertip, Level 8
+msgid "|cff80DD80Increase by <Aamk,DataA8> all stats of the King."
+msgstr "|cff80DD80Увеличение всех характеристик короля на <Aamk,DataA8> ед."
+
+# Abilities, ID: Aamk, Tooltip, Level 1
+msgid "|cff00ff00Combat Skills - [|cfffffffflevel 1]"
+msgstr "|cff00ff00Боевая подготовка - ур. 1"
+
+# Abilities, ID: Aamk, Tooltip, Level 2
+msgid "|cff00ff00Combat Skills - [|cfffffffflevel 2]"
+msgstr "|cff00ff00Боевая подготовка - ур. 2"
+
+# Abilities, ID: Aamk, Tooltip, Level 3
+msgid "|cff00ff00Combat Skills - [|cfffffffflevel 3]"
+msgstr "|cff00ff00Боевая подготовка - ур. 3"
+
+# Abilities, ID: Aamk, Tooltip, Level 4
+msgid "|cff00ff00Combat Skills - [|cfffffffflevel 4]"
+msgstr "|cff00ff00Боевая подготовка - ур. 4"
+
+# Abilities, ID: Aamk, Tooltip, Level 5
+msgid "|cff00ff00Combat Skills - [|cfffffffflevel 5]"
+msgstr "|cff00ff00Боевая подготовка - ур. 5"
+
+# Abilities, ID: Aamk, Tooltip, Level 6
+msgid "|cff00ff00Combat Skills - [|cfffffffflevel 6]"
+msgstr "|cff00ff00Боевая подготовка - ур. 6"
+
+# Abilities, ID: Aamk, Tooltip, Level 7
+msgid "|cff00ff00Combat Skills - [|cfffffffflevel 7]"
+msgstr "|cff00ff00Боевая подготовка - ур. 7"
+
+# Abilities, ID: Aamk, Tooltip, Level 8
+msgid "|cff00ff00Combat Skills - [|cfffffffflevel 8]"
+msgstr "|cff00ff00Боевая подготовка - ур. 8"
+
+# Abilities, ID: Aamk, Ubertip, Level 1
+msgid "|cff80DD10Increase by <Aamk,DataA1> all stats of the King."
+msgstr "|cff80DD10Увеличение всех характеристик короля на <Aamk,DataA1> ед."
+
+# Abilities, ID: AHad, Researchubertip, Level 0
+msgid ""
+"|cff80DD10Increase the armor of nearby units.\n"
+"\n"
+"Increase the bonus at each level."
+msgstr ""
+"|cff80DD10Повышение защиты дружественных войск, находящихся поблизости.\n"
+"\n"
+"Бонус увеличивается с каждым уровнем."
+
+# Abilities, ID: AHad, Ubertip, Level 1
+msgid "|cff80DD10Increase armor of all nearby units."
+msgstr "|cff80DD10Повышение защиты дружественных войск, находящихся поблизости."
+
+# Abilities, ID: AHad, Ubertip, Level 2
+msgid "|cff80DD20Increase armor of all nearby units."
+msgstr "|cff80DD20Повышение защиты дружественных войск, находящихся поблизости."
+
+# Abilities, ID: AHad, Ubertip, Level 3
+msgid "|cff80DD30Increase armor of all nearby units."
+msgstr "|cff80DD30Повышение защиты дружественных войск, находящихся поблизости."
+
+# Abilities, ID: ACac, Researchubertip, Level 0
+msgid ""
+"|cff80DD10Increase damages of nearby melee units.\n"
+"\n"
+"Increase the bonus at each level."
+msgstr ""
+"|cff80DD10Войска, находящиеся рядом с королем, эффективнее сражаются в ближнем бою.\n"
+"\n"
+"Бонус увеличивается с каждым уровнем."
+
+# Abilities, ID: ACac, Ubertip, Level 1
+msgid "|cff80DD10Increase damages of nearby melee units."
+msgstr "|cff80DD10Войска, находящиеся рядом с королем, эффективнее сражаются в ближнем бою."
+
+# Abilities, ID: ACac, Ubertip, Level 2
+msgid "|cff80DD20Increase damages of nearby melee units."
+msgstr "|cff80DD20Войска, находящиеся рядом с королем, эффективнее сражаются в ближнем бою."
+
+# Abilities, ID: ACac, Ubertip, Level 3
+msgid "|cff80DD30Increase damages of nearby melee units."
+msgstr "|cff80DD30Войска, находящиеся рядом с королем, эффективнее сражаются в ближнем бою."
+
+# Abilities, ID: AHre, Name, Level 0
+msgid "|cff70DD30The Last Stand"
+msgstr "|cff70DD30GПоследний шанс"
+
+# Abilities, ID: AHre, Researchtip, Level 0
+msgid "|cff00ff00Learn |cffffffffT|r|cff00ff00he Last Stand|r - [level %d|r]"
+msgstr "|cff00ff00Последний шанс - ур. %d (|cffffcc00T|cff00ff00)"
+
+# Abilities, ID: AHre, Researchubertip, Level 0
+msgid "|cff80DD10Make dead soldiers of your Kingdom come back to life to help their King."
+msgstr "|cff80DD10Возвращает мертвых солдат вашего королевства для защиты короля."
+
+# Abilities, ID: AHre, Tooltip, Level 1
+msgid "T|cff00ff00he Last Stand - [|cfffffffflevel 1]"
+msgstr "|cff00ff00Последний шанс - ур. 1 (|cffffcc00T|cff00ff00)"
+
+# Abilities, ID: AHre, Tooltip, Level 2
+msgid "T|cff00ff00he Last Stand - [|cfffffffflevel 2]"
+msgstr "|cff00ff00Последний шанс - ур. 2 (|cffffcc00T|cff00ff00)"
+
+# Abilities, ID: AHre, Ubertip, Level 1
+msgid "|cff80DD10Come back to life 10 Soldiers of your Kingdom."
+msgstr "|cff80DD10Возвращает 10 ваших солдат к жизни."
+
+# Abilities, ID: AHre, Ubertip, Level 2
+msgid "|cff80DD20Come back to life 15 Soldiers of your Kingdom."
+msgstr "|cff80DD20Возвращает 15 ваших солдат к жизни."
+
+# Abilities, ID: Aroc, Tooltip, Level 1
+msgid "|cff00ff00Multiple Arrows"
+msgstr "|cff00ff00Гарнизон"
+
+# Abilities, ID: Aroc, Ubertip, Level 1
+msgid "|cff80DD10Allow the Oupost to shoot 4 targets at the same time."
+msgstr "|cff80DD10Позволяет аванпосту поражать сразу 4 цели."
+
+# Abilities, ID: Aroc, Name, Level 0
+msgid "|cff70DD30Mutliple Arrows"
+msgstr "|cff70DD30Гарнизон"
+
+# Abilities, ID: Asds, Name, Level 0
+msgid "|cff70DD30Explosion"
+msgstr "|cff70DD30Взрыв"
+
+# Abilities, ID: Asds, Ubertip, Level 1
+msgid "|cff80DD10Martys use their bombs to explode and to deal damage to nearby units, buildings and trees."
+msgstr "|cff80DD10Смертники используют свои бомбы для того, чтобы подорвать себя и нанести урон юнитам и постройкам врага."
+
+# Abilities, ID: Asds, Tooltip, Level 1
+msgid "|cffffffffE|r|cff00ff00xplosion"
+msgstr "|cff00ff00Взрыв (|cffffcc00E|cff00ff00)"
+
+# Abilities, ID: AEar, Researchubertip, Level 0
+msgid ""
+"|cff80DD10Increase damage of nearby ranged units.\n"
+"\n"
+"Increase the bonus at each level."
+msgstr ""
+"|cff80DD10Увеличение урона, наносимого юнитами дальнего боя.\n"
+"\n"
+"Бонус растет с каждым уровнем."
+
+# Abilities, ID: AEar, Tooltip, Level 4
+msgid "|cff00ff00Command Aura - [|cfffffffflevel 4]"
+msgstr "|cff00ff00Командная аура - ур. 4"
+
+# Abilities, ID: AEar, Ubertip, Level 1
+msgid "|cff80DD10Increase damage of nearby ranged units."
+msgstr "|cff80DD10Увеличение урона, наносимого юнитами дальнего боя."
+
+# Abilities, ID: AEar, Ubertip, Level 2
+msgid "|cff80DD20Increase damage of nearby ranged units."
+msgstr "|cff80DD20Увеличение урона, наносимого юнитами дальнего боя."
+
+# Abilities, ID: AEar, Ubertip, Level 3
+msgid "|cff80DD30Increase damage of nearby ranged units."
+msgstr "|cff80DD30Увеличение урона, наносимого юнитами дальнего боя."
+
+# Abilities, ID: AEar, Ubertip, Level 4
+msgid "|cff80DD40Increase damage of nearby ranged units."
+msgstr "|cff80DD40Увеличение урона, наносимого юнитами дальнего боя."
+
+# Abilities, ID: AEah, Researchubertip, Level 0
+msgid ""
+"|cff80DD10Give a damage shield to nearby units.\n"
+"\n"
+"Increase the bouncing damage bonus at each level."
+msgstr ""
+"|cff80DD10Возвращает врагам часть нанесенном вам и дружественным войскам урона.\n"
+"\n"
+"Бонус увеличивается с каждым уровнем."
+
+# Abilities, ID: AEah, Ubertip, Level 1
+msgid "|cff80DD10Give a damage shield to nearby units."
+msgstr "|cff80DD10Возвращает врагам часть нанесенном вам и дружественным войскам урона."
+
+# Abilities, ID: AEah, Ubertip, Level 2
+msgid "|cff80DD20Give a damage shield to nearby units."
+msgstr "|cff80DD20Возвращает врагам часть нанесенном вам и дружественным войскам урона."
+
+# Abilities, ID: AEah, Ubertip, Level 3
+msgid "|cff80DD30Give a damage shield to nearby units."
+msgstr "|cff80DD30Возвращает врагам часть нанесенном вам и дружественным войскам урона."
+
+# Abilities, ID: AEah, Ubertip, Level 4
+msgid "|cff80DD40Give a damage shield to nearby units."
+msgstr "|cff80DD40Возвращает врагам часть нанесенном вам и дружественным войскам урона."
+
+# Abilities, ID: AHwe, Name, Level 0
+msgid "|cff70DD30Body Guards"
+msgstr "|cff70DD30Телохранители"
+
+# Abilities, ID: AHwe, Researchtip, Level 0
+msgid "|cff00ff00Learn |cffffffffB|r|cff00ff00ody Guards|r - [level %d|r]"
+msgstr "|cff00ff00Телохранители - ур. %d (|cffffcc00B|cffFF8824)"
+
+# Abilities, ID: AHwe, Researchubertip, Level 0
+msgid "|cff80DD10The king call to him some body guards to protect him from the ennemys."
+msgstr "|cff80DD10Король призывает своих телохранителей для защиты от врагов."
+
+# Abilities, ID: AHwe, Tooltip, Level 1
+msgid "B|cff00ff00ody Guards - [|cfffffffflevel 1]"
+msgstr "|cff00ff00Телохранители - ур. 1 (|cffffcc00B|cff00ff00)"
+
+# Abilities, ID: AHwe, Tooltip, Level 2
+msgid "B|cff00ff00ody Guards - [|cfffffffflevel 2]"
+msgstr "|cff00ff00Телохранители - ур. 2 (|cffffcc00B|cff00ff00)"
+
+# Abilities, ID: AHwe, Tooltip, Level 3
+msgid "B|cff00ff00ody Guards - [|cfffffffflevel 3]"
+msgstr "|cff00ff00Телохранители - ур. 3 (|cffffcc00B|cff00ff00)"
+
+# Abilities, ID: AHwe, Ubertip, Level 1
+msgid "|cff80DD10Summon two body guards."
+msgstr "|cff80DD10Вызвать 2 телохранителя."
+
+# Abilities, ID: AHwe, Ubertip, Level 2
+msgid "|cff80DD20Summon four body guards."
+msgstr "|cff80DD20Вызвать 4 телохранителя."
+
+# Abilities, ID: AHwe, Ubertip, Level 3
+msgid "|cff80DD30Summon six body guards."
+msgstr "|cff80DD30Вызвать 6 телохранителей."
+
+# Abilities, ID: Awar, Name, Level 0
+msgid "|cff70DD30Crush"
+msgstr "|cff70DD30Сокрушение"
+
+# Abilities, ID: Awar, Tooltip, Level 1
+msgid "|cff00ff00Crush"
+msgstr "|cff00ff00Сокрушение"
+
+# Abilities, ID: Awar, Ubertip, Level 1
+msgid "|cff80DD10Give a percent chance to stomp the ground, dealing damage around the unit."
+msgstr "|cff80DD10Дает шанс нанести урон всем рядом стоящим врагам."
+
+# Abilities, ID: Aakb, Name, Level 0
+msgid "|cff70DD30War Drum"
+msgstr "|cff70DD30Боевые барабаны"
+
+# Abilities, ID: Aakb, Ubertip, Level 1
+msgid "|cff80DD10Add damage bonus to nearby units."
+msgstr "|cff80DD10Увеличивают силу атаки войск, находящихся поблизости."
+
+# Abilities, ID: Aakb, Tooltip, Level 1
+msgid "|cff00ff00War Drum"
+msgstr "|cff00ff00Боевые барабаны"
+
+# Abilities, ID: Alsh, Name, Level 0
+msgid "|cff70DD30Divine Shield"
+msgstr "|cff70DD30Божественный щит"
+
+# Abilities, ID: Alsh, Tooltip, Level 1
+msgid "|cffffffffD|r|cff00ff00ivine Shield"
+msgstr "|cff00ff00Божественный щит  (|cffffcc00D|cff00ff00)"
+
+# Abilities, ID: Ablo, Tooltip, Level 1
+msgid "|cffffffffF|r|cff00ff00anatism"
+msgstr "|cff00ff00Фанатизм (|cffffcc00F|cff00ff00)"
+
+# Abilities, ID: Ablo, Ubertip, Level 1
+msgid "|cff80DD10Increases attack and movement speed."
+msgstr "|cff80DD10Увеличивает скорость атаки и передвижения."
+
+# Abilities, ID: Ablo, Name, Level 0
+msgid "|cff70DD30Fanatism"
+msgstr "|cff70DD30Фанатизм"
+
+# Abilities, ID: Afzy, Name, Level 0
+msgid "|cff70DD30Charge"
+msgstr "|cff70DD30Нападение"
+
+# Abilities, ID: Afzy, Tooltip, Level 1
+msgid "|cffffffffC|r|cff00ff00harge"
+msgstr "|cff00ff00Нападение (|cffffcc00C|cff00ff00)"
+
+# Abilities, ID: Afzy, Ubertip, Level 1
+msgid "|cff80DD10Activated when meet ennemies. Increases attack speed during 10 seconds. If the knights succeed at hitting a target, its damages are going to be increased too (10 extra damages).|r"
+msgstr "|cff80DD10Активируется при встрече с врагом. Увеличивает силу атаки на 10 секунд. Если рыцарь еспешно поразит цель, ее урон тоже будет увеличен на 10 ед.|r"
+
+# Abilities, ID: AIgo, New ID: A600, Name, Level 0
+msgid "Gold"
+msgstr "Золото"
+
+# Abilities, ID: AIlu, New ID: A601, Name, Level 0
+msgid "Wood"
+msgstr "Дерево"
+
+# Abilities, ID: ACba, New ID: A003, Name, Level 0
+msgid "|cff70DD30Leet Training"
+msgstr "|cff70DD30Спец. тренировка"
+
+# Abilities, ID: ACba, New ID: A003, Tooltip, Level 1
+msgid "|cff00ff00Leet Training"
+msgstr "|cff00ff00Спец. тренировка"
+
+# Abilities, ID: ACba, New ID: A003, Ubertip, Level 1
+msgid "|cff80DD10This unit is a leet unit, it has more hit points, it deals more damages and has a better armor.|r"
+msgstr "|cff80DD10Это элитный юнит, у него повышен запас сил, он наносит больше урона и лучше защищен."
+
+# Abilities, ID: AOeq, New ID: A005, Name, Level 0
+msgid "EarthQuake"
+msgstr "Землетрясение"
+
+# Abilities, ID: Aap2, New ID: A006, Name, Level 0
+msgid "Plague"
+msgstr "Чума"
+
+# Abilities, ID: Aroc, New ID: A008, Ubertip, Level 1
+msgid "|cff80DD10Allow the Frontier Fort to shoot 7 targets at the same time."
+msgstr "|cff80DD10Позволяет форту поражать сразу 7 цели."
+
+# Abilities, ID: Aroc, New ID: A009, Ubertip, Level 1
+msgid "|cff80DD10Allow the Capital-City to shoot 5 targets at the same time."
+msgstr "|cff80DD10Позволяет капитолию поражать сразу 5 цели."
+
+# Abilities, ID: AHad, New ID: A00A, Name, Level 0
+msgid "|cff70DD30Morale Boost"
+msgstr "|cff70DD30Моральная поддержка"
+
+# Abilities, ID: AHad, New ID: A00A, Tooltip, Level 1
+msgid "|cff00ff00Morale Boost"
+msgstr "|cff00ff00Моральная поддержка"
+
+# Abilities, ID: Absk, New ID: A00D, Name, Level 0
+msgid "|cff70DD30Faith"
+msgstr "|cff70DD30Вера"
+
+# Abilities, ID: Absk, New ID: A00D, Tooltip, Level 1
+msgid "|cffffffffF|r|cff00ff00aith"
+msgstr "|cff00ff00Вера (|cffffcc00F|cff00ff00)"
+
+# Abilities, ID: Absk, New ID: A00D, Ubertip, Level 1
+msgid "|cff80DD10Increases attack and movement speed by 30%."
+msgstr "|cff80DD10Увеличение скорости атаки и передвижения на 30%."
+
+# Abilities, ID: Absk, New ID: A00E, Tooltip, Level 1
+msgid "|cffffffffS|r|cff00ff00acrifice"
+msgstr "|cff00ff00Ярость берсерка (|cffffcc00S|cff00ff00)"
+
+# Abilities, ID: Absk, New ID: A00E, Ubertip, Level 1
+msgid "|cff80DD10Remove half of the hit points. Increases attack speed by 70% during 60 seconds."
+msgstr "|cff80DD10Пожертвовать половиной здоровья для увеличения скорости атаки на 70% на 60 секунд."
+
+# Abilities, ID: Absk, New ID: A00E, Name, Level 0
+msgid "|cff70DD30Sacrifice"
+msgstr "|cff70DD30Ярость берсерка"
+
+# Upgrades, ID: Rhst, Tooltip, Level 1
+msgid "|cff406020Search |cffffffffR|r|cff406020eligion Training"
+msgstr "|cffEBC400Изучить религиозную подготовку (|cffffcc00R|cffEBC400)"
+
+# Upgrades, ID: Rhst, Ubertip, Level 1
+msgid "|cff60c020Increases Priest/Muslim maximum hits point by 30. Allow them to use the second ability of their religion."
+msgstr "|cff60c020Увеличение запаса здоровья целителей/мусульман на 30 ед. Возможность использования способности, соответствующей их религии."
+
+# Upgrades, ID: Rhst, Name, Level 1
+msgid "|cff00ff00Religion Training|r [ Church / Mosquee ]"
+msgstr "|cff00ff00Религиозная подготовка"
+
+# Upgrades, ID: Rhss, Tooltip, Level 1
+msgid "|cff406020Search |cffffffffM|r|cff406020ilitary Tactics - Level 1"
+msgstr "|cffEBC400Изучить военную тактику - ур. 1 (|cffffcc00M|cffEBC400)"
+
+# Upgrades, ID: Rhss, Ubertip, Level 1
+msgid "|cff60c020Add 35 Hit Points to your infantry."
+msgstr "|cff60c020Увеличение запаса здоровья пехоты на 35 ед."
+
+# Upgrades, ID: Rhss, Tooltip, Level 2
+msgid "|cff406020Search |cffffffffM|r|cff406020ilitary Tactics - Level 2"
+msgstr "|cffEBC400Изучить военную тактику - ур. 2  (|cffffcc00M|cffEBC400)"
+
+# Upgrades, ID: Rhss, Name, Level 2
+msgid "|cff00ff00Military Tactics"
+msgstr "|cff00ff00Военная тактика"
+
+# Upgrades, ID: Rhss, Name, Level 1
+msgid "|cff00ff00Military Tactics|r [Training Grounds]"
+msgstr "|cff00ff00Военная тактика"
+
+# Upgrades, ID: Robf, Tooltip, Level 1
+msgid "|cff406020Search |cffffffffF|r|cff406020ire Rocks"
+msgstr "|cffEBC400Изучить жидкий огонь (|cffffcc00F|cffEBC400)"
+
+# Upgrades, ID: Robf, Ubertip, Level 1
+msgid "|cff60c020Allow your siege engine to use fire rocks."
+msgstr "|cff60c020Позволяет вашим осадным орудиям использовать жидкий огонь."
+
+# Upgrades, ID: Rovs, Tooltip, Level 1
+msgid "|cff406020Search |cffffffffE|r|cff406020nvennomed Weapons"
+msgstr "|cffEBC400Изучить отравленное оружие (|cffffcc00E|cffEBC400)"
+
+# Upgrades, ID: Rovs, Ubertip, Level 1
+msgid "|cff60c020Allow Skirmishers and Assassins to use envennomed weapons."
+msgstr "|cff60c020Позволяет копьеметателям использовать отравленное оружие."
+
+# Upgrades, ID: Rovs, Name, Level 1
+msgid "|cff00ff00Envennomed Weapons|r [ University ]"
+msgstr "|cff00ff00Отравленное оружие"
+
+# Upgrades, ID: Reib, Name, Level 1
+msgid "|cff00ff00Improved Archery"
+msgstr "|cff00ff00Усиленные луки"
+
+# Upgrades, ID: Reib, Tooltip, Level 1
+msgid "|cff406020Search |cffffffffI|r|cff406020mproved Archery"
+msgstr "|cffEBC400Изучить усиленные луки (|cffffcc00I|cffEBC400)"
+
+# Upgrades, ID: Reib, Ubertip, Level 1
+msgid "|cff60c020Increase range of all your bowmen."
+msgstr "|cff60c020Увеличение радиуса атаки ваших лучников."
+
+# Upgrades, ID: Renb, Tooltip, Level 1
+msgid "|cff406020Search |cffffffffE|r|cff406020querry"
+msgstr "|cffEBC400Провести тренировку (|cffffcc00E|cffEBC400)"
+
+# Upgrades, ID: Renb, Ubertip, Level 1
+msgid "|cff60c020Increase speed of your infantry."
+msgstr "|cff60c020Увеличение скорости перемещения вашей пехоты."
+
+# Upgrades, ID: Renb, Name, Level 1
+msgid "|cff00ff00Equerry|r [ Barracks ]"
+msgstr "|cff00ff00Тpeниpoвкa|r"
+
+# Upgrades, ID: Rehs, Name, Level 1
+msgid "|cff00ff00Heavy Armor|r"
+msgstr "|cff00ff00Усиленная броня"
+
+# Upgrades, ID: Rehs, Tooltip, Level 1
+msgid "|cff406020Search |cffffffffH|r|cff406020eavy Armor"
+msgstr "|cffEBC400Изучить усиленную броню (|cffffcc00H|cffEBC400)"
+
+# Upgrades, ID: Rehs, Ubertip, Level 1
+msgid "|cff60c020Give to your Heavy Knights a heavy armor wich deacrease damage recieved."
+msgstr "|cff60c020Уменьшает урон, наносимый вашим тяжёлым рыцарям."
+
+# Upgrades, ID: Remk, Name, Level 1
+msgid "|cff00ff00Marksmanship|r"
+msgstr "|cff00ff00Искусство стрельбы"
+
+# Upgrades, ID: Remk, Tooltip, Level 1
+msgid "|cff406020Search |cffffffffM|r|cff406020arksmanship"
+msgstr "|cffEBC400Изучить искусство стрельбы (|cffffcc00M|cffEBC400)"
+
+# Upgrades, ID: Remk, Ubertip, Level 1
+msgid "|cff60c020Increase Damage inflicted by your bowmen."
+msgstr "|cff60c020Увеличение урона, наносимого вашими лучниками."
+
+# Upgrades, ID: Rhar, Name, Level 1
+msgid "|cff00ff00Steel Armors"
+msgstr "|cff00ff00Стальная броня"
+
+# Upgrades, ID: Rhar, Tooltip, Level 1
+msgid "|cff406020Search Steel |cffffffffA|r|cff406020rmors - Level 1"
+msgstr "|cffEBC400Изучить стальную броню - ур. 1 (|cffffcc00A|cffEBC400)"
+
+# Upgrades, ID: Rhar, Tooltip, Level 2
+msgid "|cff406020Search Steel |cffffffffA|r|cff406020rmors - Level 2"
+msgstr "|cffEBC400Изучить стальную броню - ур. 2 (|cffffcc00A|cffEBC400)"
+
+# Upgrades, ID: Rhar, Tooltip, Level 3
+msgid "|cff406020Search Steel |cffffffffA|r|cff406020rmors - Level 3"
+msgstr "|cffEBC400Изучить стальную броню - ур. 1 (|cffffcc00A|cffEBC400)"
+
+# Upgrades, ID: Rhar, Tooltip, Level 4
+msgid "|cff406020Search Steel |cffffffffA|r|cff406020rmors - Level 4"
+msgstr "|cffEBC400Изучить стальную броню - ур. 4 (|cffffcc00A|cffEBC400)"
+
+# Upgrades, ID: Rhar, Tooltip, Level 5
+msgid "|cff406020Search Steel |cffffffffA|r|cff406020rmors - Level 5"
+msgstr "|cffEBC400Изучить стальную броню - ур. 5 (|cffffcc00A|cffEBC400)"
+
+# Upgrades, ID: Rhar, Ubertip, Level 1
+msgid "|cff60c020Increase armor of all your steel armored units."
+msgstr "|cff60c020Увеличение защиты все юнитов, использующих тяжёлую броню."
+
+# Upgrades, ID: Rhri, Name, Level 1
+msgid "|cff00ff00Long Range"
+msgstr "|cff00ff00Длинноствольные мушкеты"
+
+# Upgrades, ID: Rhri, Tooltip, Level 1
+msgid "|cff406020Search |cffffffffL|r|cff406020ong Range"
+msgstr "|cffEBC400Изучить длинноствольные мушкеты (|cffffcc00L|cffEBC400)"
+
+# Upgrades, ID: Rhri, Ubertip, Level 1
+msgid "|cff60c020Increase attack range of your Riflemen."
+msgstr "|cff60c020Увеличение дальности атаки ваших мушкетеров."
+
+# Upgrades, ID: Rhde, Name, Level 1
+msgid "|cff00ff00Defend"
+msgstr "|cff00ff00Защита"
+
+# Upgrades, ID: Rhde, Tooltip, Level 1
+msgid "|cff406020Search |cffffffffD|r|cff406020efend"
+msgstr "|cffEBC400Изучить защиту (|cffffcc00D|cffEBC400)"
+
+# Upgrades, ID: Rhde, Ubertip, Level 1
+msgid "|cff60c020Allow your infantry to use the Defend Position."
+msgstr "|cff60c020Позволяет вашим солдатам укрываться за щитом от вражеских стрел."
+
+# Upgrades, ID: Rhan, Name, Level 1
+msgid "|cff00ff00War Horse Training|r [ University ]"
+msgstr "|cff00ff00Ceлeкция|r"
+
+# Upgrades, ID: Rhan, Tooltip, Level 1
+msgid "|cff406020Search |cffffffffW|r|cff406020ar Horse Training - Level 1"
+msgstr "|cffEBC400Провести селекцию - ур. 1 (|cffffcc00W|cffEBC400)"
+
+# Upgrades, ID: Rhan, Ubertip, Level 1
+msgid "|cff60c020Add 35 Hit Points to your cavalry."
+msgstr "|cff60c020Увелижение запаса здоровья кавалерии на 35 ед."
+
+# Upgrades, ID: Rhan, Tooltip, Level 2
+msgid "|cff406020Search |cffffffffW|r|cff406020ar Horse Training - Level 2"
+msgstr "|cffEBC400Провести селекцию - ур. 2 (|cffffcc00W|cffEBC400)"
+
+# Upgrades, ID: Rhan, Ubertip, Level 2
+msgid "|cff60c020Add 35 Hit Points to your cavalry and increase their movement speed."
+msgstr "|cff60c020Увелижение запаса здоровья кавалерии на 35 ед, увеличение скорости ее передвижения."
+
+# Upgrades, ID: Rhan, Name, Level 2
+msgid "|cff00ff00War Horse Training"
+msgstr "|cff00ff00Ceлeкция|r"
+
+# Upgrades, ID: Rhan, Tooltip, Level 3
+msgid "|cff406020Search |cffffffffW|r|cff406020ar Horse Training - Level 3"
+msgstr "|cffEBC400Провести селекцию - ур. 3 (|cffffcc00W|cffEBC400)"
+
+# Upgrades, ID: Rhme, Name, Level 1
+msgid "|cff00ff00Steel Weapons"
+msgstr "|cff00ff00Стальное оружие"
+
+# Upgrades, ID: Rhme, Tooltip, Level 1
+msgid "|cff406020Search Steel |cffffffffW|r|cff406020eapons - Level 1"
+msgstr "|cffEBC400Изучить стальное оружие - ур. 1 (|cffffcc00W|cffEBC400)"
+
+# Upgrades, ID: Rhme, Tooltip, Level 2
+msgid "|cff406020Search Steel |cffffffffW|r|cff406020eapons - Level 2"
+msgstr "|cffEBC400Изучить стальное оружие - ур. 2 (|cffffcc00W|cffEBC400)"
+
+# Upgrades, ID: Rhme, Tooltip, Level 3
+msgid "|cff406020Search Steel |cffffffffW|r|cff406020eapons - Level 3"
+msgstr "|cffEBC400Изучить стальное оружие - ур. 3 (|cffffcc00W|cffEBC400)"
+
+# Upgrades, ID: Rhme, Tooltip, Level 4
+msgid "|cff406020Search Steel |cffffffffW|r|cff406020eapons - Level 4"
+msgstr "|cffEBC400Изучить стальное оружие - ур. 4 (|cffffcc00W|cffEBC400)"
+
+# Upgrades, ID: Rhme, Tooltip, Level 5
+msgid "|cff406020Search Steel |cffffffffW|r|cff406020eapons - Level 5"
+msgstr "|cffEBC400Изучить стальное оружие - ур. 5 (|cffffcc00W|cffEBC400)"
+
+# Upgrades, ID: Rhme, Ubertip, Level 1
+msgid "|cff60c020Increase damage of your steel equiped units."
+msgstr "|cff60c020Увеличение урона, наносимого юнитами, использующими стальное оружие."
+
+# Upgrades, ID: Ropg, Name, Level 1
+msgid "|cff00ff00Pillage|r [ University ]"
+msgstr "|cff00ff00Mapoдёpcтвo|r"
+
+# Upgrades, ID: Ropg, Tooltip, Level 1
+msgid "|cff406020Search |cffffffffP|r|cff406020illage"
+msgstr "|cffEBC400Изучить мародерство (|cffffcc00P|cffEBC400)"
+
+# Upgrades, ID: Ropg, Ubertip, Level 1
+msgid "|cff60c020Allow your units to take gold and wood when they attack a building."
+msgstr "|cff60c020Позволяет вашим юнитам грабить вражествие постройки при атаке, получая золото и древисину."
+
+# Upgrades, ID: Rotr, Name, Level 1
+msgid "|cff00ff00Regeneration [ University ]"
+msgstr "|cff00ff00Регенерация|r"
+
+# Upgrades, ID: Rotr, Tooltip, Level 1
+msgid "|cff406020Search |cffffffffR|r|cff406020egeneration"
+msgstr "|cffEBC400Изучить регенерацию (|cffffcc00R|cffEBC400)"
+
+# Upgrades, ID: Rotr, Ubertip, Level 1
+msgid "|cff60c020Increase hp regen of your units."
+msgstr "|cff60c020Увеличение скорости регенерации здоровья."
+
+# Upgrades, ID: Rhpt, Name, Level 1
+msgid "|cff00ff00Fire Knowledge|r"
+msgstr "|cff00ff00Oгнeннaя пoддepжкa|r"
+
+# Upgrades, ID: Rhpt, Tooltip, Level 1
+msgid "|cff406020Search |cffffffffF|r|cff406020ire Knowledge"
+msgstr "|cffEBC400Изучить огненную поддержку (|cffffcc00F|cffEBC400)"
+
+# Upgrades, ID: Rhpt, Ubertip, Level 1
+msgid "|cff60c020Increase number of Fire Arrows bowmen can support."
+msgstr "|cff60c020Увеличение числа огненных стрел, которое могут переносить ваши лучники."
+
+# Upgrades, ID: Rhac, Name, Level 1
+msgid "|cff00ff00Improved Architecture"
+msgstr "|cff00ff00Архитектура"
+
+# Upgrades, ID: Rhac, Name, Level 4
+msgid "|cff00ff00Granit Architecture"
+msgstr "|cff00ff00Архитектура"
+
+# Upgrades, ID: Rhac, Tooltip, Level 1
+msgid "|cff406020Search |cffffffffI|r|cff406020mproved Architecture - Level 1"
+msgstr "|cffEBC400Изучить архитектуру - ур. 1 (|cffffcc00I|cffEBC400)"
+
+# Upgrades, ID: Rhac, Tooltip, Level 2
+msgid "|cff406020Search |cffffffffI|r|cff406020mproved Architecture - Level 2"
+msgstr "|cffEBC400Изучить архитектуру - ур. 2 (|cffffcc00I|cffEBC400)"
+
+# Upgrades, ID: Rhac, Tooltip, Level 3
+msgid "|cff406020Search |cffffffffI|r|cff406020mproved Architecture - Level 3"
+msgstr "|cffEBC400Изучить архитектуру - ур. 3 (|cffffcc00I|cffEBC400)"
+
+# Upgrades, ID: Rhac, Ubertip, Level 1
+msgid "|cff60c020Increase Hit Points and Armor of your buildings."
+msgstr "|cff60c020Увеличение прочности ваших построек."
+
+# Upgrades, ID: Rhfs, Tooltip, Level 1
+msgid "|cff406020Search |cffffffffF|r|cff406020ragmentation Bombs"
+msgstr "|cffEBC400Изучить осколочные снаряды (|cffffcc00F|cffEBC400)"
+
+# Upgrades, ID: Rhfs, Ubertip, Level 1
+msgid "|cff60c020Increase Damage of your Mortar on light armored and unarmored units."
+msgstr "|cff60c020Увеличение урона, наносимого вашими орудийными расчетами слабозащищённым войскам противника."
+
+# Upgrades, ID: Rhpm, Name, Level 1
+msgid "|cff00ff00Bag|r [ University ]"
+msgstr "|cff00ff00Рюкзак|r"
+
+# Upgrades, ID: Rhpm, Tooltip, Level 1
+msgid "|cff406020Search |cffffffffB|r|cff406020ag"
+msgstr "|cffEBC400Изучить рюкзак (|cffffcc00B|cffEBC400)"
+
+# Upgrades, ID: Rhpm, Ubertip, Level 1
+msgid "|cff60c020Allow your units to take and use items."
+msgstr "|cff60c020Позволяет вашим юнитам переносить и использовать предметы."
+
+# Upgrades, ID: Robk, Tooltip, Level 1
+msgid "|cff406020Search |cffffffffS|r|cff406020iege Mastering"
+msgstr "|cffEBC400Изучить осаду"
+
+# Upgrades, ID: Robk, Ubertip, Level 1
+msgid "|cff60c020Increase range of all your siege engine."
+msgstr "|cff60c020Увеличение радиуса действия всех ваших осадных орудий."
+
+# Upgrades, ID: Robk, Name, Level 1
+msgid "|cff00ff00Siege Mastering|"
+msgstr "|cff00ff00Ocaдa"
+
+# Upgrades, ID: Rhra, Name, Level 1
+msgid "|cff00ff00Black Powder"
+msgstr "|cff00ff00Чёрный порох|r"
+
+# Upgrades, ID: Rhra, Ubertip, Level 2
+msgid "|cff60c020Increase damage inflicted by your powder's users."
+msgstr "|cff60c020Увеличение урона, наносимого юнитами, которые используют пороховое оружие."
+
+# Upgrades, ID: Rhra, Tooltip, Level 1
+msgid "|cff406020Search |cffffffffB|r|cff406020lack Powder - Level 1"
+msgstr "|cffEBC400Изучить чёрный порох - ур. 1 (|cffffcc00B|cffEBC400)"
+
+# Upgrades, ID: Rhra, Tooltip, Level 2
+msgid "|cff406020Search |cffffffffB|r|cff406020lack Powder - Level 2"
+msgstr "|cffEBC400Изучить чёрный порох - ур. 2 (|cffffcc00B|cffEBC400)"
+
+# Upgrades, ID: Rora, Name, Level 1
+msgid "|cff00ff00Steel Arrows"
+msgstr "|cff00ff00Стальные стрелы"
+
+# Upgrades, ID: Rora, Tooltip, Level 1
+msgid "|cff406020Search Steel A|cffffffffr|r|cff406020rrows - Level 1"
+msgstr "|cffEBC400Изучить стальные стрелы - ур. 1 (|cffffcc00R|cffEBC400)"
+
+# Upgrades, ID: Rora, Tooltip, Level 2
+msgid "|cff406020Search Steel A|cffffffffr|r|cff406020rrows - Level 2"
+msgstr "|cffEBC400Изучить стальные стрелы - ур. 2 (|cffffcc00R|cffEBC400)"
+
+# Upgrades, ID: Rora, Tooltip, Level 3
+msgid "|cff406020Search Steel A|cffffffffr|r|cff406020rrows - Level 3"
+msgstr "|cffEBC400Изучить стальные стрелы - ур. 3 (|cffffcc00R|cffEBC400)"
+
+# Upgrades, ID: Rora, Tooltip, Level 4
+msgid "|cff406020Search Steel A|cffffffffr|r|cff406020rrows - Level 4"
+msgstr "|cffEBC400Изучить стальные стрелы - ур. 4 (|cffffcc00R|cffEBC400)"
+
+# Upgrades, ID: Rora, Tooltip, Level 5
+msgid "|cff406020Search Steel A|cffffffffr|r|cff406020rrows - Level 5"
+msgstr "|cffEBC400Изучить стальные стрелы - ур. 5 (|cffffcc00R|cffEBC400)"
+
+# Upgrades, ID: Rora, Ubertip, Level 1
+msgid "|cff60c020Increase armor of your ranged units."
+msgstr "|cff60c020Увеличение защиты ваших войск дальнего боя."
+
+# Upgrades, ID: Rhla, Name, Level 1
+msgid "|cff00ff00Improved Leather"
+msgstr "|cff00ff00Выделанная кожа"
+
+# Upgrades, ID: Rhla, Tooltip, Level 1
+msgid "|cff406020Search |cffffffffI|r|cff406020mproved Leather - Level 1"
+msgstr "|cffEBC400Изучить выделанную кожу - ур. 1 (|cffffcc00I|cffEBC400)"
+
+# Upgrades, ID: Rhla, Tooltip, Level 2
+msgid "|cff406020Search |cffffffffI|r|cff406020mproved Leather - Level 2"
+msgstr "|cffEBC400Изучить выделанную кожу - ур. 2 (|cffffcc00I|cffEBC400)"
+
+# Upgrades, ID: Rhla, Tooltip, Level 3
+msgid "|cff406020Search |cffffffffI|r|cff406020mproved Leather - Level 3"
+msgstr "|cffEBC400Изучить выделанную кожу - ур. 3 (|cffffcc00I|cffEBC400)"
+
+# Upgrades, ID: Rhla, Tooltip, Level 4
+msgid "|cff406020Search |cffffffffI|r|cff406020mproved Leather - Level 4"
+msgstr "|cffEBC400Изучить выделанную кожу - ур. 4 (|cffffcc00I|cffEBC400)"
+
+# Upgrades, ID: Rhla, Tooltip, Level 5
+msgid "|cff406020Search |cffffffffI|r|cff406020mproved Leather - Level 5"
+msgstr "|cffEBC400Изучить выделанную кожу - ур. 5 (|cffffcc00I|cffEBC400)"
+
+# Upgrades, ID: Rhla, Ubertip, Level 1
+msgid "|cff60c020Increase armor of your leather armored units."
+msgstr "|cff60c020Увеличение защиты юнитов, использующих кожаные доспехи."
+
+# Upgrades, ID: Rolf, Tooltip, Level 1
+msgid "|cff406020Search |cffffffffC|r|cff406020areenage - Level 1"
+msgstr "|cffEBC400Изучить усиленный каркас - ур. 1 (|cffffcc00C|cffEBC400)"
+
+# Upgrades, ID: Rolf, Ubertip, Level 1
+msgid "|cff60c020Add 250 Hits Points to your Ships."
+msgstr "|cff60c020Увеличение запаса прочности ваших судов на 250 ед."
+
+# Upgrades, ID: Rolf, Tooltip, Level 2
+msgid "|cff406020Search |cffffffffC|r|cff406020areenage - Level 2"
+msgstr "|cffEBC400Изучить усиленный каркас - ур. 2 (|cffffcc00C|cffEBC400)"
+
+# Upgrades, ID: Rolf, Tooltip, Level 3
+msgid "|cff406020Search |cffffffffC|r|cff406020areenage - Level 3"
+msgstr "|cffEBC400Изучить усиленный каркас - ур. 3 (|cffffcc00C|cffEBC400)"
+
+# Upgrades, ID: Rolf, Ubertip, Level 2
+msgid "|cff60c020Add 125 Hits Points to your Ships."
+msgstr "|cff60c020Увеличение запаса прочности ваших судов на 125 ед."
+
+# Upgrades, ID: Rolf, Name, Level 2
+msgid "|cff00ff00Careenage [ University ]"
+msgstr "|cff00ff00Усиленный каркас"
+
+# Upgrades, ID: Rhse, Tooltip, Level 1
+msgid "|cff406020Search |cffffffffS|r|cff406020entry"
+msgstr "|cffEBC400Изучить усиленный караул (|cffffcc00S|cffEBC400)"
+
+# Upgrades, ID: Rhse, Ubertip, Level 1
+msgid "|cff60c020Increases sight range of all your towers.|r"
+msgstr "|cff60c020Увеличение радиуса обзора всех ваших башен."
+
+# Upgrades, ID: Reuv, Tooltip, Level 1
+msgid "|cff406020Search |cffffffffN|r|cff406020ight Vision"
+msgstr "|cffEBC400Изучить ночное зрение (|cffffcc00N|cffEBC400)"
+
+# Upgrades, ID: Reuv, Ubertip, Level 1
+msgid "|cff60c020Allow Scout Towers and Assassins to see on the night as far as the day."
+msgstr "|cff60c020Позволяет вашим башням видеть ночью так же далеко, как и днем."
+
+# Upgrades, ID: Reuv, Name, Level 1
+msgid "|cff00ff00Night Vision"
+msgstr "|cff00ff00Ночное зрение"
+
+# Upgrades, ID: Rosp, Name, Level 1
+msgid "|cff00ff00Illumination|r [ Church / Mosquee ]"
+msgstr "|cff00ff00Пpocвeщeниe|r"
+
+# Upgrades, ID: Rosp, Tooltip, Level 1
+msgid "|cff406020Search |cffffffffI|r|cff406020llumination"
+msgstr "|cffEBC400Изучить просвещение (|cffffcc00I|cffEBC400)"
+
+# Upgrades, ID: Rosp, Ubertip, Level 1
+msgid "|cff60c020Allow priests to attack ennemies."
+msgstr "|cff60c020Позволяет вашим священникам атаковать врага."
+
+# Upgrades, ID: Rhlh, Name, Level 1
+msgid "|cff00ff00Faith"
+msgstr "|cff00ff00Вера"
+
+# Upgrades, ID: Rhlh, Tooltip, Level 1
+msgid "|cff406020Search |cffffffffF|r|cff406020aith"
+msgstr "|cffEBC400Изучить веру (|cffffcc00F|cffEBC400)"
+
+# Upgrades, ID: Rhlh, Ubertip, Level 1
+msgid "|cff60c020Increase hit points of your priest/muslim."
+msgstr "|cff60c020Увеличение запаса здоровья ващих священников/имамов."
+
+# Upgrades, ID: Rhlh, Tooltip, Level 2
+msgid "|cff406020Search |cffffffffH|r|cff406020oliness"
+msgstr "|cffEBC400Изучить святость (|cffffcc00H|cffEBC400)"
+
+# Upgrades, ID: Rhlh, Name, Level 2
+msgid "|cff00ff00Holiness"
+msgstr "|cff00ff00Святость"
+
+# Upgrades, ID: Rhfc, Name, Level 1
+msgid "|cff00ff00Enthusiasm|r [ Church / Mosquee ]"
+msgstr "|cff00ff00Энтузиазм|r"
+
+# Upgrades, ID: Rhfc, Tooltip, Level 1
+msgid "|cff406020Search |cffffffffE|r|cff406020nthusiasm"
+msgstr "|cffEBC400Изучить энтузиазм (|cffffcc00E|cffEBC400)"
+
+# Upgrades, ID: Rhfc, Ubertip, Level 1
+msgid "|cff60c020Increase movement speed of your priests/muslims."
+msgstr "|cff60c020Увеличение скорость перемещения ваших священников/имамов."
+
+# Upgrades, ID: Rwdm, Name, Level 1
+msgid "|cff00ff00War Drum [ University ]"
+msgstr "|cff00ff00Боевые барабаны"
+
+# Upgrades, ID: Rwdm, Ubertip, Level 1
+msgid "|cff60c020Allow Supply Caravan to bear War Drum."
+msgstr "|cff60c020Оснащение обозов боевыми барабанами."
+
+# Upgrades, ID: Rwdm, Tooltip, Level 1
+msgid "|cff406020Searc W|cffffffffa|r|cff406020r Drum"
+msgstr "|cffEBC400Изучить боевые барабаны (|cffffcc00W|cffEBC400)"
+
+# Upgrades, ID: Rhgb, Tooltip, Level 1
+msgid "|cff406020Search B|cffffffffa|r|cff406020listics"
+msgstr "|cffEBC400Изучить баллистику (|cffffcc00A|cffEBC400)"
+
+# Upgrades, ID: Rhgb, Ubertip, Level 1
+msgid "|cff60c020Increases attack range of all defensive structures."
+msgstr "|cff60c020Увеличение дальности атаки всех ваших защитных построек."
+
+# Upgrades, ID: Rhgb, Name, Level 1
+msgid "|cff00ff00Balistics|r"
+msgstr "|cff00ff00Бaллиcтикa|r"
+
+# Upgrades, ID: Rome, Name, Level 1
+msgid "|cff00ff00Leet Training [Spez Barracks]"
+msgstr "|cff00ff00Тренировка элиты"
+
+# Upgrades, ID: Rome, Tooltip, Level 1
+msgid "|cff406020Search Leet |cffffffffT|r|cff406020raining"
+msgstr "|cffEBC400Провести тренировку элиты (|cffffcc00T|cffEBC400)"
+
+# Upgrades, ID: Rome, Ubertip, Level 1
+msgid "|cff60c020Improves your special units to leet special units which are stronger. Increases hit points by 60, damages and armor."
+msgstr "|cff60c020Увеличение силы атаки, защиты и запаса здоровья ваших спец. юнитов."
+
+# Upgrades, ID: Rhrt, New ID: R001, Name, Level 1
+msgid "|cff00ff00Cardinal Council"
+msgstr "|cff00ff00Встреча кардиналов"
+
+# Upgrades, ID: Rhrt, New ID: R001, Tooltip, Level 1
+msgid "|cff406020Search |cffffffffC|r|cff406020ardinal Council"
+msgstr "|cffEBC400Провести встречу кардиналов (|cffffcc00C|cffEBC400)"
+
+# Upgrades, ID: Rhrt, New ID: R001, Ubertip, Level 1
+msgid "|cff60c020Allow the training of the Christian Cardinals."
+msgstr "|cff60c020Позволяет тренировать кардиналов."
+
+# Upgrades, ID: Rews, New ID: R002, Name, Level 1
+msgid "|cffC0C0C0Feudal Age"
+msgstr "|cffC0C0C0Эпоха феодализма"
+
+# Upgrades, ID: Rews, New ID: R003, Name, Level 1
+msgid "|cffC0C0C0Castle Age"
+msgstr "|cffC0C0C0Эпоха замков"
+
+# Upgrades, ID: Rews, New ID: R004, Name, Level 1
+msgid "|cffC0C0C0Imperial Age"
+msgstr "|cffC0C0C0Эпоха империй"
+
+# Upgrades, ID: Rews, New ID: R005, Name, Level 1
+msgid "|cffC0C0C0Powder Age"
+msgstr "|cffC0C0C0Эпоха пороха"
+

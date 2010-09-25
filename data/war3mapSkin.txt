@@ -1,0 +1,91 @@
+[CustomSkin]
+InfoPanelIconDamageChaos=war3mapImported\Lance.blp
+InfoPanelIconDamageChaosNeutral=war3mapImported\Lance [No Upgrade].blp
+InfoPanelIconDamageHero=war3mapImported\Blunt.blp
+InfoPanelIconDamageHeroNeutral=war3mapImported\Blunt [No Upgrade].BLP
+InfoPanelIconDamageMagic=war3mapImported\Cannon Powder.blp
+InfoPanelIconArmorDivine=war3mapImported\Heavy Metal.blp
+InfoPanelIconArmorDivineNeutral=war3mapImported\Heavy Metal [No Upgrade].BLP
+InfoPanelIconArmorHero=war3mapImported\Heavy Leather.blp
+InfoPanelIconArmorHeroNeutral=war3mapImported\Heavy Leather [No Upgrade].BLP
+InfoPanelIconArmorLarge=war3mapImported\Cavalry.blp
+InfoPanelIconArmorLargeNeutral=war3mapImported\Cavalry [No Upgrade].BLP
+InfoPanelIconArmorMedium=war3mapImported\Light Metal.blp
+InfoPanelIconArmorSmall=war3mapImported\Leather.blp
+InfoPanelIconArmorSmallNeutral=war3mapImported\Leather [No Upgrade].BLP
+InfoPanelIconDamageMagicNeutral=war3mapImported\Cannon Powder [No Upgrade].BLP
+InfoPanelIconArmorNormalNeutral=UI\Widgets\Console\Human\infocard-neutral-armor-medium.blp
+InfoPanelIconArmorMediumNeutral=war3mapImported\Light Metal [No Upgrade].BLP
+InfoPanelIconArmorNormal=UI\Widgets\Console\Human\infocard-armor-medium.blp
+SupplyIcon=ReplaceableTextures\CommandButtons\BTNHoldPosition.blp
+InfoPanelIconFood=ReplaceableTextures\CommandButtons\BTNHoldPosition.blp
+LumberIcon=ReplaceableTextures\CommandButtons\BTNBundleOfLumber.blp
+GoldIcon=ReplaceableTextures\CommandButtons\BTNChestOfGold.blp
+CommandStop=ReplaceableTextures\CommandButtons\BTNHD_Stop_A.blp
+CommandAttack=ReplaceableTextures\CommandButtons\BTNHD_Attack.blp
+CommandMove=ReplaceableTextures\CommandButtons\BTNHD_Move_A.blp
+CommandHoldPosition=ReplaceableTextures\CommandButtons\BTNHD_Hold_Position.blp
+
+[FrameDef]
+PLAYER_DEFEATED=%s был побежден.
+PLAYER_LEFT_GAME=%s вышел из игры.
+DAMAGETIP_CHAOS=TRIGSTR_5402
+ARMORTIP_FORT=TRIGSTR_5382
+ARMORTIP_LARGE=TRIGSTR_5384
+DAMAGETIP_HERO=TRIGSTR_5397
+ARMORTIP_HERO=TRIGSTR_5383
+ARMORTIP_SMALL=TRIGSTR_5387
+DAMAGETIP_MAGIC=TRIGSTR_5400
+QUESTSMAIN=О карте
+ARMORTIP_NORMAL=TRIGSTR_5386
+ARMORTIP_MEDIUM=TRIGSTR_5385
+DAMAGETIP_NORMAL=TRIGSTR_6512
+DAMAGETIP_MELEE=TRIGSTR_6511
+DAMAGETIP_PIERCE=TRIGSTR_5401
+QUESTSOPTIONAL=Информация
+KEY_QUESTS=|cff0EABC3Помощь (|CffffffffF9|R|cff0EABC3)
+QUESTS=|cff0EABC3Помощь (|CffffffffF9|R|cff0EABC3)
+QUESTDESCRIPTION=Информация
+DAMAGETIP_SIEGE=TRIGSTR_5403
+
+DAMAGE_NORMAL=Тип: |Cffffcc00Режущее|R
+DAMAGE_MELEE=Тип: |Cffffcc00Режущее|R
+DAMAGE_PIERCE=Тип : |Cffffcc00Стрелы|R
+DAMAGE_CHAOS=Тип: |Cffffcc00Колющий|r
+DAMAGE_HERO=Тип: |Cffffcc00Тупое|R
+DAMAGE_MAGIC=Тип: |Cffffcc00Пороховое|R
+DAMAGE_SIEGE=Тип: |Cffffcc00Осадное|R
+
+ARMOR_DIVINE=Тип: |Cffffcc00Тяжелая броня|R
+ARMOR_LARGE=Тип: |Cffffcc00Кавалерийская броня|R
+ARMOR_HERO=Тип: |Cffffcc00Кожаная броня|R
+ARMOR_SMALL=Тип: |Cffffcc00Легкая броня|R
+ARMOR_NORMAL=Тип: |Cffffcc00Стальная броня|R
+ARMOR_MEDIUM=Тип: |Cffffcc00Медная броня|R
+ARMOR_FORT=Тип: |Cffffcc00Усиленная броня|R
+ARMOR_NONE=Тип: |Cffffcc00Без брони|R
+
+ARMORTIP_NONE=TRIGSTR_5389
+ARMORTIP_DIVINE=TRIGSTR_5388
+
+RESOURCE_UBERTIP_GOLD=Вы получаете 100 золота с каждого города в виде налогов.
+RESOURCE_UBERTIP_LUMBER=Вы получаете 50 дерева с каждого города в виде налогов.
+COLON_AGILITY=|cffCDB79EЛовкость:|r|cffff6500
+AGILITY=|cffCDB79EЛовкость|r|cffff6500
+COLON_STRENGTH=|cffCDB79EСила:|r|cffff6500
+STRENGTH=|cffCDB79EСила|r|cffff6500
+COLON_INTELLECT=|cffCDB79EРазум:|r|cffff6500
+INTELLIGENCE=|cffCDB79EРазум|r|cffff6500
+INTELLECT=|cffCDB79EРазум|r|cffff6500
+COLON_ARMOR=|cffCDB79EЗащита:|r|r|cffff6500
+COLON_DAMAGE=|cffCDB79EАтака:|r|r|cffff6500
+KEY_ALLIES=|cffFF8422Союзы|r (|Cfffed312F11|r)
+UPPER_BUTTON_ALLY_TIP=|cffFF8422Союзы|r (|Cfffed312F11|r)
+COLON_HERO_ATTRIBUTES=|cffCDB79EХарактеристики короля|r
+SHARE_VISION=Обзор
+ALLY=Мир
+SHARE_UNITS=Общие войска
+
+[Errors]
+Nofood=Для продолжения производства захватите больше городов
+Controlrevoked=Вы утратили контроль над армией игрока %s.
