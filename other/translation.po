@@ -1685,7 +1685,7 @@ msgid ""
 msgstr ""
 "|cff00ff00Цвет|cffCDB79E: оранжевый\n"
 "|cffE2913FСпец. юнит|cffCDB79E: мародёр \n"
-"|cff3FC1E2Рекомендуемые союзники|cffCDB79E: Бени Гания, Египет или Испания"
+"|cff3FC1E2Рекомендуемые союзники|cffCDB79E: Бану Гания, Египет или Испания"
 
 # Units, ID: Nalc, New ID: N005, Tooltip
 msgid "|cffCDB79EChoose |cffFF8422Almohads|r"
@@ -2141,7 +2141,7 @@ msgstr "|cffD7C845Может быть улучшен до рынка или ор
 
 # Units, ID: Nalc, New ID: N00N, Name
 msgid "Beni Ghaniya"
-msgstr "Бени Гания"
+msgstr "Бану Гания"
 
 # Units, ID: Nalc, New ID: N00N, Ubertip
 msgid ""
@@ -2155,11 +2155,11 @@ msgstr ""
 
 # Units, ID: Nalc, New ID: N00N, Tooltip
 msgid "|cffCDB79EChoose |cff4050CCBeni Ghaniya"
-msgstr "|cffCDB79EВыбрать |cff4050CCБени Ганию"
+msgstr "|cffCDB79EВыбрать |cff4050CCБану Ганию"
 
 # Units, ID: Hpal, New ID: H020, Name
 msgid "Sultan of Beni Ghaniya"
-msgstr "Султан Бени Гании"
+msgstr "Эмир Бану Гании"
 
 # Units, ID: hfoo, New ID: h021, Name
 msgid "|cffFF7F24Muslim Fanatic"
