@@ -94,11 +94,11 @@ msgstr "|cffff6500Северная Шотландия"
 
 # Units, ID: htow, New ID: h00E, Tooltip
 msgid "|cffEE7600Build a Town Center (Y)"
-msgstr "|cffEE7600Построить городской центр (Y) "
+msgstr "|cffEE7600Построить городской центр (Y)"
 
 # Units, ID: htow, New ID: h00E, Ubertip
 msgid "|cff006400A city, she generates taxes.|r"
-msgstr "|cff006400Город, платит налоги.|r "
+msgstr "|cff006400Город, платит налоги.|r"
 
 # Units, ID: htow, New ID: h02E, Name
 msgid "|cffff6500Rewal"
@@ -1089,7 +1089,7 @@ msgstr "|cffFF8824Построить транспортный корабль  (|
 
 # Units, ID: hbot, New ID: h610, Ubertip
 msgid "|cffCDB79ECan embark and debark your units."
-msgstr "|cffCDB79EНеобходимо для перевозки ваших войск по морю."
+msgstr "|cffCDB79EНеобходим для перевозки ваших войск по морю."
 
 # Units, ID: hdes, New ID: h611, Name
 msgid "|cffD0BB70Pirate Frigate"
@@ -1381,15 +1381,15 @@ msgstr ""
 
 # Units, ID: htow, New ID: h004, Name
 msgid "|cff00ff00Léon"
-msgstr "|cff00ff00Леон "
+msgstr "|cff00ff00Леон"
 
 # Units, ID: htow, New ID: h005, Name
 msgid "|cffff6500Mosyr"
-msgstr "|cffff6500Мозырь "
+msgstr "|cffff6500Мозырь"
 
 # Units, ID: htow, New ID: h006, Name
 msgid "|cffff6500Gomel"
-msgstr "|cffff6500Гомель "
+msgstr "|cffff6500Гомель"
 
 # Units, ID: Hpal, New ID: H61Z, Name
 msgid "King of Holy Roman Empire"
@@ -1561,7 +1561,7 @@ msgstr "|cffff6500Гавр"
 
 # Units, ID: htow, New ID: h013, Name
 msgid "|cff00ff00Crete"
-msgstr "|cff00ff00Крит "
+msgstr "|cff00ff00Крит"
 
 # Units, ID: htow, New ID: h014, Name
 msgid "|cff00ff00Chypre"
@@ -1635,7 +1635,7 @@ msgstr ""
 
 # Units, ID: Nalc, New ID: N002, Tooltip
 msgid "|cffCDB79EChoose |cff3050BBKingdom of France|r"
-msgstr "|cffCDB79EВыбрать |cff3050BBФранцию|r "
+msgstr "|cffCDB79EВыбрать |cff3050BBФранцию|r"
 
 # Units, ID: Nalc, New ID: N003, Name
 msgid "England"
@@ -1653,7 +1653,7 @@ msgstr ""
 
 # Units, ID: Nalc, New ID: N003, Tooltip
 msgid "|cffCDB79EChoose |cffC00020Kingdom of England|r"
-msgstr "|cffCDB79EВыбрать |cffC00020Англию|r "
+msgstr "|cffCDB79EВыбрать |cffC00020Англию|r"
 
 # Units, ID: Nalc, New ID: N004, Name
 msgid "Hungary"
@@ -1671,7 +1671,7 @@ msgstr ""
 
 # Units, ID: Nalc, New ID: N004, Tooltip
 msgid "|cffCDB79EChoose |cff00EEDDCrown of Hungary|r"
-msgstr "|cffCDB79EВыбрать |cff00EEDDВенгрию|r "
+msgstr "|cffCDB79EВыбрать |cff00EEDDВенгрию|r"
 
 # Units, ID: Nalc, New ID: N005, Name
 msgid "Morocoo"
@@ -1707,7 +1707,7 @@ msgstr ""
 
 # Units, ID: Nalc, New ID: N006, Tooltip
 msgid "|cffCDB79EChoose |cff00ff00Seldjouks Turks|r"
-msgstr "|cffCDB79EВыбрать |cff00ff00Турцию|r "
+msgstr "|cffCDB79EВыбрать |cff00ff00Турцию|r"
 
 # Units, ID: Nalc, New ID: N007, Name
 msgid "Egypt"
@@ -1721,11 +1721,11 @@ msgid ""
 msgstr ""
 "|cff00ff00Цвет|cffCDB79E: коричневый\n"
 "|cffE2913FСпец. юнит|cffCDB79E: пустынный мечник\n"
-"|cff3FC1E2Рекомендуемые союзники|cffCDB79E: Ливан или Бени Гания"
+"|cff3FC1E2Рекомендуемые союзники|cffCDB79E: Ливан или Бану Гания"
 
 # Units, ID: Nalc, New ID: N007, Tooltip
 msgid "|cffCDB79EChoose |cff703020Sultanat of Egypt|r"
-msgstr "|cffCDB79EВыбрать |cff703020Египет|r "
+msgstr "|cffCDB79EВыбрать |cff703020Египет|r"
 
 # Units, ID: Nalc, New ID: N008, Name
 msgid "Germany"
@@ -1743,7 +1743,7 @@ msgstr ""
 
 # Units, ID: Nalc, New ID: N008, Tooltip
 msgid "|cffCDB79EChoose |cff905030Holy Roman Empire|r"
-msgstr "|cffCDB79EВыбрать |cff905030Германию|r "
+msgstr "|cffCDB79EВыбрать |cff905030Германию|r"
 
 # Units, ID: Nalc, New ID: N009, Name
 msgid "Spain"
@@ -1761,7 +1761,7 @@ msgstr ""
 
 # Units, ID: Nalc, New ID: N009, Tooltip
 msgid "|cffCDB79EChoose |cffF090EECastilla y Léon|r"
-msgstr "|cffCDB79EВыбрать |cffF090EEИспанию|r "
+msgstr "|cffCDB79EВыбрать |cffF090EEИспанию|r"
 
 # Units, ID: Nalc, New ID: N00A, Name
 msgid "Italy"
@@ -1797,7 +1797,7 @@ msgstr ""
 
 # Units, ID: Nalc, New ID: N00C, Tooltip
 msgid "|cffCDB79EChoose |cff306020Poland-Lithuania|r"
-msgstr "|cffCDB79EВыбрать |cff306020Польшу|r "
+msgstr "|cffCDB79EВыбрать |cff306020Польшу|r"
 
 # Units, ID: Nalc, New ID: N00D, Name
 msgid "Sweden"
@@ -1811,11 +1811,11 @@ msgid ""
 msgstr ""
 "|cff00ff00Цвет|cffCDB79E: светло-синий\n"
 "|cffE2913FСпец. юнит|cffCDB79E: фрегат\n"
-"|cff3FC1E2Рекомендуемые союзники|cffCDB79E: ФИНЛЯНДИЯ"
+"|cff3FC1E2Рекомендуемые союзники|cffCDB79E: Финляндия"
 
 # Units, ID: Nalc, New ID: N00D, Tooltip
 msgid "|cffCDB79EChoose |cff005090Kingdom of Sweden|r"
-msgstr "|cffCDB79EВыбрать |cff005090Швецию|r "
+msgstr "|cffCDB79EВыбрать |cff005090Швецию|r"
 
 # Units, ID: Nalc, New ID: N00E, Name
 msgid "Ukraine"
@@ -1833,7 +1833,7 @@ msgstr ""
 
 # Units, ID: Nalc, New ID: N00E, Tooltip
 msgid "|cffCDB79EChoose |cffffff00Crown of Ukraine|r"
-msgstr "|cffCDB79EВыбрать |cffffff00Украину|r "
+msgstr "|cffCDB79EВыбрать |cffffff00Украину|r"
 
 # Units, ID: Nalc, New ID: N00F, Name
 msgid "Kiev"
@@ -1851,7 +1851,7 @@ msgstr ""
 
 # Units, ID: Nalc, New ID: N00F, Tooltip
 msgid "|cffCDB79EChoose |cff3060CCKievan Russ|r"
-msgstr "|cffCDB79EВыбрать |cff3060CCКиевскую Русь|r "
+msgstr "|cffCDB79EВыбрать |cff3060CCКиевскую Русь|r"
 
 # Units, ID: Nalc, New ID: N00G, Name
 msgid "North Russia"
@@ -1869,7 +1869,7 @@ msgstr ""
 
 # Units, ID: Nalc, New ID: N00G, Tooltip
 msgid "|cffCDB79EChoose |cffD020DDDuchy of Moskva|r"
-msgstr "|cffCDB79EВыбрать |cffD020DDМосковию|r "
+msgstr "|cffCDB79EВыбрать |cffD020DDМосковию|r"
 
 # Units, ID: Nalc, New ID: N00H, Name
 msgid "Finland"
@@ -1883,11 +1883,11 @@ msgid ""
 msgstr ""
 "|cff00ff00Цвет|cffCDB79E: серый\n"
 "|cffE2913FСпец. юнит|cffCDB79E: рыцарь\n"
-"|cff3FC1E2Рекомендуемые союзники|cffCDB79E: ШВЕЦИЯ"
+"|cff3FC1E2Рекомендуемые союзники|cffCDB79E: Швеция"
 
 # Units, ID: Nalc, New ID: N00H, Tooltip
 msgid "|cffCDB79EChoose |cff8a8a8aCrown of Finland|r"
-msgstr "|cffCDB79EВыбрать |cff8a8a8aФинляндию|r "
+msgstr "|cffCDB79EВыбрать |cff8a8a8aФинляндию|r"
 
 # Units, ID: Nalc, New ID: N00I, Name
 msgid "Greece"
@@ -1905,7 +1905,7 @@ msgstr ""
 
 # Units, ID: Nalc, New ID: N00I, Tooltip
 msgid "|cffCDB79EChoose |cffFF6010Empire of Greece|r"
-msgstr "|cffCDB79EВыбрать |cffFF6010Грецию|r "
+msgstr "|cffCDB79EВыбрать |cffFF6010Грецию|r"
 
 # Units, ID: Nalc, New ID: N00J, Name
 msgid "Liban"
@@ -1923,7 +1923,7 @@ msgstr ""
 
 # Units, ID: Nalc, New ID: N00J, Tooltip
 msgid "|cffCDB79EChoose |cff900020Liban Union|r"
-msgstr "|cffCDB79EВыбрать |cff900020Ливан|r "
+msgstr "|cffCDB79EВыбрать |cff900020Ливан|r"
 
 # Units, ID: ntav, New ID: n00K, Name
 msgid "North Countries"
@@ -1939,7 +1939,7 @@ msgstr "Король Египта"
 
 # Units, ID: Hpal, New ID: H01I, Name
 msgid "Leader of Liban"
-msgstr "Лидер Либана"
+msgstr "Лидер Ливана"
 
 # Units, ID: Hpal, New ID: H01J, Name
 msgid "Duke of Moskva"
@@ -1973,7 +1973,7 @@ msgstr ""
 
 # Units, ID: Nalc, New ID: N00B, Tooltip
 msgid "|cffCDB79EChoose |cffffff55Byzantine Empire|r"
-msgstr "|cffCDB79EВыбрать |cffffff55Византию|r "
+msgstr "|cffCDB79EВыбрать |cffffff55Византию|r"
 
 # Units, ID: hdes, New ID: h009, Name
 msgid "|cffD0BB70Pirate Warship"
@@ -2045,7 +2045,7 @@ msgstr "|cffFF7F24Пороховой заряд"
 
 # Units, ID: hwtw, New ID: h01O, Ubertip
 msgid "|cffD7C845Choose when destroy it. You can also active auto-cast system."
-msgstr "|cffD7C845Используется для быстрого уничтожения вражеский построек."
+msgstr "|cffD7C845Используется для быстрого уничтожения вражеских построек."
 
 # Units, ID: hwtw, New ID: h01O, Tooltip
 msgid "|cff89D745Set up E|cffffffffx|r|cff89D745plosive Barrels"
@@ -2121,7 +2121,7 @@ msgstr "|cffD7C845Вернуть 50% цены требушета"
 
 # Units, ID: htow, New ID: h01S, Name
 msgid "|cff00ff00Castamoni"
-msgstr "|cff00ff00Кастамоню "
+msgstr "|cff00ff00Кастамоню"
 
 # Units, ID: htow, New ID: h01V, Name
 msgid "|cff00ff00Ad'ora"
@@ -2179,7 +2179,7 @@ msgstr ""
 
 # Units, ID: htow, New ID: h024, Name
 msgid "|cffff6500Petrozavodsk"
-msgstr "|cffff6500Петрозаводск "
+msgstr "|cffff6500Петрозаводск"
 
 # Units, ID: hfoo, New ID: h025, Tooltip
 msgid "|cffFF8824Hire an Emergency |cffffffffP|r|cffFF8824ikeman"
@@ -2321,15 +2321,15 @@ msgstr "|cffFF8824Нанять пустынного воителя (|cffffcc00S|
 
 # Units, ID: htow, New ID: h046, Name
 msgid "|cffff6500Königsberg"
-msgstr "|cffff6500Кёнигсберг "
+msgstr "|cffff6500Кёнигсберг"
 
 # Units, ID: htow, New ID: h04D, Name
 msgid "|cffff6500Oslo"
-msgstr "|cffff6500Осло "
+msgstr "|cffff6500Осло"
 
 # Units, ID: htow, New ID: h04E, Name
 msgid "|cffff6500Kiruna"
-msgstr "|cffff6500Кируна "
+msgstr "|cffff6500Кируна"
 
 # Units, ID: Nalc, New ID: N00S, Name
 msgid "Random Country"
@@ -2357,7 +2357,7 @@ msgstr "|cffEBC400Купить костяной щит (|cffffcc00B|cffEBC400)"
 
 # Items, ID: sksh, Name
 msgid "|cff00ff00Bone Shield"
-msgstr "|cff00ff00Костяной щик"
+msgstr "|cff00ff00Костяной щит"
 
 # Items, ID: sksh, Ubertip
 msgid "|cff60c020Increase armor by 4 and give a Permanent Bonus of Life."
@@ -2729,7 +2729,7 @@ msgstr "|cffEBC400Купить 1000 ед. |cffffcc00золота|r|cffEBC400 з�
 
 # Items, ID: lmbr, New ID: I007, Name
 msgid "Lumber [ 50 ]"
-msgstr "Древисина [ 50 ]"
+msgstr "Древесина [ 50 ]"
 
 # Items, ID: lmbr, New ID: I007, Ubertip
 msgid "|cff40602050 |cff88ff88Lumber|r |cff406020to 50 |cffffcc00Gold|r|cff406020."
@@ -2737,7 +2737,7 @@ msgstr "|cffEBC400Купить 50 ед. |cff88ff88дерева|r|cffEBC400 за 
 
 # Items, ID: lmbr, New ID: I600, Name
 msgid "Lumber [ 200 ]"
-msgstr "Древисина [ 200 ]"
+msgstr "Древесина [ 200 ]"
 
 # Items, ID: lmbr, New ID: I600, Ubertip
 msgid "|cff406020200 |cff88ff88Lumber|r |cff406020to 200 |cffffcc00Gold|r|cff406020."
@@ -2745,7 +2745,7 @@ msgstr "|cffEBC400Купить 200 ед. |cff88ff88дерева|r|cffEBC400 за
 
 # Items, ID: lmbr, New ID: I601, Name
 msgid "Lumber [ 500 ]"
-msgstr "Древисина [ 500 ]"
+msgstr "Древесина [ 500 ]"
 
 # Items, ID: lmbr, New ID: I601, Ubertip
 msgid "|cff406020500 |cff88ff88Lumber|r |cff406020to 500 |cffffcc00Gold|r|cff406020."
@@ -2753,7 +2753,7 @@ msgstr "|cffEBC400Купить 500 ед. |cff88ff88дерева|r|cffEBC400 за
 
 # Items, ID: lmbr, New ID: I605, Name
 msgid "Lumber [ 1000 ]"
-msgstr "Древисина [ 1000 ]"
+msgstr "Древесина [ 1000 ]"
 
 # Items, ID: lmbr, New ID: I605, Ubertip
 msgid "|cff4060201000 |cff88ff88Lumber|r |cff406020to 1000 |cffffcc00Gold|r|cff406020."
@@ -3089,21 +3089,21 @@ msgid ""
 "\n"
 "Increase the bonus at each level."
 msgstr ""
-"|cff80DD10Увеличение скорости атаки и передвижение войск, находящихся рядом с королем.\n"
+"|cff80DD10Увеличение скорости атаки и передвижения войск, находящихся рядом с королем.\n"
 "\n"
 "Бонус растет с каждым уровнем способности."
 
 # Abilities, ID: AOae, Ubertip, Level 1
 msgid "|cff80DD10Increase attack speed and movement speed of all nearby units."
-msgstr "|cff80DD10Увеличение скорости атаки и передвижение войск, находящихся рядом с королем."
+msgstr "|cff80DD10Увеличение скорости атаки и передвижения войск, находящихся рядом с королем."
 
 # Abilities, ID: AOae, Ubertip, Level 2
 msgid "|cff80DD20Increase attack speed and movement speed of all nearby units."
-msgstr "|cff80DD20Увеличение скорости атаки и передвижение войск, находящихся рядом с королем."
+msgstr "|cff80DD20Увеличение скорости атаки и передвижения войск, находящихся рядом с королем."
 
 # Abilities, ID: AOae, Ubertip, Level 3
 msgid "|cff80DD30Increase attack speed and movement speed of all nearby units."
-msgstr "|cff80DD30Увеличение скорости атаки и передвижение войск, находящихся рядом с королем."
+msgstr "|cff80DD30Увеличение скорости атаки и передвижения войск, находящихся рядом с королем."
 
 # Abilities, ID: AOae, Tooltip, Level 1
 msgid "|cff00ff00Command Aura - [|cfffffffflevel 1]"
@@ -3387,25 +3387,25 @@ msgid ""
 "\n"
 "Increase the bouncing damage bonus at each level."
 msgstr ""
-"|cff80DD10Возвращает врагам часть нанесенном вам и дружественным войскам урона.\n"
+"|cff80DD10Возвращает врагам часть нанесенного вам и дружественным войскам урона.\n"
 "\n"
 "Бонус увеличивается с каждым уровнем."
 
 # Abilities, ID: AEah, Ubertip, Level 1
 msgid "|cff80DD10Give a damage shield to nearby units."
-msgstr "|cff80DD10Возвращает врагам часть нанесенном вам и дружественным войскам урона."
+msgstr "|cff80DD10Возвращает врагам часть нанесенного вам и дружественным войскам урона."
 
 # Abilities, ID: AEah, Ubertip, Level 2
 msgid "|cff80DD20Give a damage shield to nearby units."
-msgstr "|cff80DD20Возвращает врагам часть нанесенном вам и дружественным войскам урона."
+msgstr "|cff80DD20Возвращает врагам часть нанесенного вам и дружественным войскам урона."
 
 # Abilities, ID: AEah, Ubertip, Level 3
 msgid "|cff80DD30Give a damage shield to nearby units."
-msgstr "|cff80DD30Возвращает врагам часть нанесенном вам и дружественным войскам урона."
+msgstr "|cff80DD30Возвращает врагам часть нанесенного вам и дружественным войскам урона."
 
 # Abilities, ID: AEah, Ubertip, Level 4
 msgid "|cff80DD40Give a damage shield to nearby units."
-msgstr "|cff80DD40Возвращает врагам часть нанесенном вам и дружественным войскам урона."
+msgstr "|cff80DD40Возвращает врагам часть нанесенного вам и дружественным войскам урона."
 
 # Abilities, ID: AHwe, Name, Level 0
 msgid "|cff70DD30Body Guards"
@@ -3529,11 +3529,11 @@ msgstr "Чума"
 
 # Abilities, ID: Aroc, New ID: A008, Ubertip, Level 1
 msgid "|cff80DD10Allow the Frontier Fort to shoot 7 targets at the same time."
-msgstr "|cff80DD10Позволяет форту поражать сразу 7 цели."
+msgstr "|cff80DD10Позволяет форту поражать сразу 7 целей."
 
 # Abilities, ID: Aroc, New ID: A009, Ubertip, Level 1
 msgid "|cff80DD10Allow the Capital-City to shoot 5 targets at the same time."
-msgstr "|cff80DD10Позволяет капитолию поражать сразу 5 цели."
+msgstr "|cff80DD10Позволяет капитолию поражать сразу 5 целей."
 
 # Abilities, ID: AHad, New ID: A00A, Name, Level 0
 msgid "|cff70DD30Morale Boost"
@@ -3729,7 +3729,7 @@ msgstr "|cffEBC400Провести селекцию - ур. 1 (|cffffcc00W|cffEB
 
 # Upgrades, ID: Rhan, Ubertip, Level 1
 msgid "|cff60c020Add 35 Hit Points to your cavalry."
-msgstr "|cff60c020Увелижение запаса здоровья кавалерии на 35 ед."
+msgstr "|cff60c020Увеличение запаса здоровья кавалерии на 35 ед."
 
 # Upgrades, ID: Rhan, Tooltip, Level 2
 msgid "|cff406020Search |cffffffffW|r|cff406020ar Horse Training - Level 2"
@@ -3737,7 +3737,7 @@ msgstr "|cffEBC400Провести селекцию - ур. 2 (|cffffcc00W|cffEB
 
 # Upgrades, ID: Rhan, Ubertip, Level 2
 msgid "|cff60c020Add 35 Hit Points to your cavalry and increase their movement speed."
-msgstr "|cff60c020Увелижение запаса здоровья кавалерии на 35 ед, увеличение скорости ее передвижения."
+msgstr "|cff60c020Увеличение запаса здоровья кавалерии на 35 ед., увеличение скорости ее передвижения."
 
 # Upgrades, ID: Rhan, Name, Level 2
 msgid "|cff00ff00War Horse Training"
@@ -3785,7 +3785,7 @@ msgstr "|cffEBC400Изучить мародерство (|cffffcc00P|cffEBC400)"
 
 # Upgrades, ID: Ropg, Ubertip, Level 1
 msgid "|cff60c020Allow your units to take gold and wood when they attack a building."
-msgstr "|cff60c020Позволяет вашим юнитам грабить вражествие постройки при атаке, получая золото и древисину."
+msgstr "|cff60c020Позволяет вашим юнитам грабить вражествие постройки при атаке, получая золото и древесину."
 
 # Upgrades, ID: Rotr, Name, Level 1
 msgid "|cff00ff00Regeneration [ University ]"
