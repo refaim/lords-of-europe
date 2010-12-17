@@ -3143,7 +3143,7 @@ msgstr "|cff70DD30Целительная волна"
 
 # Abilities, ID: AOhw, Researchtip, Level 0
 msgid "|cff00ff00Learn |cffffffffH|r|cff00ff00ealing Wave|r - [level %d|r]"
-msgstr "|cff00ff00Волна исцеления - ур. %d (|cffffcc00H|cff00ff00)"
+msgstr "|cff00ff00Целительная волна - ур. %d (|cffffcc00H|cff00ff00)"
 
 # Abilities, ID: AOhw, Researchubertip, Level 0
 msgid "|cff80DD10The King can heal a chain of friendly unit, the healing wave bounces on all units, reducing his heal at each target."
@@ -3155,23 +3155,23 @@ msgstr "|cff80DD10Заряд положительной энергии, посл
 
 # Abilities, ID: AOhw, Tooltip, Level 1
 msgid "H|cff00ff00ealing Wave - [|cfffffffflevel 1]"
-msgstr "|cff00ff00Волна исцеления - ур. 1 (|cffffcc00H|cff00ff00)"
+msgstr "|cff00ff00Целительная волна - ур. 1 (|cffffcc00H|cff00ff00)"
 
 # Abilities, ID: AOhw, Tooltip, Level 2
 msgid "H|cff00ff00ealing Wave - [|cfffffffflevel 2]"
-msgstr "|cff00ff00Волна исцеления - ур. 2 (|cffffcc00H|cff00ff00)"
+msgstr "|cff00ff00Целительная волна - ур. 2 (|cffffcc00H|cff00ff00)"
 
 # Abilities, ID: AOhw, Tooltip, Level 3
 msgid "H|cff00ff00ealing Wave - [|cfffffffflevel 3]"
-msgstr "|cff00ff00Волна исцеления - ур. 3 (|cffffcc00H|cff00ff00)"
+msgstr "|cff00ff00Целительная волна - ур. 3 (|cffffcc00H|cff00ff00)"
 
 # Abilities, ID: AOhw, Tooltip, Level 4
 msgid "H|cff00ff00ealing Wave - [|cfffffffflevel 4]"
-msgstr "|cff00ff00Волна исцеления - ур. 4 (|cffffcc00H|cff00ff00)"
+msgstr "|cff00ff00Целительная волна - ур. 4 (|cffffcc00H|cff00ff00)"
 
 # Abilities, ID: AOhw, Tooltip, Level 5
 msgid "H|cff00ff00ealing Wave - [|cfffffffflevel 5]"
-msgstr "|cff00ff00Волна исцеления - ур. 5 (|cffffcc00H|cff00ff00)"
+msgstr "|cff00ff00Целительная волна - ур. 5 (|cffffcc00H|cff00ff00)"
 
 # Abilities, ID: Aamk, Name, Level 0
 msgid "|cff70DD30Combat Skills"
